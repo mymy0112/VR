@@ -1,0 +1,19 @@
+****** Result for Image/Page 1 ******
+A673 E540
+B729 F917
+C687 G861
+D597 H412
+****** Result for Image/Page 2 ******
+
+A442 E686
+B454 F457
+C905 G746
+D580 H892
+
+
+****** Result for Image/Page 3 ******
+
+A431 E701
+B741 F439
+C921 G745
+D663 H912

@@ -1,0 +1,10869 @@
+****** Result for Image/Page 1 ******
+Shortcuts	
+Pickup	A 648 E1015	
+B641 F 788	
+C 699 G 388	
+D D 681 H 739	
+****** Result for Image/Page 2 ******
+Shortcuts	
+Pickup	
+A 646	E 1014	
+B B 647 F F 788	
+C 707 G 389	
+D D 674 H 739	
+****** Result for Image/Page 3 ******
+Shortcuts	
+Pickup	
+A 643	E 1013	
+B B 663 F787	
+C 703 G 389	
+D D 660H739	
+****** Result for Image/Page 4 ******
+Shortcuts	
+Pickup	
+A 618	E 1013	
+B B 690 F787	
+C728 G 390	
+D D 633 H 739	
+****** Result for Image/Page 5 ******
+Shortcuts	
+Pickup	
+A 601	E 1013	
+B B 722 F 787	
+C748 G 389	
+D D 601 H 739	
+****** Result for Image/Page 6 ******
+Shortcuts	
+Pickup	A 587 E E 1013	
+B B 782 F788	
+C766 G 388	
+D 546H739	
+****** Result for Image/Page 7 ******
+Shortcuts	
+Pickup	A 564	E 1014	
+B B815 F788	
+c805 G 388	
+D511 H739	
+****** Result for Image/Page 8 ******
+Shortcuts	
+Pickup	
+A 554	E 1015	
+B B 847 F789	
+C825 G 388	
+D D 481 H 740	
+****** Result for Image/Page 9 ******
+Shortcuts	
+Pickup	A A 540 E 1017	
+B910 F790	
+C869 G 387	
+D 421H 740	
+****** Result for Image/Page 10 ******
+Shortcuts	
+Pickup	
+A 533	E 1028	
+B976 F801	
+c894 G 383	
+D 390H 742	
+****** Result for Image/Page 11 ******
+Shortcuts	
+Pickup	
+A 524	E 1028	
+B B 1011 F802	
+C946 G 384	
+D 330H 742	
+****** Result for Image/Page 12 ******
+Shortcuts	
+Pickup	A 521	E 1029	
+B B 1045 F802	
+C973 G 384	
+D D 301 H 742	
+****** Result for Image/Page 13 ******
+Shortcuts	
+Pickup	
+A 518	E 1031	
+B B1095 F 803	
+C1001	G 382	
+D277H743	
+****** Result for Image/Page 14 ******
+Shortcuts	
+Pickup	A517 E E 1031	
+B1111 F 803	
+C1036 G 382	
+D D 247 H743	
+****** Result for Image/Page 15 ******
+Shortcuts	
+Pickup	
+A517	E 1031	
+B1120 F803	
+C1041G 382	
+D 243H 743	
+****** Result for Image/Page 16 ******
+Shortcuts	
+Pickup	A517 E 1029	
+B-1 F 803	
+C1041 G 384	
+D243 H 742	
+****** Result for Image/Page 17 ******
+Shortcuts	
+Pickup	A A 520 E 1028	
+B-1 F 802	
+C1044 G 385	
+D 240H741	
+****** Result for Image/Page 18 ******
+Shortcuts	
+Pickup	A 523	E 1026	
+B1155 F 800	
+C1052 G 390	
+D 229H743	
+****** Result for Image/Page 19 ******
+Shortcuts	
+Pickup	A 527 E E 1024	
+B1155F798	
+C1086 G 394	
+D211H745	
+****** Result for Image/Page 20 ******
+Shortcuts	
+A 530 E E 1015	
+Pickup	
+B-1	F 788	
+C1080 G 389	
+D D 204 H744	
+****** Result for Image/Page 21 ******
+Shortcuts	
+Pickup	
+A 531 E 1003	
+B-1F767	
+C 1080	G 389	
+D219 H 750	
+****** Result for Image/Page 22 ******
+Shortcuts	
+Pickup	A 534 E 984	
+B1137 F746	
+C393 G 398	
+D D 224 H 750	
+****** Result for Image/Page 23 ******
+Shortcuts	
+Pickup	A 538 E E 940	
+B1147F715	
+C1025 G 428	
+D D 235 H 740	
+****** Result for Image/Page 24 ******
+Shortcuts	
+Pickup	A A 539E915	
+B1122 F704	
+C1031 G 449	
+D 233H730	
+****** Result for Image/Page 25 ******
+Shortcuts	
+Pickup	A 541 E892	
+B1144	F692	
+C1053 G467	
+D 221H725	
+****** Result for Image/Page 26 ******
+Shortcuts	
+Pickup	
+A 537	E 852	
+B1150	F675	
+C1051 G 503	
+D 215	H 714	
+****** Result for Image/Page 27 ******
+Shortcuts	
+Pickup	A 537 E E 831	
+B1149 F683	
+C1050 G 524	
+D 215 H697	
+****** Result for Image/Page 28 ******
+Shortcuts	
+Pickup	
+A 537 E 790	
+B1149	F699	
+C1049 G 568	
+D 215	H 675	
+****** Result for Image/Page 29 ******
+Shortcuts	
+Pickup	A A 536 E767	
+B1153 F 711	
+C1054 G 590	
+D214 H 646	
+****** Result for Image/Page 30 ******
+Shortcuts	
+Pickup	
+A 534	E 748	
+B1159 F728	
+C1060 G612	
+D212H623	
+****** Result for Image/Page 31 ******
+Shortcuts	
+Pickup	A 533 E733	
+B1159 F 792	
+C1061 G 633	
+D212H562	
+****** Result for Image/Page 32 ******
+Shortcuts	
+Pickup	A 534 E724	
+B1149 F823	
+C1042 G 669	
+D 234H529	
+****** Result for Image/Page 33 ******
+Shortcuts	
+Pickup	A 529	E 728	
+B1132 F 856	
+C1042 G 683	
+D 251 H500	
+****** Result for Image/Page 34 ******
+Shortcuts	
+Pickup	
+A 526	E 748	
+B1108 F917	
+C1022 G 705	
+D 249H452	
+****** Result for Image/Page 35 ******
+Shortcuts	
+Pickup	
+A 525	E 748	
+B1109 F935	
+C1023G 705	
+D 249H443	
+****** Result for Image/Page 36 ******
+Shortcuts	
+Pickup	A A 523E757	
+B1107 F941	
+C1026 G715	
+D 249H434	
+****** Result for Image/Page 37 ******
+Shortcuts	
+Pickup	A519 E758	
+B1110 F941	
+C1033 G715	
+D D 246 H434	
+****** Result for Image/Page 38 ******
+Shortcuts	
+Pickup	A 505 E758	
+B1137	F942	
+C1069 G715	
+D D 236 H 434	
+****** Result for Image/Page 39 ******
+Shortcuts	
+Pickup	A 502 E 759	
+B1144 F942	
+C1078 G715	
+D 234H434	
+****** Result for Image/Page 40 ******
+Shortcuts	
+Pickup	A511E754	
+B-1	F 945	
+C1064 G715	
+D 242H439	
+****** Result for Image/Page 41 ******
+Shortcuts	
+Pickup	A 513 E738	
+B-1	F 936	
+C1046 G725	
+D 243H433	
+****** Result for Image/Page 42 ******
+Shortcuts	
+Pickup	A 521	E 715	
+B-1	F 933	
+C1012 G 744	
+D D 249 H 433	
+****** Result for Image/Page 43 ******
+Shortcuts	
+Pickup	A A 548 E 716	
+B-1	F929	
+C1008 G 738	
+D 251H431	
+****** Result for Image/Page 44 ******
+Shortcuts	
+Pickup	
+A 548	E716	
+B-1 F 926	
+C998 G 737	
+D D 220 H435	
+****** Result for Image/Page 45 ******
+Shortcuts	
+Pickup	A 570E703	
+B-1 F 921	
+C1006 G 742	
+D D 195 H434	
+****** Result for Image/Page 46 ******
+Shortcuts	
+Pickup	
+A 581	E 684	
+B1185 F923	
+C1025 G 777	
+D D 192 H 426	
+****** Result for Image/Page 47 ******
+Shortcuts	
+Pickup	A A 596 E 664	
+B1208F939	
+C1082 G 785	
+D137 H406	
+****** Result for Image/Page 48 ******
+Shortcuts	
+Pickup	
+A 599	E 663	
+B 1230	F940	
+C1118	G 786	
+D121H405	
+****** Result for Image/Page 49 ******
+Shortcuts	
+Pickup	A 616	E 663	
+B-1	F 941	
+C1109	G 786	
+D110H405	
+****** Result for Image/Page 50 ******
+Shortcuts	
+Pickup	A615 E E 662	
+B-1	F 941	
+C1104 G 786	
+D 107H404	
+****** Result for Image/Page 51 ******
+Shortcuts	
+Pickup	A 622 E E 661	
+B-1 F940	
+C1087 G 788	
+D 109	H 404	
+****** Result for Image/Page 52 ******
+Shortcuts	
+Pickup	A A 637E 661	
+B-1	F 940	
+C1048 G788	
+D124 H 404	
+****** Result for Image/Page 53 ******
+Shortcuts	
+Pickup	A 646	E 661	
+B-1 F940	
+C1050 G 788	
+D 120H404	
+****** Result for Image/Page 54 ******
+Shortcuts	
+Pickup	A 644 E E 661	
+B B 1224 F939	
+C1060	G 788	
+D D 108 H404	
+****** Result for Image/Page 55 ******
+Shortcuts	
+Pickup	A 644	E 661	
+B 1236F939	
+C1108	G 788	
+D 108 H405	
+****** Result for Image/Page 56 ******
+Shortcuts	
+Pickup	A 604 E E 660	
+B-1 F 939	
+C1132	G 788	
+D 103H405	
+****** Result for Image/Page 57 ******
+Shortcuts	
+Pickup	A A 593 E 660	
+B1272 F939	
+C1143	G 788	
+D113H405	
+****** Result for Image/Page 58 ******
+Shortcuts	
+A 592 E 660	
+Pickup	
+B-1 F 939	
+C1143 G788	
+D115H405	
+****** Result for Image/Page 59 ******
+Shortcuts	
+Pickup	A 592 E E 660	
+B-1 F939	
+C1143	G 788	
+D115H403	
+****** Result for Image/Page 60 ******
+Shortcuts	
+Pickup	A 594 E E 661	
+B-1	F 940	
+C1143	G 789	
+D113H402	
+****** Result for Image/Page 61 ******
+Shortcuts	
+Pickup	
+A 596	E 662	
+B-1 F 942	
+C1143	G 789	
+D112H401	
+****** Result for Image/Page 62 ******
+Shortcuts	
+A 598 E 667	
+Pickup	
+B-1 F 945	
+C1131	G 783	
+D119 H H397	
+****** Result for Image/Page 63 ******
+Shortcuts	
+Pickup	
+A 600	E 669	
+B-1 F 945	
+C1108	G 786	
+D110H396	
+****** Result for Image/Page 64 ******
+Shortcuts	
+Pickup	A 616 E673	
+B-1	F 947	
+C 1074 G 780	
+D D 122 H394	
+****** Result for Image/Page 65 ******
+Shortcuts	
+Pickup	A 629	E 675	
+B-1	F 947	
+C1042	G 778	
+D134H394	
+****** Result for Image/Page 66 ******
+Shortcuts	
+Pickup	A 629	E 678	
+B-1 F948	
+C 1014G776	
+D134H394	
+****** Result for Image/Page 67 ******
+Shortcuts	
+Pickup	
+A 646	E 682	
+B-1 F 948	
+C 1005	G 772	
+D 154	H 393	
+****** Result for Image/Page 68 ******
+Shortcuts	
+Pickup	
+A 645	E 683	
+B-1	F 948	
+C 1006 G771	
+D 154H393	
+****** Result for Image/Page 69 ******
+Shortcuts	
+Pickup	A 643 E 684	
+B-1 F947	
+C 1007 G771	
+D 155H393	
+****** Result for Image/Page 70 ******
+Shortcuts	
+Pickup	A 641 E E 695	
+B-1	F 956	
+C1006 G771	
+D 157 H 388	
+****** Result for Image/Page 71 ******
+Shortcuts	
+Pickup	A 631	E 704	
+B1135 F 966	
+C1001 G 775	
+D170H381	
+****** Result for Image/Page 72 ******
+Shortcuts	
+Pickup	
+A612 E 702	
+B1135 F967	
+C994 G 774	
+D191H379	
+****** Result for Image/Page 73 ******
+Shortcuts	
+Pickup	
+A 560	E 702	
+B-1 F 967	
+C 980 G 775	
+D D 252 H379	
+****** Result for Image/Page 74 ******
+Shortcuts	
+Pickup	A 523 E703	
+B B1030 F967	
+C960 G774	
+D313 H H 381	
+****** Result for Image/Page 75 ******
+Shortcuts	
+Pickup	A513E704	
+B B 1008 F 968	
+C950 G772	
+D 337H382	
+****** Result for Image/Page 76 ******
+Shortcuts	
+Pickup	A 509 E705	
+B998 F967	
+C946 G 771	
+D D 347 H H 387	
+****** Result for Image/Page 77 ******
+Shortcuts	
+Pickup	A510 E E702	
+B997 F966	
+C945 G777	
+D D 348 H H387	
+****** Result for Image/Page 78 ******
+Shortcuts	
+Pickup	A A 509E700	
+B B 992 F964	
+C942 G 773	
+D D 352 H H 387	
+****** Result for Image/Page 79 ******
+Shortcuts	
+Pickup	A512 E697	
+B992 F966	
+C942 G 774	
+D351 H 386	
+****** Result for Image/Page 80 ******
+Shortcuts	
+Pickup	
+A 513	E 696	
+B991 F965	
+C941 G 776	
+D D 351 H 385	
+****** Result for Image/Page 81 ******
+Shortcuts	
+Pickup	
+A 510	E 696	
+B B 985 F965	
+C939 G 777	
+D356 H 384	
+****** Result for Image/Page 82 ******
+Shortcuts	
+Pickup	A 504 E E 695	
+B975 F966	
+C936 G778	
+D D 368 H 383	
+****** Result for Image/Page 83 ******
+Shortcuts	
+Pickup	
+A 504	E 695	
+B975 F966	
+C936 G779	
+D 369H383	
+****** Result for Image/Page 84 ******
+Shortcuts	
+Pickup	A A 504 E 695	
+B975 F966	
+C935 G 779	
+D D 369 H 384	
+****** Result for Image/Page 85 ******
+Shortcuts	
+Pickup	
+A 504	E 695	
+B975 F965	
+C935 G778	
+D369 H 385	
+****** Result for Image/Page 86 ******
+Shortcuts	
+Pickup	
+A 505	E 695	
+B974 F963	
+C935 G779	
+D 369H 388	
+****** Result for Image/Page 87 ******
+Shortcuts	
+Pickup	A 505 E E 694	
+B974 F963	
+C935 G777	
+D D 369 H388	
+****** Result for Image/Page 88 ******
+Shortcuts	
+Pickup	
+A 504 E 694	
+B974 F963	
+C935 G777	
+D 369H388	
+****** Result for Image/Page 89 ******
+Shortcuts	
+Pickup	A A 504 E 694	
+B974 F964	
+C935 G 777	
+D D 369 H H 387	
+****** Result for Image/Page 90 ******
+Shortcuts	
+Pickup	A 505 E E 693	
+B B972 F964	
+C933 G778	
+D371H386	
+****** Result for Image/Page 91 ******
+Shortcuts	
+Pickup	
+A 510	E 693	
+B971 F 968	
+C925 G 777	
+D376H 381	
+****** Result for Image/Page 92 ******
+Shortcuts	
+Pickup	
+A510	E 693	
+B B 965 F969	
+C925 G 778	
+D376 H379	
+****** Result for Image/Page 93 ******
+Shortcuts	
+Pickup	A510	E 693	
+B B 965 F969	
+C925	G 780	
+D376 H H 376	
+****** Result for Image/Page 94 ******
+Shortcuts	
+Pickup	A 510 E503	
+B B 965 F970	
+C925 G 781	
+D376 H H 375	
+****** Result for Image/Page 95 ******
+Shortcuts	
+Pickup	
+A510	E 502	
+B B 965 F970	
+C924 G 782	
+D376H374	
+****** Result for Image/Page 96 ******
+Shortcuts	
+Pickup	A 510	E E 501	
+B B 964 F970	
+C 924 G784	
+D 377 H373	
+****** Result for Image/Page 97 ******
+Shortcuts	
+Pickup	A 510	E E 501	
+B B964 F971	
+C924 G 783	
+D377 H372	
+****** Result for Image/Page 98 ******
+Shortcuts	
+Pickup	
+A 510	E 500	
+B965 F972	
+C924 G 784	
+D377 H 372	
+****** Result for Image/Page 99 ******
+Shortcuts	
+Pickup	
+A 510	E 500	
+B B 964 F973	
+C924 G786	
+D 377 H 372	
+****** Result for Image/Page 100 ******
+Shortcuts	
+Pickup	A 537 | E 697	
+B B 965 F973	
+C 900 G 785	
+D D 380 H373	
+****** Result for Image/Page 101 ******
+Shortcuts	
+Pickup	A 527 E 698	
+B B 948 F974	
+C875 G 784	
+D 388H375	
+****** Result for Image/Page 102 ******
+Shortcuts	
+Pickup	
+A 572 E E 696	
+B B 909 F973	
+C843 G 783	
+D416	H 376	
+****** Result for Image/Page 103 ******
+Shortcuts	
+Pickup	A A 597 | E 695	
+B B 887 F972	
+C782 G 783	
+D 435H377	
+****** Result for Image/Page 104 ******
+Shortcuts	
+Pickup	A 650 E695	
+B B 852 F972	
+C 751 G 782	
+D D 472 H 378	
+****** Result for Image/Page 105 ******
+Shortcuts	
+Pickup	
+A 678	E 695	
+B B 836 F971	
+C C 688 G 782	
+D491 H 378	
+****** Result for Image/Page 106 ******
+Shortcuts	
+Pickup	
+A 729	E 694	
+B798 F971	
+C658 G 782	
+D376H377	
+****** Result for Image/Page 107 ******
+Shortcuts	
+Pickup	A 753 E 695	
+B777 F971	
+C 601	G 783	
+D370 H 377	
+****** Result for Image/Page 108 ******
+Shortcuts	
+Pickup	
+A 798	E 696	
+B B 730 F970	
+C 569 G 781	
+D 384H378	
+****** Result for Image/Page 109 ******
+Shortcuts	
+Pickup	
+A 816	E 696	
+B710 F 970	
+C533	G 780	
+D 389H379	
+****** Result for Image/Page 110 ******
+Shortcuts	
+Pickup	A 849 E696	
+B B 697 F969	
+C517	G 779	
+D D 393 H 380	
+****** Result for Image/Page 111 ******
+Shortcuts	
+Pickup	A 849	E 697	
+B B679 F969	
+C506	G 779	
+D D 695 H380	
+****** Result for Image/Page 112 ******
+Shortcuts	
+Pickup	A 868 E 697	
+B 677 F969	
+C C488 G779	
+D711 H 381	
+****** Result for Image/Page 113 ******
+Shortcuts	
+Pickup	A A 866 E697	
+B B670 F F 969	
+C C 488 G779	
+D711 H 381	
+****** Result for Image/Page 114 ******
+Shortcuts	
+Pickup	A913 E 696	
+B B643 F969	
+C437 G 779	
+D D 761 H 380	
+****** Result for Image/Page 115 ******
+Shortcuts	
+Pickup	A 967 E696	
+B612 F969	
+C 381 G 779	
+D D 820 H 380	
+****** Result for Image/Page 116 ******
+Shortcuts	
+Pickup	A 987 E E 696	
+B B596 F968	
+c361 G 779	
+D 845H381	
+****** Result for Image/Page 117 ******
+Shortcuts	
+Pickup	A A 1015 E 696	
+B577 F969	
+C334 G 779	
+D D 881 H 380	
+****** Result for Image/Page 118 ******
+Shortcuts	
+Pickup	
+A A 1019 E 696	
+B575 F969	
+C330 G 779	
+D D 886 H 380	
+****** Result for Image/Page 119 ******
+Shortcuts	
+Pickup	A A 1033 E 696	
+B B 565 F969	
+C318 G779	
+D D 903 H 380	
+****** Result for Image/Page 120 ******
+Shortcuts	
+A 1058 E696	
+Pickup	
+B B 565 F969	
+C318 G 779	
+D D 924 H 380	
+****** Result for Image/Page 121 ******
+Shortcuts	
+Pickup	A A 1077 E 696	
+B B547 F969	
+C 281	G 779	
+D D 952 H380	
+****** Result for Image/Page 122 ******
+Shortcuts	
+Pickup	A A 1115E 696	
+B540 F969	
+C 264 G778	
+D D 992 H 380	
+****** Result for Image/Page 123 ******
+Shortcuts	
+Pickup	A A1123 E 696	
+B B 532 F968	
+C246 G 779	
+D 1004H 380	
+****** Result for Image/Page 124 ******
+Shortcuts	
+Pickup	A A1124 E 696	
+B B 530 F968	
+C246 G 779	
+D 10065 H 380	
+****** Result for Image/Page 125 ******
+Shortcuts	
+Pickup	
+A1124 E 697	
+B521 F969	
+C251 G 778	
+D 10122 H 380	
+****** Result for Image/Page 126 ******
+Shortcuts	
+Pickup	A1104 E 698	
+B B 486 F968	
+C283 G777	
+D 1018	H 381	
+****** Result for Image/Page 127 ******
+Shortcuts	
+Pickup	A A 1095E698	
+B B 475 F967	
+C C 296 G777	
+D 1018H 382	
+****** Result for Image/Page 128 ******
+Shortcuts	
+Pickup	
+A 1095	E 698	
+B B 476 F966	
+C C 296 G776	
+D 1017H 383	
+****** Result for Image/Page 129 ******
+Shortcuts	
+Pickup	A 1092 E 698	
+B B472 F965	
+C 300 G776	
+D D 10177 H 384	
+****** Result for Image/Page 130 ******
+Shortcuts	
+Pickup	A A 1083 E 698	
+B B 460 F965	
+C 335 G775	
+D 1017H 385	
+****** Result for Image/Page 131 ******
+Shortcuts	
+Pickup	
+A A 1047 E 698	
+B B 436 F964	
+C354 G775	
+D 1013 H H 385	
+****** Result for Image/Page 132 ******
+Shortcuts	
+Pickup	A 1010 E 698	
+B B 434 F964	
+C369 G 775	
+D D 393 H H 385	
+****** Result for Image/Page 133 ******
+Shortcuts	
+Pickup	A A 990E698	
+B B 436 F964	
+C C 384 G774	
+D 387 H386	
+****** Result for Image/Page 134 ******
+Shortcuts	
+Pickup	
+A 971	E 699	
+B B 448 F964	
+C 413	G 774	
+D377 H 386	
+****** Result for Image/Page 135 ******
+Shortcuts	
+Pickup	A 956 E699	
+B B 460 F964	
+C C 424 G774	
+D 376 H386	
+****** Result for Image/Page 136 ******
+Shortcuts	
+Pickup	A 954 E E 699	
+B B 461 F964	
+C423	G 774	
+D377 H386	
+****** Result for Image/Page 137 ******
+Shortcuts	
+Pickup	A 952 E E 699	
+B451 F964	
+C432 G774	
+D 377H385	
+****** Result for Image/Page 138 ******
+Shortcuts	
+Pickup	A A 952 E 699	
+B B 436 F964	
+C436 G 774	
+D D 383 H385	
+****** Result for Image/Page 139 ******
+Shortcuts	
+Pickup	
+A 962	E 699	
+B414 F965	
+C C441 G774	
+D D 385H385	
+****** Result for Image/Page 140 ******
+Shortcuts	
+Pickup	
+A 961	E 699	
+B413 F965	
+C 440 G774	
+D 386H385	
+****** Result for Image/Page 141 ******
+Shortcuts	
+Pickup	
+A 961	E 699	
+B B413 F965	
+C441	G 775	
+D 386H384	
+****** Result for Image/Page 142 ******
+Shortcuts	
+Pickup	A 961	E 699	
+B414 F965	
+C 440 G775	
+D D 962 H384	
+****** Result for Image/Page 143 ******
+Shortcuts	
+Pickup	A A 957 E 699	
+B B414 F965	
+C 443 G G 775	
+D 386H 384	
+****** Result for Image/Page 144 ******
+Shortcuts	
+Pickup	A A 946 E699	
+B419 F965	
+D 959	C 455 G775	H 384	
+****** Result for Image/Page 145 ******
+Shortcuts	
+Pickup	A A 936 E 699	
+B B 421 F965	
+C459 G775	
+D D 943 H 384	
+****** Result for Image/Page 146 ******
+Shortcuts	
+Pickup	A A 935 E699	
+B B 421 F965	
+C460 G 774	
+D D 942 H384	
+****** Result for Image/Page 147 ******
+Shortcuts	
+Pickup	A A 936 E699	
+B B 421 F965	
+C460	G 774	
+D D 943 H385	
+****** Result for Image/Page 148 ******
+Shortcuts	
+Pickup	A A 936 E 700	
+B B 421 F960	
+C460 G 773	
+D D 942 H 391	
+****** Result for Image/Page 149 ******
+Shortcuts	
+Pickup	A 936	E 692	
+B421 F950	
+C460 G770	
+D D 942 H399	
+****** Result for Image/Page 150 ******
+Shortcuts	
+Pickup	A A 936 E 648	
+B B422 F941	
+C459 G 780	
+D 942H404	
+****** Result for Image/Page 151 ******
+Shortcuts	
+Pickup	A A 936 E624	
+B B 422 F939	
+C C 459 G 798	
+D D 942 H 402	
+****** Result for Image/Page 152 ******
+Shortcuts	
+Pickup	A A 936 E602	
+B B 421 F943	
+C459 G 819	
+D D 942 H396	
+****** Result for Image/Page 153 ******
+Shortcuts	
+Pickup	
+A 936	E577	
+B B 421 F956	
+C459 G 863	
+D 942H 383	
+****** Result for Image/Page 154 ******
+Shortcuts	
+Pickup	A 937 E546	
+B421 F960	
+C459 G 895	
+D D 943 H382	
+****** Result for Image/Page 155 ******
+Shortcuts	
+Pickup	A 937 E545	
+B422 F958	
+C459 G 890	
+D942 H 387	
+****** Result for Image/Page 156 ******
+Shortcuts	
+Pickup	
+A 937 E553	
+B B 422 F945	
+C459 G 874	
+D D 943 H H 397	
+****** Result for Image/Page 157 ******
+Shortcuts	
+Pickup	A 939 E567	
+B B 429 F924	
+C462 G 850	
+D D 935 H415	
+****** Result for Image/Page 158 ******
+Shortcuts	
+Pickup	A 932	E E 602	
+B B 434 F865	
+C457	G 791	
+D D 931 H472	
+****** Result for Image/Page 159 ******
+Shortcuts	
+Pickup	A A 932 E E 602	
+B B 433 F865	
+C457	G 791	
+D 931 H472	
+****** Result for Image/Page 160 ******
+Shortcuts	
+Pickup	A A 931 E 645	
+B B 433 F807	
+C 458 G 730	
+D 931H569	
+****** Result for Image/Page 161 ******
+Shortcuts	
+Pickup	A 930 E E 689	
+B B 433 F 749	
+C459 G672	
+D 930H592	
+****** Result for Image/Page 162 ******
+Shortcuts	
+Pickup	A A 928 E712	
+B B 434 F 720	
+C461 G 643	
+D D 928 H623	
+****** Result for Image/Page 163 ******
+Shortcuts	
+A 928 E737	
+Pickup	
+B B 434 F692	
+C 461 G615	
+D928 H 689	
+****** Result for Image/Page 164 ******
+Shortcuts	
+Pickup	A 927 E787	
+B434 F636	
+C 462 G562	
+D 696H719	
+****** Result for Image/Page 165 ******
+Shortcuts	
+Pickup	A 927 E787	
+B B 434 F 636	
+C462 G562	
+D730 H752	
+****** Result for Image/Page 166 ******
+Shortcuts	
+Pickup	A 926 E839	
+B B 434 F583	
+C463 G512	
+D 765	H 816	
+****** Result for Image/Page 167 ******
+Shortcuts	
+Pickup	A 925 E866	
+B434 F559	
+C463 G489	
+D D 927 H839	
+****** Result for Image/Page 168 ******
+Shortcuts	
+Pickup	A 925 E899	
+B B 434 F531	
+C463	G 462	
+D927 H853	
+****** Result for Image/Page 169 ******
+Shortcuts	
+Pickup	A A 925 E E 901	
+B B 434 F530	
+C 464	G460	
+D 927 H855	
+****** Result for Image/Page 170 ******
+Shortcuts	
+Pickup	A A 925 E 901	
+B B 434 F530	
+C 464 G 461	
+D 928 H855	
+****** Result for Image/Page 171 ******
+Shortcuts	
+Pickup	A A 926 E 901	
+B B 433 F530	
+C464 G 461	
+D928 H 855	
+****** Result for Image/Page 172 ******
+Shortcuts	
+Pickup	A 926 E900	
+B B 434 F530	
+C463 G 461	
+D928 H 854	
+****** Result for Image/Page 173 ******
+Shortcuts	
+Pickup	A A 925 E 900	
+B B 433 F530	
+C 464 G 461	
+D928H854	
+****** Result for Image/Page 174 ******
+Shortcuts	
+Pickup	A 925 E900	
+B B 433 F531	
+C 464	G461	
+D D 928 H854	
+****** Result for Image/Page 175 ******
+Shortcuts	
+Pickup	A 934	E 900	
+B B 426 F533	
+C465 G 461	
+D 939H852	
+****** Result for Image/Page 176 ******
+Shortcuts	
+Pickup	
+A 939	E 893	
+B413 F544	
+C 461 G465	
+D 950H840	
+****** Result for Image/Page 177 ******
+Shortcuts	
+Pickup	A941E881	
+B 411F563	
+C461 G473	
+D952 H 819	
+****** Result for Image/Page 178 ******
+Shortcuts	
+Pickup	
+A 941	E 881	
+B411 F612	
+C460 G473	
+D D 953 H 772	
+****** Result for Image/Page 179 ******
+Shortcuts	
+Pickup	
+A 941	E 840	
+B411	F 626	
+C C 460 G509	
+D D 953 H749	
+****** Result for Image/Page 180 ******
+Shortcuts	
+Pickup	A 942	E 818	
+B B 409 F642	
+C461 G531	
+D D 954 H726	
+****** Result for Image/Page 181 ******
+Shortcuts	
+Pickup	A 943 E770	
+B B 374 F648	
+C467 G 580	
+D954 H711	
+****** Result for Image/Page 182 ******
+Shortcuts	
+Pickup	
+A 947	E 746	
+B B 339 F649	
+C478	G 601	
+D D 662 H701	
+****** Result for Image/Page 183 ******
+Shortcuts	
+Pickup	A A 970E724	
+B B 308 F664	
+C506 G 624	
+D1100H677	
+****** Result for Image/Page 184 ******
+Shortcuts	
+Pickup	A 987 E E 705	
+B B 254 F706	
+C518	G 644	
+D1111H 635	
+****** Result for Image/Page 185 ******
+Shortcuts	
+Pickup	
+A 1028 E 692	
+B215 F735	
+C541 G 659	
+D1138H 605	
+****** Result for Image/Page 186 ******
+Shortcuts	
+A A 1028 E 688	
+Pickup	
+B174 F733	
+C541	G 668	
+D1138H584	
+****** Result for Image/Page 187 ******
+Shortcuts	
+Pickup	A 1075 E 699	
+B B 158 F798	
+C575 G 678	
+D 1203H547	
+****** Result for Image/Page 188 ******
+Shortcuts	
+Pickup	A A 1072 E723	
+B156 F860	
+C572 G688	
+D 1203H496	
+****** Result for Image/Page 189 ******
+Shortcuts	
+Pickup	A A 1072 E738	
+B156 F889	
+C572	G 693	
+D 1203	H476	
+****** Result for Image/Page 190 ******
+Shortcuts	
+Pickup	A 1072 E749	
+B155 F 909	
+C572 G 697	
+D D 1203 H462	
+****** Result for Image/Page 191 ******
+Shortcuts	
+Pickup	A A 1072 E756	
+B B 155 F919	
+C572 G 700	
+D D 1203 H455	
+****** Result for Image/Page 192 ******
+Shortcuts	
+Pickup	A A 1072 E 755	
+B 155	F 920	
+C572	G 700	
+D 1204 H455	
+****** Result for Image/Page 193 ******
+Shortcuts	
+Pickup	A A 1073 E756	
+B B 155 F920	
+C572 G 700	
+D 1203 H454	
+****** Result for Image/Page 194 ******
+Shortcuts	
+Pickup	A A 1072 E756	
+B B 155 F920	
+C572 G 700	
+D 1204H455	
+****** Result for Image/Page 195 ******
+Shortcuts	
+Pickup	A A 1072 E758	
+B 155F918	
+C572	G 696	
+D 1203H458	
+****** Result for Image/Page 196 ******
+Shortcuts	
+Pickup	A 1072 E745	
+B155 F912	
+C573 G 693	
+D1203 H463	
+****** Result for Image/Page 197 ******
+Shortcuts	
+Pickup	
+A 1072	E 719	
+B156F 904	
+C571	G719	
+D 1203H456	
+****** Result for Image/Page 198 ******
+Shortcuts	
+Pickup	A A 1073 E 703	
+B157 F905	
+C570 G732	
+D 1203H449	
+****** Result for Image/Page 199 ******
+Shortcuts	
+Pickup	A A 1075 E 700	
+B158F 905	
+C568 G 734	
+D 1202H448	
+****** Result for Image/Page 200 ******
+Shortcuts	
+Pickup	A 1075 E 701	
+B158F 906	
+C568	G 734	
+D 1203H447	
+****** Result for Image/Page 201 ******
+Shortcuts	
+Pickup	
+A 1074 E 703	
+B158 F 909	
+C569 G735	
+D D 1203 H444	
+****** Result for Image/Page 202 ******
+Shortcuts	
+Pickup	A 1074 E 704	
+B B 158 F922	
+C568 G740	
+D 1203	H 432	
+****** Result for Image/Page 203 ******
+Shortcuts	
+Pickup	
+A 1074 E 702	
+B B 159 F924	
+C568	G 743	
+D 1203H429	
+****** Result for Image/Page 204 ******
+Shortcuts	
+Pickup	A A 1074 E 702	
+B158 F925	
+C569 G 747	
+D 1203H427	
+****** Result for Image/Page 205 ******
+Shortcuts	
+Pickup	A A 1074 E 688	
+B B 158 F930	
+C 569	G 766	
+D 1203	H412	
+****** Result for Image/Page 206 ******
+Shortcuts	
+Pickup	A 1074 E 681	
+B158F942	
+C569	G 774	
+D 1203H403	
+****** Result for Image/Page 207 ******
+Shortcuts	
+Pickup	
+A A 1074 E 683	
+B B 149 F942	
+C579 G 773	
+D 1216H401	
+****** Result for Image/Page 208 ******
+Shortcuts	
+Pickup	A A 1071 E 691	
+B B 137 F951	
+C591 G765	
+D 12177 H398	
+****** Result for Image/Page 209 ******
+Shortcuts	
+Pickup	A 1067 E700	
+B138F959	
+C594	G 770	
+D1214H387	
+****** Result for Image/Page 210 ******
+Shortcuts	
+Pickup	
+A A 1054 E705	
+B142 F964	
+C596	G 770	
+D 1202H 384	
+****** Result for Image/Page 211 ******
+Shortcuts	
+Pickup	A 1041	E 706	
+B148 F964	
+C599 G 769	
+D1192H 384	
+****** Result for Image/Page 212 ******
+Shortcuts	
+Pickup	A 1041 E707	
+B B 146 F964	
+C599 G765	
+D1192H384	
+****** Result for Image/Page 213 ******
+Shortcuts	
+Pickup	A 1039	E 710	
+B139 F964	
+C 629	G 759	
+D1196H385	
+****** Result for Image/Page 214 ******
+Shortcuts	
+Pickup	A A 1033 E 709	
+B B104 F962	
+C656 G 766	
+D 1220 H385	
+****** Result for Image/Page 215 ******
+Shortcuts	
+A 1038 E710	
+Pickup	
+B91 F 100	
+C667 G 765	
+D 1232	H 386	
+****** Result for Image/Page 216 ******
+Shortcuts	
+Pickup	
+A 1043	E711	
+B87 F99	
+C667 G 763	
+D 1236	H 387	
+****** Result for Image/Page 217 ******
+Shortcuts	
+Pickup	
+A A 1043 E713	
+B B 87 F97	
+C667 G761	
+D 12365 H389	
+****** Result for Image/Page 218 ******
+Shortcuts	
+Pickup	A A 1043 E713	
+B 87	F97	
+C667 G761	
+D 12365 389	
+****** Result for Image/Page 219 ******
+Shortcuts	
+Pickup	
+A A 1043 E713	
+B87 F97	
+C667 G 761	
+D 1236 H391	
+****** Result for Image/Page 220 ******
+Shortcuts	
+Pickup	A 1043 E713	
+B87 F97	
+C667 G 758	
+D 1236 H 392	
+****** Result for Image/Page 221 ******
+Shortcuts	
+Pickup	A A 1042 E713	
+B 87 F96	
+C667 G 758	
+D 1236 H393	
+****** Result for Image/Page 222 ******
+Shortcuts	
+Pickup	A A 1042 E712	
+B B 92 F96	
+C C 664 G759	
+D 1231	H 393	
+****** Result for Image/Page 223 ******
+Shortcuts	
+Pickup	A 1037 E712	
+B B 105 F123	
+C649 G 759	
+D D 1221 H 392	
+****** Result for Image/Page 224 ******
+Shortcuts	
+Pickup	A A 1034 E711	
+B B 123 F958	
+C630 G 760	
+D 1206H391	
+****** Result for Image/Page 225 ******
+Shortcuts	
+Pickup	A A 1037 E 710	
+B157 F127	
+C 595 G761	
+D1195 H 391	
+****** Result for Image/Page 226 ******
+Shortcuts	
+Pickup	
+A A 1044 E710	
+B 153	F145	
+C591	G 762	
+D1188 H 390	
+****** Result for Image/Page 227 ******
+Shortcuts	
+Pickup	A A 1039 E 709	
+B154 F961	
+C592 G 763	
+D1188 H 388	
+****** Result for Image/Page 228 ******
+Shortcuts	
+Pickup	A 1032 E 709	
+B B 159 F961	
+C592 G 765	
+D1180	H 387	
+****** Result for Image/Page 229 ******
+Shortcuts	
+Pickup	A 1015 E 709	
+B B 159 F962	
+C592	G 765	
+D1180 H387	
+****** Result for Image/Page 230 ******
+Shortcuts	
+Pickup	A A 1001 E 709	
+B174 F960	
+C601 G765	
+D11565 H 389	
+****** Result for Image/Page 231 ******
+Shortcuts	
+Pickup	A 991 E E712	
+B178 F959	
+C612	G 764	
+D1155H393	
+****** Result for Image/Page 232 ******
+Shortcuts	
+Pickup	A970 E705	
+B B 185 F953	
+C623 G761	
+D1138H 398	
+****** Result for Image/Page 233 ******
+Shortcuts	
+Pickup	A A 948E 692	
+B B 193 F938	
+C642 G 761	
+D1127H409	
+****** Result for Image/Page 234 ******
+Shortcuts	
+Pickup	A A 923 E E 653	
+B B 201 F907	
+C669	G 773	
+D1120H433	
+****** Result for Image/Page 235 ******
+Shortcuts	
+Pickup	A 898 E643	
+B212 F901	
+C725 G 777	
+D1116H439	
+****** Result for Image/Page 236 ******
+Shortcuts	
+Pickup	A A 883E 640	
+B215 F 900	
+C733 G779	
+D1125H440	
+****** Result for Image/Page 237 ******
+Shortcuts	
+Pickup	A 883	E 637	
+B215 F 900	
+C 736 G 782	
+D1127H440	
+****** Result for Image/Page 238 ******
+Shortcuts	
+Pickup	A A 909 E 636	
+B B 205 F899	
+C 727 G 783	
+D1129H440	
+****** Result for Image/Page 239 ******
+Shortcuts	
+Pickup	
+A 919	E 636	
+B187 F898	
+C712 G781	
+D1145H442	
+****** Result for Image/Page 240 ******
+Shortcuts	
+Pickup	A 921 E637	
+B B 185 F894	
+C710 G778	
+D1146H445	
+****** Result for Image/Page 241 ******
+Shortcuts	
+Pickup	A 922 E E 636	
+B B 185 F889	
+C709 G 776	
+D1147 H450	
+****** Result for Image/Page 242 ******
+Shortcuts	
+Pickup	A A 924 E 635	
+B B 185 F888	
+C C 707 G 776	
+D1147H451	
+****** Result for Image/Page 243 ******
+Shortcuts	
+Pickup	
+A 925	E 634	
+B184 F886	
+C C 706 G 776	
+D1147H453	
+****** Result for Image/Page 244 ******
+Shortcuts	
+Pickup	A A 926 E635	
+B B 184F886	
+C C 705 G 775	
+D1147H453	
+****** Result for Image/Page 245 ******
+Shortcuts	
+Pickup	A A 926 E 634	
+B B184 F 885	
+C 705 G775	
+D1147H454	
+****** Result for Image/Page 246 ******
+Shortcuts	
+Pickup	
+A 925	E 632	
+B B 184 F886	
+C 705 G777	
+D1147H453	
+****** Result for Image/Page 247 ******
+Shortcuts	
+Pickup	
+A 926	E 632	
+B B184 F886	
+C C 705 G778	
+D1147H453	
+****** Result for Image/Page 248 ******
+Shortcuts	
+Pickup	A A 928 E631	
+B B 182 F 886	
+C C 703 G778	
+D1147 H453	
+****** Result for Image/Page 249 ******
+Shortcuts	
+Pickup	A 928	E 630	
+B181 F886	
+C 701 G779	
+D1146H453	
+****** Result for Image/Page 250 ******
+Shortcuts	
+Pickup	
+A 929	E 630	
+B181 F886	
+C698 G779	
+D1147 H453	
+****** Result for Image/Page 251 ******
+Shortcuts	
+Pickup	
+A 936	E 630	
+B181 F886	
+C685 G 779	
+D1143H453	
+****** Result for Image/Page 252 ******
+Shortcuts	
+Pickup	A A 939 E630	
+B B 180 F887	
+C679	G 779	
+D1143H452	
+****** Result for Image/Page 253 ******
+Shortcuts	
+Pickup	A A 940 E 630	
+B B 180 F 887	
+C679	G 780	
+D1143H451	
+****** Result for Image/Page 254 ******
+Shortcuts	
+Pickup	A 938 E E 630	
+B B 183 F888	
+C678 G 780	
+D1139H451	
+****** Result for Image/Page 255 ******
+Shortcuts	
+Pickup	A A 937 |E 630	
+B B 196 F 889	
+C677 G 781	
+D1127 H450	
+****** Result for Image/Page 256 ******
+Shortcuts	
+Pickup	A 920	E 628	
+B225 F891	
+C 660	G 784	
+D 1097H449	
+****** Result for Image/Page 257 ******
+Shortcuts	
+Pickup	
+A 912	E615	
+B B 226	F899	
+C652 G 824	
+D D 1094 H440	
+****** Result for Image/Page 258 ******
+Shortcuts	
+Pickup	A 918 E594	
+B B 223 F913	
+C634 G 859	
+D1100H427	
+****** Result for Image/Page 259 ******
+Shortcuts	
+Pickup	A 926 E534	
+B B 223 F946	
+C624 G 890	
+D 1092H402	
+****** Result for Image/Page 260 ******
+Shortcuts	
+Pickup	A A 922 E 503	
+B B 254 F961	
+C604 G 923	
+D 1068 H396	
+****** Result for Image/Page 261 ******
+Shortcuts	
+Pickup	A A 909 E471	
+B316F972	
+C588 G953	
+D 1010H 397	
+****** Result for Image/Page 262 ******
+Shortcuts	
+Pickup	A A 876 E 405	
+B B 346 F977	
+C571 G 1003	
+D 979 H427	
+****** Result for Image/Page 263 ******
+Shortcuts	
+Pickup	A 855	E E 378	
+B B 408 F983	
+C572	G 1027	
+D917 H438	
+****** Result for Image/Page 264 ******
+Shortcuts	
+Pickup	A A 808E344	
+B B 437 F 1017	
+C586 G 1073	
+D D 885 H436	
+****** Result for Image/Page 265 ******
+Shortcuts	
+Pickup	A 784 E 331	
+B B 495 F 1037	
+C598 G 1097	
+D D 832 H431	
+****** Result for Image/Page 266 ******
+Shortcuts	
+Pickup	A 737 E323	
+B524 F 1058	
+C626 G 1097	
+D D 796 H424	
+****** Result for Image/Page 267 ******
+Shortcuts	
+Pickup	A 713E322	
+B B572 F 1071	
+C644 G-1	
+D D 768 H417	
+****** Result for Image/Page 268 ******
+Shortcuts	
+Pickup	A 686 E323	
+B B 583 F 1072	
+C666 G-1	
+D 737 H416	
+****** Result for Image/Page 269 ******
+Shortcuts	
+Pickup	A 683 E324	
+B B 586 F 1073	
+C668 G-1	
+D D 734 H414	
+****** Result for Image/Page 270 ******
+Shortcuts	
+Pickup	A 674 E324	
+B B 586 F 1073	
+C678 G1126	
+D 735	H413	
+****** Result for Image/Page 271 ******
+Shortcuts	
+Pickup	A 658 E326	
+B B 585 F 1074	
+C697 G-1	
+D 738	H 412	
+****** Result for Image/Page 272 ******
+Shortcuts	
+Pickup	A 640 E326	
+B B 581 F 1074	
+C 731	G-1	
+D 745H411	
+****** Result for Image/Page 273 ******
+Shortcuts	
+Pickup	A 629	E E 327	
+B579 F 1074	
+C733 G-1	
+D 751	H 411	
+****** Result for Image/Page 274 ******
+Shortcuts	
+Pickup	A 629	E E 327	
+B579 F 1075	
+C733 G-1	
+D 751 H411	
+****** Result for Image/Page 275 ******
+Shortcuts	
+Pickup	A 628 E 328	
+B B 580 F 1075	
+C733 G-1	
+D 751 H 410	
+****** Result for Image/Page 276 ******
+Shortcuts	
+Pickup	A 628 E336	
+B B 580 F 1073	
+C734 G-1	
+D 751 H407	
+****** Result for Image/Page 277 ******
+Shortcuts	
+Pickup	A 630 E349	
+B 583 F 1060	
+C C 729 G1100	
+D D 747 H402	
+****** Result for Image/Page 278 ******
+Shortcuts	
+Pickup	
+A 637	E 362	
+B B 589 F 1052	
+C719	G 1086	
+D D 737H397	
+****** Result for Image/Page 279 ******
+Shortcuts	
+Pickup	A 637	E E 367	
+B589 F 1054	
+C719	G 1082	
+D D 706 H 391	
+****** Result for Image/Page 280 ******
+Shortcuts	
+Pickup	
+A 636 E 369	
+B 639 F 1055	
+C711	G 1083	
+D D 684 H390	
+****** Result for Image/Page 281 ******
+Shortcuts	
+Pickup	A 622 E E372	
+B B655 F 1055	
+C724 G 1081	
+D D 669 H388	
+****** Result for Image/Page 282 ******
+Shortcuts	
+Pickup	A 606 E414	
+B B 667 F 1055	
+C756 G 1081	
+D D 669 H387	
+****** Result for Image/Page 283 ******
+Shortcuts	
+Pickup	A 585	E 429	
+B B 648 F 1023	
+C765 G 1017	
+D 686H373	
+****** Result for Image/Page 284 ******
+Shortcuts	
+Pickup	A A 552E443	
+B B 646 F1009	
+C 802 G998	
+D D 694 H377	
+****** Result for Image/Page 285 ******
+Shortcuts	
+Pickup	
+A 539	E 446	
+B 655F 1008	
+c820 G994	
+D693 H376	
+****** Result for Image/Page 286 ******
+Shortcuts	
+Pickup	A 527 E451	
+B 659F999	
+C827 G984	
+D 701	H 380	
+****** Result for Image/Page 287 ******
+Shortcuts	
+Pickup	A 548 E454	
+B B 637 F 988	
+c823 G975	
+D722 H 389	
+****** Result for Image/Page 288 ******
+Shortcuts	
+Pickup	A 565E454	
+B 612 F F987	
+c C 800 G973	
+D D 742 H390	
+****** Result for Image/Page 289 ******
+Shortcuts	
+Pickup	A A 592 E 454	
+B B 580 F986	
+C780 G 973	
+D769 H 390	
+****** Result for Image/Page 290 ******
+Shortcuts	
+Pickup	A 618 E455	
+B516 F970	
+C765 G970	
+D 827 H406	
+****** Result for Image/Page 291 ******
+Shortcuts	
+Pickup	A A 665E 454	
+B B 487 F959	
+C C 744 G 963	
+D D 855 H418	
+****** Result for Image/Page 292 ******
+Shortcuts	
+Pickup	A 691 E450	
+B B 457 F954	
+C743 G956	
+D D 884H420	
+****** Result for Image/Page 293 ******
+Shortcuts	
+Pickup	A A 685 E450	
+B B 456 F953	
+C C 744 G957	
+D 884H420	
+****** Result for Image/Page 294 ******
+Shortcuts	
+Pickup	A A 677 E 453	
+B B 459 F947	
+C751 G 955	
+D 888H427	
+****** Result for Image/Page 295 ******
+Shortcuts	
+Pickup	A A 669 E 450	
+B B 467 F931	
+C C 757 G944	
+D D 882 H441	
+****** Result for Image/Page 296 ******
+Shortcuts	
+Pickup	A 670 E449	
+B B 465 F918	
+C757 G 938	
+D D 883 H 455	
+****** Result for Image/Page 297 ******
+Shortcuts	
+Pickup	A A 671E449	
+B464 F916	
+C C 756 G 937	
+D D 883 H459	
+****** Result for Image/Page 298 ******
+Shortcuts	
+Pickup	A 669 E449	
+B 466F915	
+C C 757 G937	
+D 883H459	
+****** Result for Image/Page 299 ******
+Shortcuts	
+Pickup	
+A 663	E 454	
+B B471 F894	
+C 762 G931	
+D D 879 H479	
+****** Result for Image/Page 300 ******
+Shortcuts	
+Pickup	A 663 E464	
+B B471 F876	
+C 762 G 908	
+D D 879 H492	
+****** Result for Image/Page 301 ******
+Shortcuts	
+Pickup	A 663	E 467	
+B471 F869	
+C762 G903	
+D D 880 H498	
+****** Result for Image/Page 302 ******
+Shortcuts	
+Pickup	A 663 E E 467	
+B B472 F869	
+C762 G903	
+D D 879 H498	
+****** Result for Image/Page 303 ******
+Shortcuts	
+Pickup	
+A 662	E470	
+B B 473 F867	
+C 763 G 900	
+D D 878 H498	
+****** Result for Image/Page 304 ******
+Shortcuts	
+Pickup	A 658	E 479	
+B477 F859	
+C766 G 892	
+D 877H507	
+****** Result for Image/Page 305 ******
+Shortcuts	
+Pickup	A A 656E478	
+B479 F 839	
+C767 G890	
+D D 875 H528	
+****** Result for Image/Page 306 ******
+Shortcuts	
+Pickup	
+A 652	E 505	
+B482 F776	
+C771 G 852	
+D 871H584	
+****** Result for Image/Page 307 ******
+Shortcuts	
+Pickup	A A 650 E531	
+B B484 F752	
+C772 G 819	
+D D 869 H599	
+****** Result for Image/Page 308 ******
+Shortcuts	
+Pickup	A 648 E538	
+B B486 F740	
+C773 G812	
+D 867 H611	
+****** Result for Image/Page 309 ******
+Shortcuts	
+Pickup	A A 643E 540	
+B B 490 F 738	
+C776 G 809	
+D607 H613	
+****** Result for Image/Page 310 ******
+Shortcuts	
+Pickup	
+A 642	E 545	
+B B 491 F733	
+C777	G 804	
+D614	H616	
+****** Result for Image/Page 311 ******
+Shortcuts	
+Pickup	A 639 E552	
+B B 493 F721	
+C779 G 797	
+D D 626H628	
+****** Result for Image/Page 312 ******
+Shortcuts	
+Pickup	A 639 E558	
+B B 493 F F699	
+C779 G 792	
+D D 642H651	
+****** Result for Image/Page 313 ******
+Shortcuts	
+Pickup	
+A 640	E 568	
+B B 492 F649	
+C779	G 792	
+D 696H708	
+****** Result for Image/Page 314 ******
+Shortcuts	
+Pickup	
+A 639	E571	
+B B 492 F635	
+C779 G 792	
+D711H724	
+****** Result for Image/Page 315 ******
+Shortcuts	
+Pickup	
+A 644	E577	
+B B 488 F634	
+C776	G 789	
+D718 H 725	
+****** Result for Image/Page 316 ******
+Shortcuts	
+Pickup	
+A 651	E 581	
+B B 480 F640	
+C771	G 779	
+D D 705 H713	
+****** Result for Image/Page 317 ******
+Shortcuts	
+Pickup	A 652 E590	
+B B 480 F650	
+C771 G765	
+D D 700 H 691	
+****** Result for Image/Page 318 ******
+Shortcuts	
+Pickup	A 652 E598	
+B B 480 F657	
+C771 G 755	
+D 872H687	
+****** Result for Image/Page 319 ******
+Shortcuts	
+Pickup	A 652 E596	
+B B 480 F658	
+C771	G 757	
+D D 873 H H 687	
+****** Result for Image/Page 320 ******
+Shortcuts	
+Pickup	A 653	E 595	
+B B478 F659	
+C C 770	G 758	
+D D 874H687	
+****** Result for Image/Page 321 ******
+Shortcuts	
+Pickup	A 653 E595	
+B478 F659	
+C771 G 758	
+D D 874 H 686	
+****** Result for Image/Page 322 ******
+Shortcuts	
+Pickup	A 653 E594	
+B478 F659	
+C771	G 759	
+D 874H686	
+****** Result for Image/Page 323 ******
+Shortcuts	
+Pickup	A 653 E594	
+B478 F659	
+C771 G 759	
+D D 874H686	
+****** Result for Image/Page 324 ******
+Shortcuts	
+Pickup	A 653 E593	
+B478 F660	
+C771 G759	
+D 874H 685	
+****** Result for Image/Page 325 ******
+Shortcuts	
+Pickup	A A 653E593	
+B 478 F F661	
+C771 G760	
+D874 H H 685	
+****** Result for Image/Page 326 ******
+Shortcuts	
+Pickup	A 653 E591	
+B B478 F662	
+C771 G761	
+D D 874 H684	
+****** Result for Image/Page 327 ******
+Shortcuts	
+Pickup	
+A 653	E 590	
+B 478 F664	
+C771 G 763	
+D D 874 H 682	
+****** Result for Image/Page 328 ******
+Shortcuts	
+A 653 E 588	
+Pickup	
+B478	F671	
+C771	G 764	
+D 874H675	
+****** Result for Image/Page 329 ******
+Shortcuts	
+Pickup	
+A 652	E589	
+B478 F671	
+C771 G 763	
+D D 875H674	
+****** Result for Image/Page 330 ******
+Shortcuts	
+Pickup	A A 652 E589	
+B B 478 F671	
+C771 G764	
+D D 875H675	
+****** Result for Image/Page 331 ******
+Shortcuts	
+Pickup	A 651 E590	
+B B478 F671	
+C771	G 763	
+D 875 H675	
+****** Result for Image/Page 332 ******
+Shortcuts	
+Pickup	A A 647 E591	
+B B 481 F671	
+C774 G761	
+D 873H674	
+****** Result for Image/Page 333 ******
+Shortcuts	
+Pickup	A 647	E589	
+B B 481 F676	
+C774 G 763	
+D D 873 H 670	
+****** Result for Image/Page 334 ******
+Shortcuts	
+Pickup	
+A 647	E578	
+B481 F693	
+C774 G772	
+D D 873H654	
+****** Result for Image/Page 335 ******
+Shortcuts	
+Pickup	A A 647E564	
+B B 481 F721	
+C C 773 G 786	
+D D 873 H626	
+****** Result for Image/Page 336 ******
+Shortcuts	
+Pickup	A 647 E548	
+B B 481 F755	
+C773 G 804	
+D D 873 H593	
+****** Result for Image/Page 337 ******
+Shortcuts	
+Pickup	A 647	E525	
+B B 481 F823	
+C 773	G 838	
+D 544H525	
+****** Result for Image/Page 338 ******
+Shortcuts	
+Pickup	A A 641 E517	
+B B 488 F857	
+C778 G 858	
+D510H491	
+****** Result for Image/Page 339 ******
+Shortcuts	
+Pickup	
+A 636	E 509	
+B B 493 F892	
+C781 G 879	
+D454 H458	
+****** Result for Image/Page 340 ******
+Shortcuts	
+Pickup	A A 636E 503	
+B B 493 F926	
+C781 G901	
+D D 864H425	
+****** Result for Image/Page 341 ******
+Shortcuts	
+Pickup	A 636 E499	
+B B 493 F995	
+C781 G948	
+D D 864 H360	
+****** Result for Image/Page 342 ******
+Shortcuts	
+Pickup	A A 636E 502	
+B B 493 F 1064	
+C781 G949	
+D D 864 H 329	
+****** Result for Image/Page 343 ******
+Shortcuts	
+Pickup	A A 636E506	
+B B 493 F 1092	
+C C 781 G 973	
+D D 864 H298	
+****** Result for Image/Page 344 ******
+Shortcuts	
+Pickup	
+A 636	E513	
+B B 492 F1107	
+C 781G 1010	
+D 864	H 257	
+****** Result for Image/Page 345 ******
+Shortcuts	
+Pickup	A A 636 E513	
+B B492 F1127	
+C C 781	G 1016	
+D D 864 H249	
+****** Result for Image/Page 346 ******
+Shortcuts	
+Pickup	
+A 637	E513	
+B B492 F1121	
+C C 781	G 1023	
+D D 864 H H 247	
+****** Result for Image/Page 347 ******
+Shortcuts	
+Pickup	
+A 637	E512	
+B B 492 F1120	
+C C 781	G1024	
+D D 864 H 248	
+****** Result for Image/Page 348 ******
+Shortcuts	
+Pickup	
+A 638	E511	
+B B 492 F1116	
+C781 G 1024	
+D D 864 H H 255	
+****** Result for Image/Page 349 ******
+Shortcuts	
+Pickup	A 639	E497	
+B B 492 F1102	
+C C 780 G 1035	
+D 864H272	
+****** Result for Image/Page 350 ******
+Shortcuts	
+Pickup	A 642	E479	
+B B 489 F 1084	
+C779 G 1029	
+D 866H 295	
+****** Result for Image/Page 351 ******
+Shortcuts	
+Pickup	
+A 655	E 456	
+B B476 F 1065	
+C 770	G 1030	
+D 875H358	
+****** Result for Image/Page 352 ******
+Shortcuts	
+Pickup	A 655 E E 437	
+B B 476 F 1039	
+C770 G 1023	
+D 877 H392	
+****** Result for Image/Page 353 ******
+Shortcuts	
+Pickup	A A 656 E 430	
+B B 474 F975	
+C 770 G 984	
+D D 878 H411	
+****** Result for Image/Page 354 ******
+Shortcuts	
+Pickup	A A 656 E 430	
+B474 F942	
+C770 G984	
+D 878	H411	
+****** Result for Image/Page 355 ******
+Shortcuts	
+Pickup	A A 691 E 441	
+B B 441 F885	
+C749 G 940	
+D 906H500	
+****** Result for Image/Page 356 ******
+Shortcuts	
+Pickup	
+A 692	E 466	
+B B 438 F860	
+C748 G901	
+D D 907 H 509	
+****** Result for Image/Page 357 ******
+Shortcuts	
+Pickup	A 692 E487	
+B B 438 F827	
+C C 749 G 873	
+D D 907 H535	
+****** Result for Image/Page 358 ******
+Shortcuts	
+Pickup	A 691 E507	
+B B 438 F761	
+C749 G 847	
+D D 907 H563	
+****** Result for Image/Page 359 ******
+Shortcuts	
+Pickup	A 691 E544	
+B B 437 F726	
+C 749	G 806	
+D D 908 H626	
+****** Result for Image/Page 360 ******
+Shortcuts	
+Pickup	A 691 E564	
+B B 437 F F693	
+C749 G 786	
+D D 908 H657	
+****** Result for Image/Page 361 ******
+Shortcuts	
+Pickup	A 691 E587	
+B B 437 F659	
+C749 G767	
+D 908 H 688	
+****** Result for Image/Page 362 ******
+Shortcuts	
+Pickup	A A 692E610	
+B B 436 F592	
+C C 749	G 749	
+D 740 H 755	
+****** Result for Image/Page 363 ******
+Shortcuts	
+Pickup	A A 692 E 655	
+B436 F558	
+C C 749 G 722	
+D 909H786	
+****** Result for Image/Page 364 ******
+Shortcuts	
+Pickup	A 693	E 677	
+B B 436 F501	
+C C 748 G713	
+D 910 H843	
+****** Result for Image/Page 365 ******
+Shortcuts	
+Pickup	A 694	E 705	
+B B 435 F488	
+C C 747	G 707	
+D 910H 855	
+****** Result for Image/Page 366 ******
+Shortcuts	
+Pickup	A A 695E704	
+B B 434 F485	
+C C 746 G 703	
+D 910H 856	
+****** Result for Image/Page 367 ******
+Shortcuts	
+Pickup	A A 695E704	
+B B 434 F486	
+C C 746 G 704	
+D 910 H 856	
+****** Result for Image/Page 368 ******
+Shortcuts	
+Pickup	A 696 E703	
+B434 F486	
+C745 G 704	
+D 910H 855	
+****** Result for Image/Page 369 ******
+Shortcuts	
+Pickup	A A 696E703	
+B B 434 F487	
+C 745	G 704	
+D 910H 855	
+****** Result for Image/Page 370 ******
+Shortcuts	
+Pickup	A A 696 E 700	
+B B 434 F489	
+C744 G 707	
+D910 H854	
+****** Result for Image/Page 371 ******
+Shortcuts	
+Pickup	A A 696 E 699	
+B B 434 F489	
+C C 744 G 708	
+D D 909 H 854	
+****** Result for Image/Page 372 ******
+Shortcuts	
+Pickup	A 697 | E 699	
+B B 435 F490	
+C C 743 G 708	
+D D 909 H853	
+****** Result for Image/Page 373 ******
+Shortcuts	
+Pickup	A 697 | E 698	
+B B 435 F491	
+C742 G G 709	
+D 908H853	
+****** Result for Image/Page 374 ******
+Shortcuts	
+Pickup	A 697 E697	
+B B 435 F491	
+C C 742 G 709	
+D 908H852	
+****** Result for Image/Page 375 ******
+Shortcuts	
+Pickup	A 697	E 697	
+B 435	F491	
+C 742	G 709	
+D D 908 H852	
+****** Result for Image/Page 376 ******
+Shortcuts	
+Pickup	A 697 E E 697	
+B B 435 F491	
+C C 742 G 709	
+D 908H852	
+****** Result for Image/Page 377 ******
+Shortcuts	
+Pickup	A 697 E697	
+B B 435 F491	
+C 742	G 709	
+D D 908 H 852	
+****** Result for Image/Page 378 ******
+Shortcuts	
+Pickup	A 697	E 697	
+B B 435 F491	
+C C 742 G 709	
+D D 908 H852	
+****** Result for Image/Page 379 ******
+Shortcuts	
+Pickup	A 697	E 696	
+B B 435 F492	
+C 742 G710	
+D 908 H852	
+****** Result for Image/Page 380 ******
+Shortcuts	
+Pickup	A 697 | E 695	
+B B 436 F492	
+C740 G 711	
+D D 905 H852	
+****** Result for Image/Page 381 ******
+Shortcuts	
+Pickup	A 697 E 695	
+B B 437 F492	
+C 740 G711	
+D D 905 H 852	
+****** Result for Image/Page 382 ******
+Shortcuts	
+Pickup	A A 697 E 694	
+B B 437 F492	
+C740 G712	
+D 905H852	
+****** Result for Image/Page 383 ******
+Shortcuts	
+Pickup	A 697 | E 694	
+B B 437 F492	
+C C 740 G713	
+D 904H852	
+****** Result for Image/Page 384 ******
+Shortcuts	
+Pickup	A 697 | E 693	
+B B 438 F492	
+C C 740 G713	
+D 904H852	
+****** Result for Image/Page 385 ******
+Shortcuts	
+Pickup	A 697 | E693	
+B B 438 F492	
+C C 740 G713	
+D 904H852	
+****** Result for Image/Page 386 ******
+Shortcuts	
+Pickup	A 697 E 693	
+B B 438 F492	
+C C 740 G713	
+D D 903 H852	
+****** Result for Image/Page 387 ******
+Shortcuts	
+Pickup	A A 697 | E 693	
+B B 438 F493	
+C C 740 G713	
+D D 903H851	
+****** Result for Image/Page 388 ******
+Shortcuts	
+Pickup	
+A 697	E 694	
+B439 F492	
+C C 740 G713	
+D D 903 H857	
+****** Result for Image/Page 389 ******
+Shortcuts	
+Pickup	A 697 E 692	
+B B 439 F494	
+C 740 G714	
+D D 903 H H 851	
+****** Result for Image/Page 390 ******
+Shortcuts	
+Pickup	A 697	E E 692	
+B B 439 F494	
+C C 740 G714	
+D 903H851	
+****** Result for Image/Page 391 ******
+Shortcuts	
+Pickup	
+A 696	E 689	
+B B 439 F513	
+C740 G 715	
+D D 902 H831	
+****** Result for Image/Page 392 ******
+Shortcuts	
+Pickup	
+A 696	E 668	
+B440 F535	
+C 740 G718	
+D 902H 809	
+****** Result for Image/Page 393 ******
+Shortcuts	
+Pickup	A 696 E659	
+B B 440 F584	
+C 740 G 718	
+D D 902 H 766	
+****** Result for Image/Page 394 ******
+Shortcuts	
+Pickup	A 696 E655	
+B 440F589	
+C 740 G 714	
+D D 902 H753	
+****** Result for Image/Page 395 ******
+Shortcuts	
+Pickup	A 696 E655	
+B 440F588	
+C 740	G 708	
+D D 902 H H 751	
+****** Result for Image/Page 396 ******
+Shortcuts	
+Pickup	A 696 E655	
+B 440F589	
+C740 G 708	
+D D 902 H H750	
+****** Result for Image/Page 397 ******
+Shortcuts	
+Pickup	A A 696 E E 654	
+B 440F590	
+C 740 G 709	
+D 902H750	
+****** Result for Image/Page 398 ******
+Shortcuts	
+Pickup	A 696 E654	
+B 440F590	
+C C 741 G 709	
+D D 903 H750	
+****** Result for Image/Page 399 ******
+Shortcuts	
+Pickup	A A 696 E 654	
+B 439F590	
+C C 741 G 709	
+D D 903 H 750	
+****** Result for Image/Page 400 ******
+Shortcuts	
+Pickup	A A 696 E E 654	
+B 439F589	
+C C 741 G 709	
+D 903H750	
+****** Result for Image/Page 401 ******
+Shortcuts	
+Pickup	A 696 E654	
+B B 439 F589	
+C742G 709	
+D D 904 H750	
+****** Result for Image/Page 402 ******
+Shortcuts	
+Pickup	
+A 696	E 654	
+B B 438 F588	
+C742G 709	
+D 905H750	
+****** Result for Image/Page 403 ******
+Shortcuts	
+Pickup	A 696 E655	
+B B 438 F588	
+C 743 G G 708	
+D D 905 H H 751	
+****** Result for Image/Page 404 ******
+Shortcuts	
+Pickup	
+A 696	E 655	
+B B 438 F588	
+C C 744 G 708	
+D D 906 H H 751	
+****** Result for Image/Page 405 ******
+Shortcuts	
+Pickup	A 696 E655	
+B B 438 F588	
+C744 G 708	
+D D 906 H H 751	
+****** Result for Image/Page 406 ******
+Shortcuts	
+Pickup	
+A 695	E 655	
+B B 438 F588	
+C744 G 708	
+D D 906 H750	
+****** Result for Image/Page 407 ******
+Shortcuts	
+Pickup	A 695 E655	
+B B 438 F589	
+C745 G 708	
+D D 906 H 749	
+****** Result for Image/Page 408 ******
+Shortcuts	
+Pickup	A 695	E 661	
+B B 438 F592	
+C C 746 G701	
+D D 907 H H 751	
+****** Result for Image/Page 409 ******
+Shortcuts	
+Pickup	A 694	E 660	
+B B 437 F595	
+C 746 G712	
+D 907 H 753	
+****** Result for Image/Page 410 ******
+Shortcuts	
+Pickup	A A 694E663	
+B B 438 F599	
+C C 746 G715	
+D D 907 H H 756	
+****** Result for Image/Page 411 ******
+Shortcuts	
+Pickup	A 694	E 664	
+B B 437 F601	
+C C 747 G 717	
+D 907 H757	
+****** Result for Image/Page 412 ******
+Shortcuts	
+Pickup	A A 694E665	
+B B 437 F601	
+C C 747 G 718	
+D 908H757	
+****** Result for Image/Page 413 ******
+Shortcuts	
+Pickup	
+A 694	E 663	
+B B437 F600	
+C C 747 G716	
+D 908 H756	
+****** Result for Image/Page 414 ******
+Shortcuts	
+Pickup	
+A 693	E 668	
+B B 437 F596	
+C C 747 G713	
+D 908H755	
+****** Result for Image/Page 415 ******
+Shortcuts	
+Pickup	A A 693 E 656	
+B B 437 F589	
+C C 748 G 707	
+D D 908 H750	
+****** Result for Image/Page 416 ******
+Shortcuts	
+Pickup	
+A 693	E 656	
+B B 437 F588	
+C C 748 G 707	
+D 908H750	
+****** Result for Image/Page 417 ******
+Shortcuts	
+Pickup	A 693 E657	
+B B 437 F587	
+C 748 G 707	
+D 908H751	
+****** Result for Image/Page 418 ******
+Shortcuts	
+Pickup	A A 693E657	
+B B 437 F587	
+C748 G 706	
+D D 908 H751	
+****** Result for Image/Page 419 ******
+Shortcuts	
+Pickup	A 693 E 656	
+B B 437 F588	
+C 748 G 707	
+D 907 H 751	
+****** Result for Image/Page 420 ******
+Shortcuts	
+Pickup	A 693 E656	
+B B 437 F588	
+C748 G 708	
+D 907 H751	
+****** Result for Image/Page 421 ******
+Shortcuts	
+Pickup	
+A 693	E 655	
+B B 437 F588	
+C 748	G 708	
+D D 908 H750	
+****** Result for Image/Page 422 ******
+Shortcuts	
+Pickup	
+A 693	E 655	
+B B 437 F588	
+C C 748 G 708	
+D D 908 H 750	
+****** Result for Image/Page 423 ******
+Shortcuts	
+Pickup	
+A 693	E 655	
+B B 437 F588	
+C 748	G 708	
+D D 908 H H 751	
+****** Result for Image/Page 424 ******
+Shortcuts	
+Pickup	
+A 693	E 655	
+B B 437 F587	
+C748 G 708	
+D D 908 H H 751	
+****** Result for Image/Page 425 ******
+Shortcuts	
+Pickup	A 694 E655	
+B B 437 F587	
+C 748	G 708	
+D 908H751	
+****** Result for Image/Page 426 ******
+Shortcuts	
+Pickup	A 693 E E 655	
+B B 437 F586	
+C C 748 G 708	
+D 908H752	
+****** Result for Image/Page 427 ******
+Shortcuts	
+Pickup	
+A 694	E 655	
+B B436 F586	
+C748 G 709	
+D D 909 H752	
+****** Result for Image/Page 428 ******
+Shortcuts	
+Pickup	A A 694E655	
+B B 436 F586	
+C C 748 G 709	
+D D 909 H752	
+****** Result for Image/Page 429 ******
+Shortcuts	
+Pickup	A 694	E 655	
+B B 436 F587	
+C C 748 G 709	
+D D 908 H 752	
+****** Result for Image/Page 430 ******
+Shortcuts	
+Pickup	A 694 E655	
+B B 437 F586	
+C 747 G 708	
+D D 908 H752	
+****** Result for Image/Page 431 ******
+Shortcuts	
+Pickup	A 694 E655	
+B B436 F587	
+C C 747 G G 708	
+D D 908 H752	
+****** Result for Image/Page 432 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 436 F587	
+C C 747 G 708	
+D 908H751	
+****** Result for Image/Page 433 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B436 F587	
+C C 747 G 708	
+D 908 H751	
+****** Result for Image/Page 434 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 436 F587	
+C C 747 G G 708	
+D 908H752	
+****** Result for Image/Page 435 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 437 F587	
+C747 G 707	
+D 908H752	
+****** Result for Image/Page 436 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 437 F587	
+C C 747	G 707	
+D 908H752	
+****** Result for Image/Page 437 ******
+Shortcuts	
+Pickup	A A 694E656	
+B B 437 F586	
+C 747	G 707	
+D D 908 H752	
+****** Result for Image/Page 438 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 436 F586	
+C747 G 707	
+D D 908 H752	
+****** Result for Image/Page 439 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 437 F587	
+C C 746 G 707	
+D D 908 H 752	
+****** Result for Image/Page 440 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 437 F587	
+C746 G 707	
+D 908H752	
+****** Result for Image/Page 441 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 437 F587	
+C746 G 707	
+D D 907 H H 751	
+****** Result for Image/Page 442 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 437 F587	
+C 746 G 707	
+D 907H751	
+****** Result for Image/Page 443 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 437 F587	
+C 746	G 707	
+D907 H H 751	
+****** Result for Image/Page 444 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 437 F587	
+C746 G 707	
+D 907 H 751	
+****** Result for Image/Page 445 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 437 F587	
+C746 G 707	
+D 907 H751	
+****** Result for Image/Page 446 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 438 F587	
+C C 745 G 707	
+D D 906 H H 751	
+****** Result for Image/Page 447 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 438 F587	
+C745 G 707	
+D D 906 H 751	
+****** Result for Image/Page 448 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B437 F587	
+C 745 G 707	
+D D 906 H H 751	
+****** Result for Image/Page 449 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 437 F587	
+C C 745 G 707	
+D 906 H H 751	
+****** Result for Image/Page 450 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 438 F587	
+C C 744 G 707	
+D D 906 H751	
+****** Result for Image/Page 451 ******
+Shortcuts	
+Pickup	
+A 694	E 656	
+B B 438 F587	
+C 744	G 707	
+D D 905 H H 751	
+****** Result for Image/Page 452 ******
+Shortcuts	
+Pickup	A 694 E656	
+B B 438 F587	
+C C 744 G 707	
+D 905H751	
+****** Result for Image/Page 453 ******
+Shortcuts	
+Pickup	
+A 695	E 656	
+B B 438 F587	
+C C 744 G 707	
+D 905H751	
+****** Result for Image/Page 454 ******
+Shortcuts	
+Pickup	
+A 695	E 655	
+B B 438 F588	
+C C 744	G 708	
+D D 905 H 751	
+****** Result for Image/Page 455 ******
+Shortcuts	
+Pickup	A 695 E653	
+B B 438 F588	
+C C 744 G711	
+D 905H751	
+****** Result for Image/Page 456 ******
+Shortcuts	
+Pickup	A 695 E645	
+B B 438 F595	
+C743 G717	
+D 905H747	
+****** Result for Image/Page 457 ******
+Shortcuts	
+Pickup	A A 696 E 643	
+B B 438 F595	
+C743 G718	
+D D 905 H 745	
+****** Result for Image/Page 458 ******
+Shortcuts	
+Pickup	A 696 E642	
+B B 438 F596	
+C742 G719	
+D D 905 H 744	
+****** Result for Image/Page 459 ******
+Shortcuts	
+Pickup	
+A 696	E 640	
+B B 438 F595	
+C 742	G 722	
+D D 905 H 744	
+****** Result for Image/Page 460 ******
+Shortcuts	
+Pickup	A 696 E638	
+B B 438 F597	
+C C 742 G724	
+D D 905 H 742	
+****** Result for Image/Page 461 ******
+Shortcuts	
+Pickup	
+A 696	E 625	
+B B 438 F607	
+C 742	G 735	
+D D 905 H 733	
+****** Result for Image/Page 462 ******
+Shortcuts	
+Pickup	A 696 E583	
+B B 438 F626	
+C 742	G 776	
+D 736	H718	
+****** Result for Image/Page 463 ******
+Shortcuts	
+Pickup	A 695	E570	
+B B 438 F650	
+C C 742 G 786	
+D D 904 H 704	
+****** Result for Image/Page 464 ******
+Shortcuts	
+Pickup	A A 688E579	
+B 445F638	
+C 750 G 786	
+D 901	H716	
+****** Result for Image/Page 465 ******
+Shortcuts	
+Pickup	
+A 683	E 583	
+B B 450 F635	
+C C 753 G 780	
+D 723H719	
+****** Result for Image/Page 466 ******
+Shortcuts	
+Pickup	
+A 682	E585	
+B B 451 F633	
+C C 751 G 777	
+D721 H 720	
+****** Result for Image/Page 467 ******
+Shortcuts	
+Pickup	A A 682E587	
+B B 451 F631	
+C 752 G 775	
+D 720 H 722	
+****** Result for Image/Page 468 ******
+Shortcuts	
+Pickup	A A 682E 588	
+B 452	F631	
+C752 G 774	
+D 720 H 722	
+****** Result for Image/Page 469 ******
+Shortcuts	
+Pickup	A A 681E588	
+B B 453 F630	
+C C 752 G774	
+D 720 H723	
+****** Result for Image/Page 470 ******
+Shortcuts	
+Pickup	A A 680 E588	
+B B 454 F630	
+C752 G 774	
+D D 721 H723	
+****** Result for Image/Page 471 ******
+Shortcuts	
+Pickup	A A 678E586	
+B B 455 F630	
+C C 752 G776	
+D 722H724	
+****** Result for Image/Page 472 ******
+Shortcuts	
+Pickup	A A 669E576	
+B 461 F637	
+C761 G782	
+D D 892 H722	
+****** Result for Image/Page 473 ******
+Shortcuts	
+Pickup	A A 652E573	
+B475 F640	
+C 775	G 787	
+D D 886 H713	
+****** Result for Image/Page 474 ******
+Shortcuts	
+Pickup	A A 639E572	
+B B 485 F643	
+C C 789 G787	
+D728 H 708	
+****** Result for Image/Page 475 ******
+Shortcuts	
+Pickup	A A 633E567	
+B490 F650	
+C 794 G788	
+D718H 697	
+****** Result for Image/Page 476 ******
+Shortcuts	
+Pickup	A 633 E555	
+B B490 F 665	
+C 794 G797	
+D 701	H 683	
+****** Result for Image/Page 477 ******
+Shortcuts	
+Pickup	A 633 E520	
+B B 490 F689	
+C794 G 815	
+D671 H 663	
+****** Result for Image/Page 478 ******
+Shortcuts	
+Pickup	A 634 E 499	
+B491 F733	
+C 794 G 845	
+D D 872 H643	
+****** Result for Image/Page 479 ******
+Shortcuts	
+Pickup	
+A 634	E 491	
+B B 491 F734	
+C794 G 850	
+D D 872 H 633	
+****** Result for Image/Page 480 ******
+Shortcuts	
+Pickup	A 634 E479	
+B491 F738	
+C 793 G 866	
+D D 872 H628	
+****** Result for Image/Page 481 ******
+Shortcuts	
+Pickup	A 634 E442	
+B B 491 F781	
+C793 G 897	
+D D 872 H H 621	
+****** Result for Image/Page 482 ******
+Shortcuts	
+Pickup	
+A 634	E436	
+B B 490 F770	
+C 793 G 909	
+D D 872 H613	
+****** Result for Image/Page 483 ******
+Shortcuts	
+Pickup	A 632 E E 429	
+B B 494 F780	
+C 794 G911	
+D D 869 H615	
+****** Result for Image/Page 484 ******
+Shortcuts	
+Pickup	A A 630 E418	
+B495 F 788	
+C793 G921	
+D D 867 H 601	
+****** Result for Image/Page 485 ******
+Shortcuts	
+Pickup	A A 630 E418	
+B495 F789	
+C C 793 G925	
+D D 867 H H 600	
+****** Result for Image/Page 486 ******
+Shortcuts	
+Pickup	
+A 630	E416	
+B B 495 F791	
+C793 G 926	
+D D 866 H 600	
+****** Result for Image/Page 487 ******
+Shortcuts	
+Pickup	
+A 630	E 406	
+B B 495 F 802	
+C793 G 934	
+D 866H593	
+****** Result for Image/Page 488 ******
+Shortcuts	
+Pickup	
+A 629	E 403	
+B B496 F F 805	
+C794 G 940	
+D D 866 H591	
+****** Result for Image/Page 489 ******
+Shortcuts	
+Pickup	
+A 629	E 403	
+B496 F805	
+C794 G-1	
+D D 866 H590	
+****** Result for Image/Page 490 ******
+Shortcuts	
+Pickup	
+A 629	E 403	
+B B496 F 805	
+C794 G941	
+D D 866 H590	
+****** Result for Image/Page 491 ******
+Shortcuts	
+Pickup	
+A 628	E 403	
+B B 496 F F 805	
+C794 G 940	
+D D 866 H590	
+****** Result for Image/Page 492 ******
+Shortcuts	
+Pickup	
+A 628	E 403	
+B B 496 F 806	
+C794 G 939	
+D D 866 H589	
+****** Result for Image/Page 493 ******
+Shortcuts	
+Pickup	
+A 628	E 402	
+B496 F 806	
+C794 G 939	
+D D 866H589	
+****** Result for Image/Page 494 ******
+Shortcuts	
+Pickup	A 628	E E 401	
+B B 497 F 811	
+C795 G924	
+D 866H588	
+****** Result for Image/Page 495 ******
+Shortcuts	
+Pickup	A A 628 E412	
+B B 497 F807	
+C795 G 921	
+D D 866H589	
+****** Result for Image/Page 496 ******
+Shortcuts	
+Pickup	A 628 E E 409	
+B B 497 F 803	
+C795 G 917	
+D 866H593	
+****** Result for Image/Page 497 ******
+Shortcuts	
+Pickup	A 628 E E 409	
+B B 497 F 798	
+C795 G 928	
+D D 866 H593	
+****** Result for Image/Page 498 ******
+Shortcuts	
+Pickup	
+A 628	E 408	
+B497 F798	
+C795 G 914	
+D D 866 H593	
+****** Result for Image/Page 499 ******
+Shortcuts	
+Pickup	
+A 628	E 408	
+B B 497 F798	
+C794 G 914	
+D D 866H595	
+****** Result for Image/Page 500 ******
+Shortcuts	
+Pickup	
+A 628	E 408	
+B B 497 F798	
+C C 794 G915	
+D D 866 H595	
+****** Result for Image/Page 501 ******
+Shortcuts	
+Pickup	A 628	E 407	
+B B 497 F798	
+C794 G 916	
+D D 866 H595	
+****** Result for Image/Page 502 ******
+Shortcuts	
+Pickup	A 628 E E 407	
+B B 497 F798	
+C 794	G-1	
+D D 866 H595	
+****** Result for Image/Page 503 ******
+Shortcuts	
+Pickup	
+A 628	E 406	
+B B 497 F799	
+C 794	G-1	
+D D 866 H595	
+****** Result for Image/Page 504 ******
+Shortcuts	
+Pickup	
+A 628	E 406	
+B B 497 F799	
+C794 G-1	
+D D 866H595	
+****** Result for Image/Page 505 ******
+Shortcuts	
+Pickup	
+A 628	E 406	
+B497 F800	
+C794 G 938	
+D D 866 H594	
+****** Result for Image/Page 506 ******
+Shortcuts	
+Pickup	
+A 628	E 407	
+B B 497 F800	
+C794 G 936	
+D D 866 H 593	
+****** Result for Image/Page 507 ******
+Shortcuts	
+Pickup	
+A 628	E 407	
+B B 497 F800	
+C C 794 G-1	
+D D 866 H592	
+****** Result for Image/Page 508 ******
+Shortcuts	
+Pickup	A 628	E 407	
+B B 497 F801	
+C794 G 935	
+D D 866 H 591	
+****** Result for Image/Page 509 ******
+Shortcuts	
+Pickup	A 628 E 407	
+B 497F801	
+C794 G 934	
+D 866H590	
+****** Result for Image/Page 510 ******
+Shortcuts	
+Pickup	
+A 628	E 407	
+B B 497 F 802	
+C794 G 933	
+D D 866 H590	
+****** Result for Image/Page 511 ******
+Shortcuts	
+Pickup	
+A 628	E 406	
+B B 497 F803	
+C794 G 934	
+D D 866 H589	
+****** Result for Image/Page 512 ******
+Shortcuts	
+Pickup	
+A 628	E 406	
+B B 497 F802	
+C794 G 934	
+D D 866H589	
+****** Result for Image/Page 513 ******
+Shortcuts	
+Pickup	
+A 628	E 406	
+B497 F802	
+C 794 G917	
+D D 866H591	
+****** Result for Image/Page 514 ******
+Shortcuts	
+Pickup	
+A 627 E 404	
+B B 497 F 802	
+C C 795 G920	
+D D 865H592	
+****** Result for Image/Page 515 ******
+Shortcuts	
+Pickup	A 627 E E 402	
+B497 F801	
+C795 G924	
+D 865	H595	
+****** Result for Image/Page 516 ******
+Shortcuts	
+Pickup	A 627 E E 409	
+B B 497 F796	
+C C 795 G928	
+D D 865 H 606	
+****** Result for Image/Page 517 ******
+Shortcuts	
+Pickup	A 628 E E 407	
+B 498	F 792	
+C794 G 935	
+D 865H610	
+****** Result for Image/Page 518 ******
+Shortcuts	
+Pickup	A A 628E413	
+B B498 F789	
+C794 G 932	
+D D 864 H611	
+****** Result for Image/Page 519 ******
+Shortcuts	
+Pickup	
+A 628	E 416	
+B B 499 F787	
+C794 G929	
+D D 863 H612	
+****** Result for Image/Page 520 ******
+Shortcuts	
+Pickup	
+A 634	E 420	
+B B 500 F787	
+C781 G 926	
+D D 855 H618	
+****** Result for Image/Page 521 ******
+Shortcuts	
+Pickup	A A 651 E E 422	
+B500 F 769	
+C C 753 G 925	
+D D 843 H634	
+****** Result for Image/Page 522 ******
+Shortcuts	
+Pickup	A 652 E425	
+B B 500 F748	
+C C 750 G 927	
+D D 842H662	
+****** Result for Image/Page 523 ******
+Shortcuts	
+Pickup	A 653 E428	
+B B 499 F725	
+C C 750 G932	
+D D 842 H695	
+****** Result for Image/Page 524 ******
+Shortcuts	
+Pickup	A 653 E438	
+B B 503 F687	
+C748 G 950	
+D838 H H 757	
+****** Result for Image/Page 525 ******
+Shortcuts	
+Pickup	A A 646E443	
+B521 F 680	
+C C 752 G960	
+D D 820 H788	
+****** Result for Image/Page 526 ******
+Shortcuts	
+Pickup	A A 644E441	
+B519 F675	
+C C 747 G 962	
+D 820 H783	
+****** Result for Image/Page 527 ******
+Shortcuts	
+Pickup	A 643 E434	
+B520 F680	
+C747 G 963	
+D 820H784	
+****** Result for Image/Page 528 ******
+Shortcuts	
+Pickup	A 621 E431	
+B B 530 F682	
+C772	G 966	
+D819H782	
+****** Result for Image/Page 529 ******
+Shortcuts	
+Pickup	A A 621 E 431	
+B B 530 F682	
+C772 G 966	
+D819H782	
+****** Result for Image/Page 530 ******
+Shortcuts	
+Pickup	A 615	E 431	
+B533 F682	
+C779 G 973	
+D 822H781	
+****** Result for Image/Page 531 ******
+Shortcuts	
+Pickup	
+A 613	E 431	
+B B 534 F682	
+C780 G 973	
+D817 H 781	
+****** Result for Image/Page 532 ******
+Shortcuts	
+Pickup	
+A 613	E 433	
+B534 F682	
+C780 G 957	
+D817H782	
+****** Result for Image/Page 533 ******
+Shortcuts	
+Pickup	
+A 613	E 433	
+B B 534 F681	
+C C 780 G 970	
+D817 H 783	
+****** Result for Image/Page 534 ******
+Shortcuts	
+Pickup	A614 E439	
+B534 F692	
+C780 G 954	
+D818 H 778	
+****** Result for Image/Page 535 ******
+Shortcuts	
+Pickup	A A614 E 430	
+B534 F696	
+C781 G 959	
+D818H759	
+****** Result for Image/Page 536 ******
+Shortcuts	
+Pickup	
+A 614	E 428	
+B B 534 F F708	
+C781 G 950	
+D818H736	
+****** Result for Image/Page 537 ******
+Shortcuts	
+Pickup	A614 E439	
+B535 F711	
+C C 781 G 932	
+D 817	H 718	
+****** Result for Image/Page 538 ******
+Shortcuts	
+Pickup	A 613 E478	
+B B 535 F694	
+C781 G 888	
+D 817 H707	
+****** Result for Image/Page 539 ******
+Shortcuts	
+Pickup	A612 E 488	
+B536 F691	
+C C 782 G877	
+D 817 H705	
+****** Result for Image/Page 540 ******
+Shortcuts	
+Pickup	A612 E491	
+B536 F692	
+C782 G 873	
+D D 817 H 702	
+****** Result for Image/Page 541 ******
+Shortcuts	
+Pickup	A A 612E491	
+B536 F692	
+C782 G 873	
+D 816	H 702	
+****** Result for Image/Page 542 ******
+Shortcuts	
+Pickup	A A611 E 493	
+B B 537 F691	
+C782 G 871	
+D D 816 H H 701	
+****** Result for Image/Page 543 ******
+Shortcuts	
+Pickup	A 611 E496	
+B536 F673	
+C 782 G 868	
+D816H719	
+****** Result for Image/Page 544 ******
+Shortcuts	
+Pickup	A A612 E 506	
+B536 F651	
+C C 782 G 863	
+D D 816 H743	
+****** Result for Image/Page 545 ******
+Shortcuts	
+Pickup	A A 612E532	
+B B 536 F632	
+C782 G 850	
+D D 816 H758	
+****** Result for Image/Page 546 ******
+Shortcuts	
+Pickup	A A 612E537	
+B B 536 F626	
+C 782 G 847	
+D816 H 764	
+****** Result for Image/Page 547 ******
+Shortcuts	
+Pickup	A612 E531	
+B B 536 F630	
+C782 G 853	
+D 817 H H 761	
+****** Result for Image/Page 548 ******
+Shortcuts	
+Pickup	A A 612E520	
+B B 532 F638	
+C C 785 G 862	
+D D 822 H 757	
+****** Result for Image/Page 549 ******
+Shortcuts	
+Pickup	A A610 E519	
+B530 F638	
+C C 791 G 863	
+D D 828 H757	
+****** Result for Image/Page 550 ******
+Shortcuts	
+Pickup	A A 610E521	
+B B 529 F635	
+C 792	G 861	
+D D 829 H 757	
+****** Result for Image/Page 551 ******
+Shortcuts	
+Pickup	A A 610E522	
+B B 529 F634	
+C 792 G861	
+D D 829 H757	
+****** Result for Image/Page 552 ******
+Shortcuts	
+Pickup	A 611	E 522	
+B B529 F633	
+C 791	G 860	
+D D 829 H758	
+****** Result for Image/Page 553 ******
+Shortcuts	
+Pickup	A 611E523	
+B529 F631	
+C791 G 858	
+D D 829 H758	
+****** Result for Image/Page 554 ******
+Shortcuts	
+Pickup	A 611 E524	
+B B 529 F631	
+C C 790 G 858	
+D 829H759	
+****** Result for Image/Page 555 ******
+Shortcuts	
+Pickup	
+A 612 E525	
+B B 529 F630	
+C790 G 858	
+D D 829 H759	
+****** Result for Image/Page 556 ******
+Shortcuts	
+Pickup	
+A 612 E525	
+B529 F630	
+C C 790 G 857	
+D 829H759	
+****** Result for Image/Page 557 ******
+Shortcuts	
+Pickup	A A613 E525	
+B B 529 F F630	
+C C 789 G857	
+D D 829 H759	
+****** Result for Image/Page 558 ******
+Shortcuts	
+Pickup	A613E527	
+B528	F627	
+C C 789 G 855	
+D D 829 H762	
+****** Result for Image/Page 559 ******
+Shortcuts	
+Pickup	A613E528	
+B B 528 F625	
+C C 789 G 853	
+D D 829 H763	
+****** Result for Image/Page 560 ******
+Shortcuts	
+Pickup	A 614	E 529	
+B B 528 F623	
+C C 788	G 854	
+D D 829 H764	
+****** Result for Image/Page 561 ******
+Shortcuts	
+Pickup	A 614 E529	
+B 529 F623	
+C 788 G 856	
+D D 828 H 765	
+****** Result for Image/Page 562 ******
+Shortcuts	
+Pickup	A A614 E528	
+B529 F624	
+C 787 G 855	
+D D 828 H766	
+****** Result for Image/Page 563 ******
+Shortcuts	
+Pickup	A 614E528	
+B529 F625	
+C C 787 G 857	
+D D 828 H765	
+****** Result for Image/Page 564 ******
+Shortcuts	
+Pickup	A 614E527	
+B530 F632	
+C C 786 G857	
+D D 827 H H 761	
+****** Result for Image/Page 565 ******
+Shortcuts	
+Pickup	A A614 E524	
+B530 F633	
+C786 G859	
+D D 827 H760	
+****** Result for Image/Page 566 ******
+Shortcuts	
+Pickup	A 615 E E522	
+B 530 F636	
+C C 785 G 861	
+D D 826 H 759	
+****** Result for Image/Page 567 ******
+Shortcuts	
+Pickup	
+A 615	E518	
+B B 530 F641	
+C C 785 G 865	
+D D 826 H758	
+****** Result for Image/Page 568 ******
+Shortcuts	
+Pickup	
+A 617	E517	
+B B 529 F642	
+C 783 G 867	
+D D 826 H758	
+****** Result for Image/Page 569 ******
+Shortcuts	
+Pickup	A A 616 E516	
+B B 529 F 642	
+C783 G 868	
+D D 827 H758	
+****** Result for Image/Page 570 ******
+Shortcuts	
+Pickup	A A 616E517	
+B B 528 F641	
+C784 G 869	
+D D 827 H 761	
+****** Result for Image/Page 571 ******
+Shortcuts	
+Pickup	A A 526 E517	
+B B 529 F640	
+C 785 G 869	
+D D 826 H761	
+****** Result for Image/Page 572 ******
+Shortcuts	
+Pickup	A A 528E517	
+B B 529 F640	
+C C 786 G 869	
+D 826H762	
+****** Result for Image/Page 573 ******
+Shortcuts	
+Pickup	A A 529E517	
+B B530 F640	
+C786 G 869	
+D D 826 H762	
+****** Result for Image/Page 574 ******
+Shortcuts	
+Pickup	A A 530E517	
+B531F F640	
+C C 787 G 869	
+D 825H762	
+****** Result for Image/Page 575 ******
+Shortcuts	
+Pickup	
+A 530	E518	
+B B 531 F639	
+C C 788 G 868	
+D 825H762	
+****** Result for Image/Page 576 ******
+Shortcuts	
+Pickup	A A610 E518	
+B 529	F 639	
+C 792	G 868	
+D D 830 H 763	
+****** Result for Image/Page 577 ******
+Shortcuts	
+Pickup	A610E518	
+B B528 F638	
+C793 G 868	
+D D 830 H763	
+****** Result for Image/Page 578 ******
+Shortcuts	
+Pickup	
+A610	E518	
+B B528 F638	
+C793 G 868	
+D D 830 H763	
+****** Result for Image/Page 579 ******
+Shortcuts	
+Pickup	A A 610 E519	
+B B 528 F638	
+C 793 G 867	
+D D 830 H763	
+****** Result for Image/Page 580 ******
+Shortcuts	
+Pickup	A A 610E519	
+B B528 F638	
+C C 792 G866	
+D 830H762	
+****** Result for Image/Page 581 ******
+Shortcuts	
+Pickup	
+A 610	E 520	
+B B528 F637	
+C 792	G 866	
+D D 830 H 762	
+****** Result for Image/Page 582 ******
+Shortcuts	
+Pickup	
+A610	E 520	
+B B528 F637	
+C792 G 866	
+D 831 H 762	
+****** Result for Image/Page 583 ******
+Shortcuts	
+Pickup	A A610 E520	
+B528	F 637	
+C792 G 865	
+D831 H 762	
+****** Result for Image/Page 584 ******
+Shortcuts	
+Pickup	
+A 610	E521	
+B B 528 F636	
+C C 792 G865	
+D 831 H763	
+****** Result for Image/Page 585 ******
+Shortcuts	
+Pickup	A611E522	
+B B 527 F633	
+C C 792 G 865	
+D D 831 H 768	
+****** Result for Image/Page 586 ******
+Shortcuts	
+Pickup	A611E523	
+B B 527 F631	
+C792 G 866	
+D D 831 H770	
+****** Result for Image/Page 587 ******
+Shortcuts	
+Pickup	A611E523	
+B B 527 F630	
+C 792	G 866	
+D 831H770	
+****** Result for Image/Page 588 ******
+Shortcuts	
+Pickup	A 611E523	
+B527 F630	
+C 791 G 866	
+D D 831 H771	
+****** Result for Image/Page 589 ******
+Shortcuts	
+Pickup	A611 E523	
+B B527 F630	
+C791 G 866	
+D 831H771	
+****** Result for Image/Page 590 ******
+Shortcuts	
+Pickup	
+A 611	E 523	
+B B 527 F630	
+C791 G 865	
+D D 831 H 770	
+****** Result for Image/Page 591 ******
+Shortcuts	
+Pickup	A611E523	
+B B 527 F631	
+C791 G 866	
+D D 831 H770	
+****** Result for Image/Page 592 ******
+Shortcuts	
+Pickup	A A 611E522	
+B527 F632	
+C 791	G 866	
+D D 831 H 769	
+****** Result for Image/Page 593 ******
+Shortcuts	
+Pickup	A611 E E522	
+B527 F633	
+C791 G 866	
+D 831 H768	
+****** Result for Image/Page 594 ******
+Shortcuts	
+Pickup	A 611E525	
+B527	F641	
+C 791	G 870	
+D D 831 H 739	
+****** Result for Image/Page 595 ******
+Shortcuts	
+Pickup	A611 E507	
+B527 F669	
+C C 792 G 862	
+D D 831 H 722	
+****** Result for Image/Page 596 ******
+Shortcuts	
+Pickup	
+A 611 E 504	
+B B 527 F676	
+C792 G 863	
+D D 831 H714	
+****** Result for Image/Page 597 ******
+Shortcuts	
+Pickup	
+A611	E 504	
+B528 F675	
+C 792 G 864	
+D 830H716	
+****** Result for Image/Page 598 ******
+Shortcuts	
+Pickup	A A610 E 504	
+B528 F674	
+C793 G 864	
+D 831H717	
+****** Result for Image/Page 599 ******
+Shortcuts	
+Pickup	A A610 E 504	
+B B 528 F674	
+C793 G 864	
+D D 831 H717	
+****** Result for Image/Page 600 ******
+Shortcuts	
+Pickup	A 610E512	
+B B 528 F666	
+C794 G 860	
+D D 831 H 722	
+****** Result for Image/Page 601 ******
+Shortcuts	
+Pickup	A 610 E523	
+B B 528 F656	
+C C 794 G 852	
+D D 832 H729	
+****** Result for Image/Page 602 ******
+Shortcuts	
+Pickup	A A610 E523	
+B528 F654	
+C794 G 848	
+D D 832 H 730	
+****** Result for Image/Page 603 ******
+Shortcuts	
+Pickup	A610 E523	
+B528 F653	
+C 794	G 848	
+D D 832 H 730	
+****** Result for Image/Page 604 ******
+Shortcuts	
+Pickup	A A610 E523	
+B528 F653	
+C794 G 848	
+D 832H731	
+****** Result for Image/Page 605 ******
+Shortcuts	
+Pickup	A611 E523	
+B528 F653	
+C794 G 848	
+D 832	H 731	
+****** Result for Image/Page 606 ******
+Shortcuts	
+Pickup	A611 E522	
+B528 F653	
+C794 G 849	
+D D 832 H732	
+****** Result for Image/Page 607 ******
+Shortcuts	
+Pickup	A 611 E523	
+B B528 F653	
+C794 G 849	
+D D 832 H 731	
+****** Result for Image/Page 608 ******
+Shortcuts	
+Pickup	A611 E523	
+B B 528 F652	
+C794 G 848	
+D D 832 H 732	
+****** Result for Image/Page 609 ******
+Shortcuts	
+Pickup	A611 E521	
+B B 527 F655	
+C 794 G850	
+D D 832 H 730	
+****** Result for Image/Page 610 ******
+Shortcuts	
+Pickup	A 611 E521	
+B B528 F656	
+C794 G 850	
+D D 832 H 729	
+****** Result for Image/Page 611 ******
+Shortcuts	
+Pickup	
+A 611	E516	
+B B528 F F660	
+C794 G 852	
+D D 832 H 727	
+****** Result for Image/Page 612 ******
+Shortcuts	
+Pickup	A 611 E515	
+B528 F 661	
+C C 794 G 853	
+D 832	H H 726	
+****** Result for Image/Page 613 ******
+Shortcuts	
+Pickup	
+A611	E513	
+B528 F662	
+C C 793 G 856	
+D 832H726	
+****** Result for Image/Page 614 ******
+Shortcuts	
+Pickup	
+A 611	E513	
+B528	F 661	
+C C 793 G 857	
+D 832 H H727	
+****** Result for Image/Page 615 ******
+Shortcuts	
+Pickup	
+A611	E511	
+B B 528 F661	
+C793 G 859	
+D 831 H730	
+****** Result for Image/Page 616 ******
+Shortcuts	
+Pickup	A611 E511	
+B B 528 F661	
+C C 793 G 859	
+D D 831 H731	
+****** Result for Image/Page 617 ******
+Shortcuts	
+Pickup	A A 611 E 509	
+B528 F661	
+C C 793 G 862	
+D D 831 H 729	
+****** Result for Image/Page 618 ******
+Shortcuts	
+Pickup	A 611 E508	
+B B 528 F661	
+C793 G 862	
+D D 832H729	
+****** Result for Image/Page 619 ******
+Shortcuts	
+Pickup	
+A 611	E 507	
+B528 F662	
+C C 793 G 863	
+D D 832H729	
+****** Result for Image/Page 620 ******
+Shortcuts	
+Pickup	A611 E507	
+B B 528 F662	
+C793 G 864	
+D D 832 H 729	
+****** Result for Image/Page 621 ******
+Shortcuts	
+Pickup	A611 E 507	
+B528 F662	
+C793 G 862	
+D D 831H729	
+****** Result for Image/Page 622 ******
+Shortcuts	
+Pickup	A A 610 E 507	
+B B 528 F663	
+C C 794 G862	
+D 831H727	
+****** Result for Image/Page 623 ******
+Shortcuts	
+Pickup	
+A 610	E 508	
+B528 F665	
+C794 G 861	
+D 831 H724	
+****** Result for Image/Page 624 ******
+Shortcuts	
+Pickup	A A610 E510	
+B B 529 F 666	
+C C 794 G 861	
+D D 831 H720	
+****** Result for Image/Page 625 ******
+Shortcuts	
+Pickup	
+A 610	E510	
+B529 F667	
+C794 G857	
+D D 831 H 720	
+****** Result for Image/Page 626 ******
+Shortcuts	
+Pickup	
+A610	E510	
+B B 529 F668	
+C 794 G857	
+D D 831 H718	
+****** Result for Image/Page 627 ******
+Shortcuts	
+Pickup	
+A 610	E510	
+B B 529 F671	
+C 794 G 852	
+D 831	H 712	
+****** Result for Image/Page 628 ******
+Shortcuts	
+Pickup	A A 610 E 508	
+B529 F671	
+C794 G 855	
+D D 831 H 711	
+****** Result for Image/Page 629 ******
+Shortcuts	
+Pickup	
+A 610	E510	
+B B 529 F672	
+C 793 G 855	
+D D 830 H 710	
+****** Result for Image/Page 630 ******
+Shortcuts	
+Pickup	A610E510	
+B B 529 F673	
+C793 G 855	
+D830 H 708	
+****** Result for Image/Page 631 ******
+Shortcuts	
+Pickup	
+A 610	E510	
+B528	F672	
+C C 793 G 854	
+D D 830 H H709	
+****** Result for Image/Page 632 ******
+Shortcuts	
+Pickup	
+A 610	E510	
+B B 529 F671	
+C C 793 G 854	
+D D 830 H711	
+****** Result for Image/Page 633 ******
+Shortcuts	
+Pickup	
+A610	E 509	
+B B529 F667	
+C 793 G858	
+D 830	H 719	
+****** Result for Image/Page 634 ******
+Shortcuts	
+Pickup	A 610 E E 509	
+B B529 F 666	
+C C 793 G 857	
+D 830H721	
+****** Result for Image/Page 635 ******
+Shortcuts	
+Pickup	A A610 E 508	
+B B 529 F664	
+C793 G 860	
+D D 830 H725	
+****** Result for Image/Page 636 ******
+Shortcuts	
+Pickup	A A610 E 508	
+B B 529 F 662	
+C C 793 G 867	
+D 830H734	
+****** Result for Image/Page 637 ******
+Shortcuts	
+Pickup	A 610 E507	
+B B 528 F659	
+C793 G 866	
+D830 H H 735	
+****** Result for Image/Page 638 ******
+Shortcuts	
+Pickup	A 610 E506	
+B B 528 F F658	
+C793 G 867	
+D 830H736	
+****** Result for Image/Page 639 ******
+Shortcuts	
+Pickup	A A 616E507	
+B B529 F656	
+C 791	G 865	
+D D 824 H737	
+****** Result for Image/Page 640 ******
+Shortcuts	
+Pickup	A614 E507	
+B B540 F657	
+C776	G 865	
+D D 810 H 735	
+****** Result for Image/Page 641 ******
+Shortcuts	
+Pickup	
+A614	E 509	
+B553 F657	
+C C 760 G 863	
+D D 788 H734	
+****** Result for Image/Page 642 ******
+Shortcuts	
+Pickup	A 634	E511	
+B588 F658	
+C C 724 G 861	
+D 740	H 733	
+****** Result for Image/Page 643 ******
+Shortcuts	
+Pickup	A A 634E515	
+B B 588 F663	
+C 724 G 860	
+D 740 H H 725	
+****** Result for Image/Page 644 ******
+Shortcuts	
+Pickup	A A 659E513	
+B 630 F 667	
+C688	G 856	
+D 690H722	
+****** Result for Image/Page 645 ******
+Shortcuts	
+Pickup	A A 688 E511	
+B B673 F669	
+C659 G 858	
+D D 648 H719	
+****** Result for Image/Page 646 ******
+Shortcuts	
+Pickup	A 704	E511	
+B 695F669	
+C647 G858	
+D D 630 H719	
+****** Result for Image/Page 647 ******
+Shortcuts	
+Pickup	A A 742E512	
+B B 743 F670	
+C625 G 857	
+D 595H719	
+****** Result for Image/Page 648 ******
+Shortcuts	
+Pickup	A763 E515	
+B771 F 668	
+C616 G 854	
+D577 H 719	
+****** Result for Image/Page 649 ******
+Shortcuts	
+Pickup	A A 783 E517	
+B795 F667	
+C611 G 852	
+D 563H719	
+****** Result for Image/Page 650 ******
+Shortcuts	
+Pickup	A 801 E521	
+B815	F 665	
+C C 606 G 846	
+D D 552 H 718	
+****** Result for Image/Page 651 ******
+Shortcuts	
+Pickup	
+A 812 E532	
+B B 828 F665	
+C604 G 832	
+D 548	H 710	
+****** Result for Image/Page 652 ******
+Shortcuts	
+Pickup	A 812 E550	
+B B 828 F667	
+C604 G 808	
+D 548H 696	
+****** Result for Image/Page 653 ******
+Shortcuts	
+Pickup	A 817 E598	
+B B 827 F676	
+C599 G753	
+D 551H667	
+****** Result for Image/Page 654 ******
+Shortcuts	
+Pickup	A 819 E623	
+B B 826 F684	
+C596 G726	
+D D 553 H 654	
+****** Result for Image/Page 655 ******
+Shortcuts	
+Pickup	A 819	E 672	
+B B 826 F 708	
+C596	G 679	
+D D 553H629	
+****** Result for Image/Page 656 ******
+Shortcuts	
+Pickup	A 819 E E 698	
+B826 F722	
+C597 G 657	
+D D 553 H618	
+****** Result for Image/Page 657 ******
+Shortcuts	
+Pickup	A 819 E724	
+B B 827 F 738	
+C596	G 636	
+D D 553 H610	
+****** Result for Image/Page 658 ******
+Shortcuts	
+Pickup	A 819	E 750	
+B B 826 F755	
+C596 G618	
+D 554H 602	
+****** Result for Image/Page 659 ******
+Shortcuts	
+Pickup	A 819 E787	
+B B 826 F 782	
+C596	G 595	
+D554 H593	
+****** Result for Image/Page 660 ******
+Shortcuts	
+Pickup	A A 820E793	
+B B 826 F786	
+C595 G592	
+D 554 H593	
+****** Result for Image/Page 661 ******
+Shortcuts	
+Pickup	A A 822E794	
+B B 819 F788	
+C589 G592	
+D D 562 H591	
+****** Result for Image/Page 662 ******
+Shortcuts	
+Pickup	
+A 840	E 794	
+B B 832 F788	
+C 581 G591	
+D D 561 H592	
+****** Result for Image/Page 663 ******
+Shortcuts	
+Pickup	A 841 E795	
+B832 F788	
+C580 G591	
+D D 562 H592	
+****** Result for Image/Page 664 ******
+Shortcuts	
+Pickup	A 841 E795	
+B B 832 F 788	
+C580 G590	
+D D 562 H592	
+****** Result for Image/Page 665 ******
+Shortcuts	
+Pickup	A 841	E 796	
+B 831 F 788	
+C579 G589	
+D D 563 H593	
+****** Result for Image/Page 666 ******
+Shortcuts	
+Pickup	
+A 841	E 822	
+B B 832 F788	
+C579 G573	
+D D 563 H598	
+****** Result for Image/Page 667 ******
+Shortcuts	
+Pickup	A 842 E 831	
+B B 749 F794	
+C579	G 559	
+D D 563 H611	
+****** Result for Image/Page 668 ******
+Shortcuts	
+Pickup	
+A 842	E 833	
+B B 750 F789	
+C579 G557	
+D563 H611	
+****** Result for Image/Page 669 ******
+Shortcuts	
+Pickup	A 842 E838	
+B B 799 F791	
+C579	G 555	
+D D 563 H616	
+****** Result for Image/Page 670 ******
+Shortcuts	
+Pickup	A 842 E E 843	
+B B 778 F793	
+C578 G550	
+D D 563 H618	
+****** Result for Image/Page 671 ******
+Shortcuts	
+Pickup	
+A 842	E 842	
+B B 780 F789	
+C578 G549	
+D564 H616	
+****** Result for Image/Page 672 ******
+Shortcuts	
+Pickup	A A 842 E 842	
+B781 F789	
+C578 G 549	
+D D 564 H617	
+****** Result for Image/Page 673 ******
+Shortcuts	
+Pickup	
+A 842	E 850	
+B831 F 791	
+C578 G542	
+D564 H 620	
+****** Result for Image/Page 674 ******
+Shortcuts	
+Pickup	A 842 E863	
+B B 831 F 799	
+C578 G536	
+D564 H621	
+****** Result for Image/Page 675 ******
+Shortcuts	
+Pickup	A 842	E E 871	
+B B 831 F805	
+C578	G 532	
+D D 564 H620	
+****** Result for Image/Page 676 ******
+Shortcuts	
+Pickup	A 842 E870	
+B831 F805	
+C578 G532	
+D564 H621	
+****** Result for Image/Page 677 ******
+Shortcuts	
+Pickup	
+A 842	E 869	
+B B 831 F 805	
+C578 G533	
+D564 H H 621	
+****** Result for Image/Page 678 ******
+Shortcuts	
+Pickup	A A 842E 868	
+B B 831 F 804	
+C578 G534	
+D D 564 H620	
+****** Result for Image/Page 679 ******
+Shortcuts	
+Pickup	A 842 E E 866	
+B B 831 F803	
+C578	G 535	
+D564 H619	
+****** Result for Image/Page 680 ******
+Shortcuts	
+Pickup	A 842 E866	
+B B 831 F 803	
+C578 G535	
+D D 564 H619	
+****** Result for Image/Page 681 ******
+Shortcuts	
+Pickup	A A 842 E 864	
+B 831 F779	
+C578 G533	
+D D 564 H624	
+****** Result for Image/Page 682 ******
+Shortcuts	
+Pickup	A 842 E 858	
+B 831 F763	
+C578	G 530	
+D564 H635	
+****** Result for Image/Page 683 ******
+Shortcuts	
+Pickup	
+A 842	E 850	
+B B 831 F754	
+C578 G527	
+D D 564 H650	
+****** Result for Image/Page 684 ******
+Shortcuts	
+Pickup	
+A 842	E 849	
+B B 831 F750	
+C578 G528	
+D D 564 H654	
+****** Result for Image/Page 685 ******
+Shortcuts	
+Pickup	A 842 E844	
+B B 831 F720	
+C578 G526	
+D 564H 661	
+****** Result for Image/Page 686 ******
+Shortcuts	
+Pickup	
+A 842	E 829	
+B B 654 F695	
+C578 G527	
+D D 564 H 688	
+****** Result for Image/Page 687 ******
+
+A 842	E 822	
+B B 667 F675	
+C578 G531	
+D D 564 H 701	
+****** Result for Image/Page 688 ******
+Shortcuts	
+Pickup	
+A 842	E 789	
+B831 F651	
+C578	G 561	
+D 564H707	
+****** Result for Image/Page 689 ******
+Shortcuts	
+Pickup	A 842 E768	
+B 831	F651	
+C578	G 581	
+D D 564 H 700	
+****** Result for Image/Page 690 ******
+Shortcuts	
+Pickup	
+A A 822 E612	
+B B 825 F676	
+C591 G727	
+D 557 H 651	
+****** Result for Image/Page 691 ******
+Shortcuts	
+Pickup	
+A 802 E 608	
+B B 803 F676	
+C597 G729	
+D 566 H 652	
+****** Result for Image/Page 692 ******
+Shortcuts	
+Pickup	
+A A 801 E 601	
+B B 801 F 668	
+C598 G 740	
+D 566	H 662	
+****** Result for Image/Page 693 ******
+Shortcuts	
+Pickup	
+A 787	E 601	
+B B 803 F668	
+C611	G 740	
+D D 565 H662	
+****** Result for Image/Page 694 ******
+Shortcuts	
+Pickup	
+A771 E 600	
+B 791	F 667	
+C619 G 740	
+D 561	H 663	
+****** Result for Image/Page 695 ******
+Shortcuts	
+Pickup	
+A A 758 E 607	
+B755 F 665	
+C623 G733	
+D571 H 664	
+****** Result for Image/Page 696 ******
+Shortcuts	
+Pickup	
+A A 750 E623	
+B 735	F 659	
+C615	G716	
+D 605	H 667	
+****** Result for Image/Page 697 ******
+Shortcuts	
+Pickup	
+A A 755 E 652	
+B 710	F 648	
+C603 G688	
+D 629 H676	
+****** Result for Image/Page 698 ******
+Shortcuts	
+Pickup	
+A A 760 E706	
+B B672 F 625	
+C593	G 634	
+D 669 H700	
+****** Result for Image/Page 699 ******
+Shortcuts	
+Pickup	
+A 762 E737	
+B B 666 F614	
+C587	G 602	
+D671 H 716	
+****** Result for Image/Page 700 ******
+Shortcuts	
+Pickup	
+A A 762 E805	
+B B 665 F 604	
+C587G535	
+D671 H 733	
+****** Result for Image/Page 701 ******
+Shortcuts	
+Pickup	
+A A 761 E 838	
+B B 665 F584	
+C588	G501	
+D671 H773	
+****** Result for Image/Page 702 ******
+Shortcuts	
+Pickup	
+A A 761 E869	
+B B666 F581	
+C588	G470	
+D D 670 H 790	
+****** Result for Image/Page 703 ******
+Shortcuts	
+Pickup	
+A A 762 E 893	
+B665	F572	
+C588G447	
+D671 H831	
+****** Result for Image/Page 704 ******
+Shortcuts	
+Pickup	
+A A 762 E 930	
+B B 665 F 543	
+C587	G415	
+D 671 H 854	
+****** Result for Image/Page 705 ******
+Shortcuts	
+Pickup	
+A A 762 E952	
+B B 664 F 534	
+C587	G396	
+D671 H 875	
+****** Result for Image/Page 706 ******
+Shortcuts	
+Pickup	
+A A 763E978	
+B B 663 F531	
+C586 G372	
+D 673	H894	
+****** Result for Image/Page 707 ******
+Shortcuts	
+Pickup	
+A A 764 E979	
+B663 F529	
+C585 G G 371	
+D673 H896	
+****** Result for Image/Page 708 ******
+Shortcuts	
+Pickup	
+A 771 E979	
+B B 663 F 529	
+C578G370	
+D 675 H 896	
+****** Result for Image/Page 709 ******
+Shortcuts	
+Pickup	
+A A 787 E 979	
+B B666 F529	
+C564G370	
+D678 H 896	
+****** Result for Image/Page 710 ******
+Shortcuts	
+Pickup	
+A A 812 E979	
+B 673	F529	
+C541 G371	
+D 682H896	
+****** Result for Image/Page 711 ******
+Shortcuts	
+Pickup	
+A813E977	
+B 672	F528	
+C540 G373	
+D 683 H 896	
+****** Result for Image/Page 712 ******
+Shortcuts	
+Pickup	
+A A 813 E970	
+B671 F533	
+C539 G G 380	
+D D 684H893	
+****** Result for Image/Page 713 ******
+Shortcuts	
+Pickup	
+A A 815 E953	
+B B 671 F536	
+C538 G G 394	
+D D 685 H874	
+****** Result for Image/Page 714 ******
+Shortcuts	
+Pickup	
+A A 831 E 945	
+B 671	F 541	
+C521	G401	
+D 696 H H 864	
+****** Result for Image/Page 715 ******
+Shortcuts	
+Pickup	
+A A 832 E 944	
+B B 666 F542	
+C520	G401	
+D 698H 864	
+****** Result for Image/Page 716 ******
+Shortcuts	
+Pickup	
+A A 832 E 944	
+B665	F542	
+C520	G 401	
+D 698H864	
+****** Result for Image/Page 717 ******
+Shortcuts	
+Pickup	
+A A 832 E 944	
+B B664 F 542	
+C520	G401	
+D699 H H 864	
+****** Result for Image/Page 718 ******
+Shortcuts	
+Pickup	
+A A 832 E 944	
+B B665 F 542	
+C520	G402	
+D 699 863	
+****** Result for Image/Page 719 ******
+Shortcuts	
+Pickup	
+A A 832 E 944	
+B B665 F 542	
+C520	G402	
+D 699H 863	
+****** Result for Image/Page 720 ******
+Shortcuts	
+Pickup	
+A 843 E 944	
+B B 664 F 542	
+C509	G401	
+D 704	H 863	
+****** Result for Image/Page 721 ******
+Shortcuts	
+Pickup	
+A A 861 E948	
+B 663	F 545	
+C492 G 397	
+D D 714 H863	
+****** Result for Image/Page 722 ******
+Shortcuts	
+Pickup	
+A A 890 E 950	
+B B666 F 545	
+C464 G 394	
+D 728H 865	
+****** Result for Image/Page 723 ******
+Shortcuts	
+Pickup	
+A A 891 E960	
+B B 667 F 553	
+C464 G 389	
+D 728H862	
+****** Result for Image/Page 724 ******
+Shortcuts	
+Pickup	
+A A 891 E 955	
+B 667	F 553	
+C464G 388	
+D 728 H H 862	
+****** Result for Image/Page 725 ******
+Shortcuts	
+Pickup	
+A A 891 E 963	
+B B 667 F587	
+C464 G376	
+D D 728 H 862	
+****** Result for Image/Page 726 ******
+Shortcuts	
+Pickup	
+A A 897 E967	
+B673	F 650	
+C459 G372	
+D D 727 H 823	
+****** Result for Image/Page 727 ******
+Shortcuts	
+Pickup	
+A A 925 E 968	
+B B698 F 670	
+C439 G 378	
+D D 726 H H 786	
+****** Result for Image/Page 728 ******
+Shortcuts	
+Pickup	
+A A 933 E 968	
+B 706	F680	
+C434	G 379	
+D 725H 780	
+****** Result for Image/Page 729 ******
+Shortcuts	
+Pickup	
+A 933 E972	
+B705 F691	
+C434 G 379	
+D 725 H 774	
+****** Result for Image/Page 730 ******
+Shortcuts	
+Pickup	
+A 928 E972	
+B714 F F 730	
+C449 G379	
+D715 H764	
+****** Result for Image/Page 731 ******
+Shortcuts	
+Pickup	
+A A 927 E918	
+B719 F F 734	
+C445 G380	
+D 710	H 754	
+****** Result for Image/Page 732 ******
+Shortcuts	
+Pickup	
+A A 929 E925	
+B 730	F 734	
+C448	G 380	
+D 703H755	
+****** Result for Image/Page 733 ******
+Shortcuts	
+Pickup	
+A 934 E991	
+B B 744 F 735	
+C448G376	
+D D 696 H757	
+****** Result for Image/Page 734 ******
+Shortcuts	
+Pickup	
+A 934	E 1000	
+B B 744 F 743	
+C 448G371	
+D 696 H758	
+****** Result for Image/Page 735 ******
+Shortcuts	
+Pickup	
+A A 934 E 999	
+B743F 742	
+C448G372	
+D 697	H 759	
+****** Result for Image/Page 736 ******
+Shortcuts	
+Pickup	
+A A 934 E999	
+B743F 743	
+C C 448	G372	
+D697H758	
+****** Result for Image/Page 737 ******
+Shortcuts	
+Pickup	
+A A 934 E 998	
+B743 F 743	
+C448	G 373	
+D697H757	
+****** Result for Image/Page 738 ******
+Shortcuts	
+Pickup	
+A A 934 E 998	
+B743 F 744	
+C448	G 373	
+D D 697 H757	
+****** Result for Image/Page 739 ******
+Shortcuts	
+Pickup	
+A A 934 E 998	
+B 743	F 744	
+C448	G 373	
+D697 H757	
+****** Result for Image/Page 740 ******
+Shortcuts	
+Pickup	
+A A 934 E 998	
+B743 F 744	
+C448 G373	
+D697H757	
+****** Result for Image/Page 741 ******
+Shortcuts	
+Pickup	
+A916E E 998	
+B729 F 744	
+C453 G372	
+D D 696 H757	
+****** Result for Image/Page 742 ******
+Shortcuts	
+Pickup	
+A A 902 E 1000	
+B B726 F 743	
+C462 G372	
+D 695 H758	
+****** Result for Image/Page 743 ******
+Shortcuts	
+Pickup	
+A A 877 E 1000	
+B 701 F743	
+C485G 371	
+D 693	H 759	
+****** Result for Image/Page 744 ******
+Shortcuts	
+Pickup	
+A A 860 E 1001	
+B 688	F 742	
+C498 G371	
+D 694H 760	
+****** Result for Image/Page 745 ******
+Shortcuts	
+Pickup	
+A A 828E 1001	
+B663 F 742	
+C524 G371	
+D 698H759	
+****** Result for Image/Page 746 ******
+Shortcuts	
+Pickup	
+A A 828 E 1001	
+B B 663 F 742	
+C524 G371	
+D 698	H H 760	
+****** Result for Image/Page 747 ******
+Shortcuts	
+Pickup	
+A A 791 E 1001	
+B B 634 F 743	
+C565 G371	
+D 705 H759	
+****** Result for Image/Page 748 ******
+Shortcuts	
+Pickup	
+A 785 E999	
+B 631	F 744	
+C562	G 373	
+D D 709 H 757	
+****** Result for Image/Page 749 ******
+Shortcuts	
+Pickup	
+A A 785 E 999	
+B B 631 F 744	
+C562G374	
+D D 709 H757	
+****** Result for Image/Page 750 ******
+Shortcuts	
+Pickup	
+A A 785 E 998	
+B 631	F 742	
+C561 G 373	
+D D 709 H757	
+****** Result for Image/Page 751 ******
+Shortcuts	
+Pickup	
+A 785 E 997	
+B 631	F 740	
+C561	G 374	
+D 709 H758	
+****** Result for Image/Page 752 ******
+Shortcuts	
+Pickup	
+A 785 E 992	
+B B631 F F 729	
+C561	G 374	
+D D 709 H762	
+****** Result for Image/Page 753 ******
+Shortcuts	
+Pickup	
+A A 785 E984	
+B B 631 F 708	
+C561 G374	
+D 709H770	
+****** Result for Image/Page 754 ******
+Shortcuts	
+Pickup	
+A A 785E974	
+B B 631 F 686	
+C561 G375	
+D D 709 H779	
+****** Result for Image/Page 755 ******
+Shortcuts	
+Pickup	
+A A 785 E 952	
+B631 F 653	
+C561 G G 390	
+D 709 H787	
+****** Result for Image/Page 756 ******
+Shortcuts	
+Pickup	
+A 785 E950	
+B631	F650	
+C561	G392	
+D 709	H 787	
+****** Result for Image/Page 757 ******
+Shortcuts	
+Pickup	
+A A 787 E950	
+B B 632 F 650	
+C560 G 392	
+D 708 H787	
+****** Result for Image/Page 758 ******
+Shortcuts	
+Pickup	
+A 794 E950	
+B B635 F 651	
+C553 G 391	
+D 708H787	
+****** Result for Image/Page 759 ******
+Shortcuts	
+Pickup	
+A 810	E 950	
+B644 F 652	
+C 539 G391	
+D D 706 H H 787	
+****** Result for Image/Page 760 ******
+Shortcuts	
+Pickup	
+A A 833 E-1	
+B 658	F 681	
+C518 G 390	
+D 704H 782	
+****** Result for Image/Page 761 ******
+Shortcuts	
+Pickup	
+A 885 E 904	
+B B 692 F 711	
+C476G391	
+D 705 H755	
+****** Result for Image/Page 762 ******
+Shortcuts	
+Pickup	
+A A 925 E917	
+B721 F F 753	
+C447 G G 393	
+D D 707 H741	
+****** Result for Image/Page 763 ******
+Shortcuts	
+Pickup	
+A A 930 E 985	
+B B 729 F 757	
+C 446G 395	
+D D 705 H H 733	
+****** Result for Image/Page 764 ******
+Shortcuts	
+Pickup	
+A A 926E 983	
+B 733	F 757	
+C451 G 395	
+D 699H 734	
+****** Result for Image/Page 765 ******
+Shortcuts	
+Pickup	
+A A 927 E926	
+B 733	F 757	
+C451 G 394	
+D 699H 735	
+****** Result for Image/Page 766 ******
+Shortcuts	
+Pickup	
+A A 926 E925	
+B B 733 F 756	
+C450 G 394	
+D 700H736	
+****** Result for Image/Page 767 ******
+Shortcuts	
+Pickup	
+A A 926 E924	
+B B 733 F 756	
+C450G 394	
+D 700H 735	
+****** Result for Image/Page 768 ******
+Shortcuts	
+Pickup	
+A A 927 E 923	
+B 733	F 755	
+C450G 393	
+D 700 H 736	
+****** Result for Image/Page 769 ******
+Shortcuts	
+Pickup	
+A A 927 E 923	
+B B 733 F 753	
+C450 G 394	
+D 700 H 738	
+****** Result for Image/Page 770 ******
+Shortcuts	
+Pickup	
+A A 925 E916	
+B 731	F 740	
+C452	G395	
+D 700 H740	
+****** Result for Image/Page 771 ******
+Shortcuts	
+Pickup	
+A A 914 E964	
+B 728	F 720	
+C452 G 397	
+D D 695 H H 746	
+****** Result for Image/Page 772 ******
+Shortcuts	
+Pickup	
+A 895	E 945	
+B719	F 701	
+C475	G 402	
+D 689	H H 751	
+****** Result for Image/Page 773 ******
+Shortcuts	
+Pickup	
+A A 861E 936	
+B B 708 F 684	
+C475G413	
+D 684	H 752	
+****** Result for Image/Page 774 ******
+Shortcuts	
+Pickup	
+A A 853 E 935	
+B700 F 684	
+C422G413	
+D 680 H752	
+****** Result for Image/Page 775 ******
+Shortcuts	
+Pickup	
+A A 853 E 936	
+B B 700 F684	
+C422	G413	
+D680 H752	
+****** Result for Image/Page 776 ******
+Shortcuts	
+Pickup	
+A A 853 E 936	
+B B 700 F 685	
+C422	G413	
+D 680	H 752	
+****** Result for Image/Page 777 ******
+Shortcuts	
+Pickup	
+A A 853 E 936	
+B B 700 F 685	
+C422	G413	
+D 680	H 752	
+****** Result for Image/Page 778 ******
+Shortcuts	
+Pickup	
+A A 853E 937	
+B 700	F685	
+C423	G412	
+D 680	H 752	
+****** Result for Image/Page 779 ******
+Shortcuts	
+Pickup	
+A A 853 E937	
+B700 F686	
+C423	G412	
+D 680	H 752	
+****** Result for Image/Page 780 ******
+Shortcuts	
+Pickup	
+A A 853 E 937	
+B700 F686	
+C508 G412	
+D 680	H 752	
+****** Result for Image/Page 781 ******
+Shortcuts	
+Pickup	
+A A 853E937	
+B700 F686	
+C507 G412	
+D D 681 H752	
+****** Result for Image/Page 782 ******
+Shortcuts	
+Pickup	
+A A 853E 937	
+B B 699 F 686	
+C507 G412	
+D 681	H H 751	
+****** Result for Image/Page 783 ******
+Shortcuts	
+Pickup	
+A A 850 E931	
+B B 698 F 687	
+C507	G418	
+D 680 H749	
+****** Result for Image/Page 784 ******
+Shortcuts	
+Pickup	
+A 839 E 928	
+B B 702 F 687	
+C510	G421	
+D 680	H 747	
+****** Result for Image/Page 785 ******
+Shortcuts	
+Pickup	
+A 820	E 927	
+B 708	F 686	
+C431 G422	
+D 657 H745	
+****** Result for Image/Page 786 ******
+Shortcuts	
+Pickup	
+A A 807 E 925	
+B713	F 686	
+C431	G423	
+D 646 H 744	
+****** Result for Image/Page 787 ******
+Shortcuts	
+Pickup	
+A A 807 E 925	
+B713 F686	
+C432 G424	
+D 646 H 743	
+****** Result for Image/Page 788 ******
+Shortcuts	
+Pickup	
+A A 807 E 925	
+B 713	F686	
+C434 G424	
+D 647	H 743	
+****** Result for Image/Page 789 ******
+Shortcuts	
+Pickup	
+A A 804 E926	
+B707 F 688	
+C556	G 423	
+D 651 H742	
+****** Result for Image/Page 790 ******
+Shortcuts	
+Pickup	
+A A 801 E 926	
+B B 696 F689	
+C556	G424	
+D 651 H 741	
+****** Result for Image/Page 791 ******
+Shortcuts	
+Pickup	
+A A 760 E754	
+B B 689 F 690	
+C593	G424	
+D 649	H H 741	
+****** Result for Image/Page 792 ******
+Shortcuts	
+Pickup	
+A A 755 E750	
+B B 689 F 690	
+C598G423	
+D 648	H 741	
+****** Result for Image/Page 793 ******
+Shortcuts	
+Pickup	
+A A 765 E926	
+B B 677 F 691	
+C595	G424	
+D 661 H740	
+****** Result for Image/Page 794 ******
+Shortcuts	
+Pickup	
+A A 767 E927	
+B B654 F692	
+C581 G 424	
+D 683	H 740	
+****** Result for Image/Page 795 ******
+Shortcuts	
+Pickup	
+A A 778 E927	
+B B627 F692	
+C568	G424	
+D 709 H 740	
+****** Result for Image/Page 796 ******
+Shortcuts	
+Pickup	
+A A 786E927	
+B B608 F692	
+C560G424	
+D 729 H 740	
+****** Result for Image/Page 797 ******
+Shortcuts	
+Pickup	
+A A 789 E927	
+B B 602 F 692	
+C557	G424	
+D D 735 H 740	
+****** Result for Image/Page 798 ******
+Shortcuts	
+Pickup	
+A A 789 E 927	
+B B 602 F692	
+C557	G424	
+D D 735 H 740	
+****** Result for Image/Page 799 ******
+Shortcuts	
+Pickup	
+A A 790E926	
+B B 603 F 689	
+C557	G424	
+D 734H 743	
+****** Result for Image/Page 800 ******
+Shortcuts	
+Pickup	
+A A 791E926	
+B B 603 F685	
+C556 G422	
+D D 734 H745	
+****** Result for Image/Page 801 ******
+Shortcuts	
+Pickup	
+A A 789 E926	
+B B 603 F685	
+C557 G422	
+D D 734 H 745	
+****** Result for Image/Page 802 ******
+Shortcuts	
+Pickup	
+A A 779 E926	
+B B 605 F 684	
+C567	G423	
+D D 730 H744	
+****** Result for Image/Page 803 ******
+Shortcuts	
+Pickup	
+A A 748E926	
+B B 602 F 684	
+C599 G 422	
+D 724H 745	
+****** Result for Image/Page 804 ******
+Shortcuts	
+Pickup	
+A A 745 E919	
+B B 602 F681	
+C602 G428	
+D D 724 H742	
+****** Result for Image/Page 805 ******
+Shortcuts	
+Pickup	
+A A 744 E 892	
+B B 602 F 659	
+C603 G451	
+D D 723 H 742	
+****** Result for Image/Page 806 ******
+Shortcuts	
+Pickup	
+A 744 E888	
+B B603 F 656	
+C603 G454	
+D 723H 742	
+****** Result for Image/Page 807 ******
+Shortcuts	
+Pickup	
+A A 744 E887	
+B B 603 F 658	
+C603 G455	
+D D 722 H 740	
+****** Result for Image/Page 808 ******
+Shortcuts	
+Pickup	
+A A 743 E886	
+B B605 F 658	
+C604	G456	
+D D 720 H 739	
+****** Result for Image/Page 809 ******
+Shortcuts	
+Pickup	
+A A 742 E886	
+B616	F 659	
+C 604	G456	
+D710	H 739	
+****** Result for Image/Page 810 ******
+Shortcuts	
+Pickup	
+A 741 E885	
+B B 636 F 660	
+C 605	G457	
+D 691 H 738	
+****** Result for Image/Page 811 ******
+Shortcuts	
+Pickup	
+A A 743 E885	
+B B 696 F 660	
+C607 G457	
+D D 638 H 738	
+****** Result for Image/Page 812 ******
+Shortcuts	
+Pickup	
+A A 746 E 885	
+B 758	F 660	
+C627 G458	
+D 582 H737	
+****** Result for Image/Page 813 ******
+Shortcuts	
+Pickup	
+A A 748 E 885	
+B 789	F 660	
+C638 G458	
+D 555 H 737	
+****** Result for Image/Page 814 ******
+Shortcuts	
+Pickup	
+A A 750 E 884	
+B B 840 F 660	
+C651 G458	
+D 505 H 737	
+****** Result for Image/Page 815 ******
+Shortcuts	
+Pickup	
+A A 737 E 884	
+B 857 F F 660	
+C684G458	
+D 487 H 737	
+****** Result for Image/Page 816 ******
+Shortcuts	
+Pickup	
+A 704 E884	
+B B 866 F661	
+C722 G458	
+D473 H736	
+****** Result for Image/Page 817 ******
+Shortcuts	
+Pickup	
+A A 682 E884	
+B 879	F 661	
+C741	G458	
+D 450H 736	
+****** Result for Image/Page 818 ******
+Shortcuts	
+Pickup	
+A A 665 E 886	
+B B 887 F 657	
+C C 760 G456	
+D438 H 740	
+****** Result for Image/Page 819 ******
+Shortcuts	
+Pickup	
+A A 654 E893	
+B 901 F643	
+C777	G447	
+D 423	H 755	
+****** Result for Image/Page 820 ******
+Shortcuts	
+Pickup	
+A A 653 E886	
+B 929	F 603	
+C796G452	
+D 396 782	
+****** Result for Image/Page 821 ******
+Shortcuts	
+Pickup	
+A A 654 E872	
+B 930	F 588	
+C796 G467	
+D 394 786	
+****** Result for Image/Page 822 ******
+Shortcuts	
+Pickup	
+A A 654 E857	
+B 930	F574	
+C 796	G487	
+D 395H 789	
+****** Result for Image/Page 823 ******
+Shortcuts	
+Pickup	
+A 654	E 856	
+B 930	F573	
+C795 G485	
+D 395H 790	
+****** Result for Image/Page 824 ******
+Shortcuts	
+Pickup	
+A 655 E 856	
+B 929	F573	
+C 795	G485	
+D 395H 790	
+****** Result for Image/Page 825 ******
+Shortcuts	
+Pickup	
+A 655E 856	
+B 929	F573	
+C795 G485	
+D D 395 H790	
+****** Result for Image/Page 826 ******
+Shortcuts	
+Pickup	
+A 655E 856	
+B 929	F573	
+C795	G485	
+D 395 H 790	
+****** Result for Image/Page 827 ******
+Shortcuts	
+Pickup	
+A 655E 856	
+B 929	F573	
+C795	G485	
+D 395H 790	
+****** Result for Image/Page 828 ******
+Shortcuts	
+Pickup	
+A 655	E 856	
+B 929	F574	
+C795	G484	
+D 395H 789	
+****** Result for Image/Page 829 ******
+Shortcuts	
+Pickup	
+A A 655 E 856	
+B 929	F584	
+C795 G484	
+D 395H 781	
+****** Result for Image/Page 830 ******
+Shortcuts	
+Pickup	
+A A 655 E856	
+B 929	F 604	
+C 795	G484	
+D 396 H732	
+****** Result for Image/Page 831 ******
+Shortcuts	
+Pickup	
+A A 655 E 816	
+B 929	F 658	
+C795G524	
+D D 396 H 703	
+****** Result for Image/Page 832 ******
+Shortcuts	
+Pickup	
+A A 662 E 816	
+B934 F681	
+C792 G524	
+D 392H 683	
+****** Result for Image/Page 833 ******
+Shortcuts	
+Pickup	
+A 682 E810	
+B 947	F713	
+C787 G547	
+D 383 H649	
+****** Result for Image/Page 834 ******
+Shortcuts	
+Pickup	
+A A 682 E 788	
+B947 F F 707	
+C787 G560	
+D D 383 H618	
+****** Result for Image/Page 835 ******
+Shortcuts	
+Pickup	
+A A 683 E 762	
+B947 F 769	
+C786	G 604	
+D 383 H585	
+****** Result for Image/Page 836 ******
+Shortcuts	
+Pickup	
+A 683 E753	
+B947 F 794	
+C786G G623	
+D 383H558	
+****** Result for Image/Page 837 ******
+Shortcuts	
+Pickup	
+A 683 E719	
+B947 F818	
+C 786 G 664	
+D 384H542	
+****** Result for Image/Page 838 ******
+Shortcuts	
+Pickup	
+A A 684 E697	
+B947 F F 825	
+C785 G685	
+D 384 H H 382	
+****** Result for Image/Page 839 ******
+Shortcuts	
+Pickup	
+A 684 E676	
+B947 F834	
+C785 G G 708	
+D 384H497	
+****** Result for Image/Page 840 ******
+Shortcuts	
+Pickup	
+A A 684 E 655	
+B947 F 840	
+C 785 G728	
+D 384	H 488	
+****** Result for Image/Page 841 ******
+Shortcuts	
+Pickup	
+A A 684 E 645	
+B947 F 842	
+C785G737	
+D 384H484	
+****** Result for Image/Page 842 ******
+Shortcuts	
+Pickup	
+A A 684 E 645	
+B947 F 842	
+C 785 G737	
+D 384H 484	
+****** Result for Image/Page 843 ******
+Shortcuts	
+Pickup	
+A A 683 E 645	
+B947 F 842	
+C785G 737	
+D D 384 H484	
+****** Result for Image/Page 844 ******
+Shortcuts	
+Pickup	
+A A 683 E 646	
+B947 F843	
+C786 G737	
+D 384H484	
+****** Result for Image/Page 845 ******
+Shortcuts	
+Pickup	
+A 683	E 646	
+B947 F843	
+C785 G G G 737	
+D 384H 484	
+****** Result for Image/Page 846 ******
+Shortcuts	
+Pickup	
+A A 686 E 646	
+B 950	F 843	
+C786 G G G 737	
+D 383H484	
+****** Result for Image/Page 847 ******
+Shortcuts	
+Pickup	
+A A 699 E 646	
+B948 F 843	
+C785 G G 736	
+D 382H484	
+****** Result for Image/Page 848 ******
+Shortcuts	
+Pickup	
+A A 699 E 646	
+B 948	F 843	
+C785 G G 736	
+D D 382 H484	
+****** Result for Image/Page 849 ******
+Shortcuts	
+Pickup	
+A A 720 E646	
+B 954	F 843	
+C781 G 736	
+D 380 H484	
+****** Result for Image/Page 850 ******
+Shortcuts	
+Pickup	
+A A 713 E 648	
+B 963	F 844	
+C 776 G 736	
+D D 376 H482	
+****** Result for Image/Page 851 ******
+Shortcuts	
+Pickup	
+A710 E649	
+B956 F 848	
+C773	G 737	
+D 382	H479	
+****** Result for Image/Page 852 ******
+Shortcuts	
+Pickup	
+A 702 E 649	
+B935 F 853	
+C764 G G 740	
+D 400 H474	
+****** Result for Image/Page 853 ******
+Shortcuts	
+Pickup	
+A A 702 E 645	
+B 936	F860	
+C764 G 746	
+D 399H 468	
+****** Result for Image/Page 854 ******
+Shortcuts	
+Pickup	
+A 702	E 644	
+B 936	F861	
+C764 G747	
+D 399H 466	
+****** Result for Image/Page 855 ******
+Shortcuts	
+Pickup	
+A A 702 E 645	
+B936 F 862	
+C764 G748	
+D 399H 465	
+****** Result for Image/Page 856 ******
+Shortcuts	
+Pickup	
+A 702	E 646	
+B936 F 862	
+C764G747	
+D 399H465	
+****** Result for Image/Page 857 ******
+Shortcuts	
+Pickup	
+A A 701 E 645	
+B937 F 862	
+C765 G747	
+D 398	H 465	
+****** Result for Image/Page 858 ******
+Shortcuts	
+Pickup	
+A 701	E 645	
+B937 F F 862	
+C765 G748	
+D 398 H464	
+****** Result for Image/Page 859 ******
+Shortcuts	
+Pickup	
+A 701	E 645	
+B 938	F 863	
+C 766 G 748	
+D D 397 H 464	
+****** Result for Image/Page 860 ******
+Shortcuts	
+Pickup	
+A A 701 E 645	
+B 938	F 863	
+C C 766 G748	
+D D 397 H464	
+****** Result for Image/Page 861 ******
+Shortcuts	
+Pickup	
+A A 700 E645	
+B 938	F 862	
+C 767 G747	
+D D 397 H465	
+****** Result for Image/Page 862 ******
+Shortcuts	
+Pickup	
+A A 700 E645	
+B 938	F 862	
+C767 G 747	
+D 396 H465	
+****** Result for Image/Page 863 ******
+Shortcuts	
+Pickup	
+A A 699 E 645	
+B 938	F 862	
+C767 G747	
+D D 396 H465	
+****** Result for Image/Page 864 ******
+Shortcuts	
+Pickup	
+A 699	E 645	
+B 938	F 862	
+C 767	G 747	
+D 396 H465	
+****** Result for Image/Page 865 ******
+Shortcuts	
+Pickup	
+A 699	E 645	
+B 938	F862	
+C768G747	
+D 396H465	
+****** Result for Image/Page 866 ******
+Shortcuts	
+Pickup	
+A A 698 E 645	
+B938 F 862	
+C767 G 748	
+D D 397 H465	
+****** Result for Image/Page 867 ******
+Shortcuts	
+Pickup	
+A 698 E 645	
+B B 940 F 862	
+C767	G 748	
+D 397 H465	
+****** Result for Image/Page 868 ******
+Shortcuts	
+Pickup	
+A A 697 E645	
+B 940	F 862	
+C 766 G748	
+D D 397 H 465	
+****** Result for Image/Page 869 ******
+Shortcuts	
+Pickup	
+A 697 E 645	
+B 939	F 861	
+C 766 G 747	
+D D 397 H465	
+****** Result for Image/Page 870 ******
+Shortcuts	
+Pickup	
+A A 697 E 645	
+B 939	F861	
+C766G747	
+D 398H465	
+****** Result for Image/Page 871 ******
+Shortcuts	
+Pickup	
+A A 696 E 645	
+B939 F 861	
+C767 G747	
+D 398 H465	
+****** Result for Image/Page 872 ******
+Shortcuts	
+Pickup	
+A A 696 E 645	
+B 939	F 862	
+C767 G 747	
+D 397 H465	
+****** Result for Image/Page 873 ******
+Shortcuts	
+Pickup	
+A 696 E645	
+B 938	F 862	
+C766G 747	
+D 399H 465	
+****** Result for Image/Page 874 ******
+Shortcuts	
+Pickup	
+A A 694 E645	
+B936 F 861	
+C766 G747	
+D400 H465	
+****** Result for Image/Page 875 ******
+Shortcuts	
+Pickup	
+A A 693 E 645	
+B 933	F 861	
+C765	G 747	
+D 403 H466	
+****** Result for Image/Page 876 ******
+Shortcuts	
+Pickup	
+A 693E 645	
+B933 F 861	
+C765G 747	
+D 403 H466	
+****** Result for Image/Page 877 ******
+Shortcuts	
+Pickup	
+A 693E 645	
+B 932	F 861	
+C765 G 747	
+D 403 H466	
+****** Result for Image/Page 878 ******
+Shortcuts	
+Pickup	
+A A 692 E 645	
+B932 F 861	
+C C 765 G747	
+D D 404 H466	
+****** Result for Image/Page 879 ******
+Shortcuts	
+Pickup	
+A A 692 E 645	
+B 932 F F 861	
+C765	G747	
+D D 403 H466	
+****** Result for Image/Page 880 ******
+Shortcuts	
+Pickup	
+A 693 E 645	
+B 931 F F 861	
+C765 G747	
+D D 404 H466	
+****** Result for Image/Page 881 ******
+Shortcuts	
+Pickup	
+A A 693 E645	
+B 931 F F 861	
+C765 G 747	
+D D 404 H 466	
+****** Result for Image/Page 882 ******
+Shortcuts	
+Pickup	
+A A 693 E 645	
+B930 F 861	
+C764 G747	
+D D 405 H 466	
+****** Result for Image/Page 883 ******
+Shortcuts	
+Pickup	
+A 693 E 645	
+B 930	F 861	
+C763 G 747	
+D D 405 H 466	
+****** Result for Image/Page 884 ******
+Shortcuts	
+Pickup	
+A 688 E 645	
+B 923	F 861	
+C 762 G747	
+D411	H 466	
+****** Result for Image/Page 885 ******
+Shortcuts	
+Pickup	
+A A 688E 645	
+B 923	F 861	
+C762 G 746	
+D411	H 466	
+****** Result for Image/Page 886 ******
+Shortcuts	
+Pickup	
+A 688 E649	
+B 923	F 855	
+C763 G742	
+D411 H 472	
+****** Result for Image/Page 887 ******
+Shortcuts	
+Pickup	
+A A 688 E 648	
+B 923	F 852	
+C763 G739	
+D410H475	
+****** Result for Image/Page 888 ******
+Shortcuts	
+Pickup	
+A 688	E 646	
+B 923	F 849	
+C763 G740	
+D410	H478	
+****** Result for Image/Page 889 ******
+Shortcuts	
+Pickup	
+A A 689 E 646	
+B 923	F 849	
+C762G 740	
+D411	H 478	
+****** Result for Image/Page 890 ******
+Shortcuts	
+Pickup	
+A A 689E 647	
+B 923	F 849	
+C762 G739	
+D411 H478	
+****** Result for Image/Page 891 ******
+Shortcuts	
+Pickup	
+A A 689 E 647	
+B 923	F 849	
+C 761 G G 739	
+D411 H478	
+****** Result for Image/Page 892 ******
+Shortcuts	
+Pickup	
+A A 689 E 645	
+B 923	F 849	
+C 761 G741	
+D411 H478	
+****** Result for Image/Page 893 ******
+Shortcuts	
+Pickup	
+A 690 E 644	
+B 923	F 844	
+C761 G 742	
+D411 H484	
+****** Result for Image/Page 894 ******
+Shortcuts	
+Pickup	
+A 690 E642	
+B 923	F829	
+C 761	G 734	
+D411 H497	
+****** Result for Image/Page 895 ******
+Shortcuts	
+Pickup	
+A A 690 E637	
+B 923	F 805	
+C761 G728	
+D411 H520	
+****** Result for Image/Page 896 ******
+Shortcuts	
+Pickup	
+A A 690 E618	
+B 923	F 764	
+C761	G731	
+D411 H560	
+****** Result for Image/Page 897 ******
+Shortcuts	
+Pickup	
+A A 690 E615	
+B 923	F 757	
+C 761 G732	
+D411 H 567	
+****** Result for Image/Page 898 ******
+Shortcuts	
+Pickup	
+A 689 E599	
+B 921 F 758	
+C 760 G749	
+D413	H568	
+****** Result for Image/Page 899 ******
+Shortcuts	
+Pickup	
+A A 685 E576	
+B913	F 763	
+C758G 769	
+D420	H564	
+****** Result for Image/Page 900 ******
+Shortcuts	
+Pickup	
+A A 676 E546	
+B B 895 F 774	
+C753 G 799	
+D D 435 H559	
+****** Result for Image/Page 901 ******
+Shortcuts	
+Pickup	
+A A 649E515	
+B B 842 F F 792	
+C746G 829	
+D 482H556	
+****** Result for Image/Page 902 ******
+Shortcuts	
+Pickup	
+A A 637 E515	
+B 814 F F 786	
+C743 G 829	
+D 508H555	
+****** Result for Image/Page 903 ******
+Shortcuts	
+Pickup	
+A 622	E515	
+B778	F 784	
+C 742 G829	
+D 544H558	
+****** Result for Image/Page 904 ******
+Shortcuts	
+Pickup	
+A A 621 E517	
+B 774	F 780	
+C742	G 827	
+D 548 H H561	
+****** Result for Image/Page 905 ******
+Shortcuts	
+Pickup	
+A A 621 E520	
+B 774	F777	
+C742 G 823	
+D548 H 563	
+****** Result for Image/Page 906 ******
+Shortcuts	
+Pickup	
+A 620 E525	
+B 774	F 773	
+C C 743 G818	
+D548 H H 566	
+****** Result for Image/Page 907 ******
+Shortcuts	
+Pickup	
+A A619 E527	
+B775	F 772	
+C 744	G816	
+D 547	H 566	
+****** Result for Image/Page 908 ******
+Shortcuts	
+Pickup	
+A 618 E529	
+B 775	F 768	
+C C 745 G813	
+D 546H570	
+****** Result for Image/Page 909 ******
+Shortcuts	
+Pickup	
+A A619 E529	
+B776F 729	
+C745 G813	
+D 545H610	
+****** Result for Image/Page 910 ******
+Shortcuts	
+Pickup	
+A619 E544	
+B 776	F696	
+C C 745 G 795	
+D 546	H 644	
+****** Result for Image/Page 911 ******
+Shortcuts	
+Pickup	
+A 619	E571	
+B775F 663	
+C744 G772	
+D546 H 675	
+****** Result for Image/Page 912 ******
+Shortcuts	
+Pickup	
+A A 619 E 580	
+B 774	F 642	
+C744G 767	
+D 547 H 696	
+****** Result for Image/Page 913 ******
+Shortcuts	
+Pickup	
+A617 E584	
+B773 F 632	
+C 745 G765	
+D549H 706	
+****** Result for Image/Page 914 ******
+Shortcuts	
+Pickup	
+A A 608 E585	
+B 759	F 627	
+C751 G766	
+D 554 H 712	
+****** Result for Image/Page 915 ******
+Shortcuts	
+Pickup	
+A A 588 E589	
+B B 735 F614	
+C762 G G 766	
+D 590H726	
+****** Result for Image/Page 916 ******
+Shortcuts	
+Pickup	
+A A 583 E590	
+B 724	F610	
+C765 G766	
+D 603	H730	
+****** Result for Image/Page 917 ******
+Shortcuts	
+Pickup	
+A A 572 E590	
+B B 695 F610	
+C774 G 766	
+D 637 H730	
+****** Result for Image/Page 918 ******
+Shortcuts	
+Pickup	
+A A 569 E590	
+B B673 F610	
+C 778 G766	
+D 662	H 656	
+****** Result for Image/Page 919 ******
+Shortcuts	
+Pickup	
+A A 563 E589	
+B B 664 F613	
+C786 G767	
+D 675	H 728	
+****** Result for Image/Page 920 ******
+Shortcuts	
+Pickup	
+A A 562 E589	
+B B 604 F614	
+C 786 G766	
+D 673	H 727	
+****** Result for Image/Page 921 ******
+Shortcuts	
+Pickup	
+A A 562 E590	
+B B604 F614	
+C786 G G 765	
+D 674 H726	
+****** Result for Image/Page 922 ******
+Shortcuts	
+Pickup	
+A A 562 E590	
+B B 604 F613	
+C786 G764	
+D D 674 H726	
+****** Result for Image/Page 923 ******
+Shortcuts	
+Pickup	
+A558 E591	
+B B 604 F613	
+C789 G764	
+D 668	H 727	
+****** Result for Image/Page 924 ******
+Shortcuts	
+Pickup	
+A A 551 E591	
+B B 605 F613	
+C 797 G 764	
+D661 H 727	
+****** Result for Image/Page 925 ******
+Shortcuts	
+Pickup	
+A 551 E591	
+B B 605 F613	
+C797 G 764	
+D 661 H 726	
+****** Result for Image/Page 926 ******
+Shortcuts	
+Pickup	
+A550 E591	
+B605 F613	
+C797 G 764	
+D 661	H 727	
+****** Result for Image/Page 927 ******
+Shortcuts	
+Pickup	
+A A 550 E591	
+B B 605 F613	
+C797 G764	
+D661 H 727	
+****** Result for Image/Page 928 ******
+Shortcuts	
+Pickup	
+A550 E590	
+B B 605 F613	
+C797 G 764	
+D D 661	H 727	
+****** Result for Image/Page 929 ******
+Shortcuts	
+Pickup	
+A A 550E591	
+B B 605 F613	
+C 797 G 764	
+D 661 H 727	
+****** Result for Image/Page 930 ******
+Shortcuts	
+Pickup	
+A550 E591	
+B B 604 F613	
+C 797 G764	
+D D 661 H727	
+****** Result for Image/Page 931 ******
+Shortcuts	
+Pickup	
+A 551 E591	
+B B 604 F613	
+C798 G G 764	
+D 657 H 727	
+****** Result for Image/Page 932 ******
+Shortcuts	
+Pickup	
+A A 551 E591	
+B B 604 F612	
+C 795 G764	
+D D 652 H 728	
+****** Result for Image/Page 933 ******
+Shortcuts	
+Pickup	
+A A 553 E590	
+B B 604 F612	
+C797	G 765	
+D 648	H 728	
+****** Result for Image/Page 934 ******
+Shortcuts	
+Pickup	
+A552 E591	
+B B 604 F611	
+C794 G764	
+D 648 H728	
+****** Result for Image/Page 935 ******
+Shortcuts	
+Pickup	
+A552 E592	
+B B 604 F610	
+C794 G763	
+D 648 H730	
+****** Result for Image/Page 936 ******
+Shortcuts	
+Pickup	
+A A 552 E592	
+B B 602 F 606	
+C 794G764	
+D 648 H735	
+****** Result for Image/Page 937 ******
+Shortcuts	
+Pickup	
+A552 E592	
+B B 602 F 604	
+C794 G765	
+D 648 H736	
+****** Result for Image/Page 938 ******
+Shortcuts	
+Pickup	
+A552 E592	
+B B 691 F 602	
+C794 G 766	
+D 648 H738	
+****** Result for Image/Page 939 ******
+Shortcuts	
+Pickup	
+A A 552 E590	
+B 691	F599	
+C 794	G771	
+D 648H 743	
+****** Result for Image/Page 940 ******
+Shortcuts	
+Pickup	
+A552 E590	
+B B 691 F 595	
+C794 G771	
+D 648H 764	
+****** Result for Image/Page 941 ******
+Shortcuts	
+Pickup	
+A A 552 E618	
+B 691	F537	
+C 794G772	
+D 648	H 811	
+****** Result for Image/Page 942 ******
+Shortcuts	
+Pickup	
+A A 553 E629	
+B B690 F518	
+C794 G773	
+D 649 834	
+****** Result for Image/Page 943 ******
+Shortcuts	
+Pickup	
+A A 553 E634	
+B B 690 F513	
+C794 G 782	
+D 649 H846	
+****** Result for Image/Page 944 ******
+Shortcuts	
+Pickup	
+A A 553 E 632	
+B B 688 F 505	
+C793G 780	
+D 651 H 849	
+****** Result for Image/Page 945 ******
+Shortcuts	
+Pickup	
+A A 556 E633	
+B679	F 504	
+C791G 779	
+D 661	H 850	
+****** Result for Image/Page 946 ******
+Shortcuts	
+Pickup	
+A A 560 E 634	
+B B 668 F503	
+C 788 G778	
+D672 H849	
+****** Result for Image/Page 947 ******
+Shortcuts	
+Pickup	
+A A 561 E635	
+B B 666 F503	
+C787 G G 777	
+D674 H 850	
+****** Result for Image/Page 948 ******
+Shortcuts	
+Pickup	
+A A 563 E637	
+B661	F501	
+C786 G775	
+D 678	H 851	
+****** Result for Image/Page 949 ******
+Shortcuts	
+Pickup	
+A A 563 E 638	
+B B 648 F 500	
+C787G775	
+D691H852	
+****** Result for Image/Page 950 ******
+Shortcuts	
+Pickup	
+A A 572 E 639	
+B 641	F499	
+C 780 G775	
+D 699H 853	
+****** Result for Image/Page 951 ******
+Shortcuts	
+Pickup	
+A A 572 E 640	
+B 641	F 498	
+C 780G 774	
+D D 699 H854	
+****** Result for Image/Page 952 ******
+Shortcuts	
+Pickup	
+A A 573 E 640	
+B B 640 F 497	
+C C 780G774	
+D 700H 854	
+****** Result for Image/Page 953 ******
+Shortcuts	
+Pickup	
+A 576 E647	
+B B633 F 496	
+C778G774	
+D 707H 855	
+****** Result for Image/Page 954 ******
+Shortcuts	
+Pickup	
+A578 E641	
+B B 629 F 496	
+C777G 774	
+D D 710 H855	
+****** Result for Image/Page 955 ******
+Shortcuts	
+Pickup	
+A A 578 E641	
+B B630 F496	
+C777 G774	
+D D 711 H 856	
+****** Result for Image/Page 956 ******
+Shortcuts	
+Pickup	
+A 578 E647	
+B B630 F496	
+C777 G774	
+D 710 H 856	
+****** Result for Image/Page 957 ******
+Shortcuts	
+Pickup	
+A A 579 E641	
+B B 627 F496	
+C 776 G 774	
+D 713 H 856	
+****** Result for Image/Page 958 ******
+Shortcuts	
+Pickup	
+A 581	E 641	
+B B 624 F496	
+C775 G775	
+D D 716 H 856	
+****** Result for Image/Page 959 ******
+Shortcuts	
+Pickup	
+A 581	E 641	
+B B 624 F496	
+C775 G775	
+D 716	H 856	
+****** Result for Image/Page 960 ******
+Shortcuts	
+Pickup	
+A A 581 E 640	
+B B 624 F496	
+C775 G775	
+D D 716 H 856	
+****** Result for Image/Page 961 ******
+Shortcuts	
+Pickup	
+A A 581 E 640	
+B B 624 F 496	
+C 775 G 775	
+D 716 H 856	
+****** Result for Image/Page 962 ******
+Shortcuts	
+Pickup	
+A A 581 E 640	
+B B 624 F 497	
+C775 G775	
+D D 716 H855	
+****** Result for Image/Page 963 ******
+Shortcuts	
+Pickup	
+A A 581 E 640	
+B B 624 F499	
+C 775 G 778	
+D D 716 H 855	
+****** Result for Image/Page 964 ******
+Shortcuts	
+Pickup	
+A A 581 E641	
+B B 624 F499	
+C775 G776	
+D D 716 H 855	
+****** Result for Image/Page 965 ******
+Shortcuts	
+Pickup	
+A A 581 E 651	
+B 624	F490	
+C775 G774	
+D D 716 H711	
+****** Result for Image/Page 966 ******
+Shortcuts	
+Pickup	
+A A 581 E 663	
+B B 624 F477	
+C775 G759	
+D716 H872	
+****** Result for Image/Page 967 ******
+Shortcuts	
+Pickup	
+A A 581 E664	
+B B624 F476	
+C775G757	
+D D 716 H 873	
+****** Result for Image/Page 968 ******
+Shortcuts	
+Pickup	
+A 581 E 662	
+B B 624 F479	
+C775 G759	
+D D 716 H871	
+****** Result for Image/Page 969 ******
+Shortcuts	
+Pickup	
+A 581E 667	
+B B 624 F473	
+C775	G 756	
+D D 716 H873	
+****** Result for Image/Page 970 ******
+Shortcuts	
+Pickup	
+A A 581 E683	
+B B 624 F 459	
+C775 G755	
+D D 716 H886	
+****** Result for Image/Page 971 ******
+Shortcuts	
+Pickup	
+A A 581 E 691	
+B B 624 F449	
+C775 G 740	
+D D 715 H894	
+****** Result for Image/Page 972 ******
+Shortcuts	
+Pickup	
+A A 581 E692	
+B B 624 F 449	
+C775 G 740	
+D D 715 H 894	
+****** Result for Image/Page 973 ******
+Shortcuts	
+Pickup	
+A A 581 E692	
+B B 625 F 449	
+C775 G740	
+D D 715 H894	
+****** Result for Image/Page 974 ******
+Shortcuts	
+Pickup	
+A A 581E692	
+B B 625 F 448	
+C775G740	
+D715H 895	
+****** Result for Image/Page 975 ******
+Shortcuts	
+Pickup	
+A A 581 E 692	
+B B 625 F 448	
+C775 G 740	
+D D 715 H 895	
+****** Result for Image/Page 976 ******
+Shortcuts	
+Pickup	
+A A 581 E692	
+B B 625 F 448	
+C774 G G 740	
+D D 715 H 895	
+****** Result for Image/Page 977 ******
+Shortcuts	
+Pickup	
+A A 581 E 693	
+B B 625 F447	
+C774 G G 740	
+D D 715 H896	
+****** Result for Image/Page 978 ******
+Shortcuts	
+Pickup	
+A 580 E692 |	
+B B 626 F447	
+C775 G 741	
+D714 H896	
+****** Result for Image/Page 979 ******
+Shortcuts	
+Pickup	
+A579 E692	
+B627 F447	
+C775 G741	
+D712 H896	
+****** Result for Image/Page 980 ******
+Shortcuts	
+Pickup	
+A A 580 E691	
+B B 627 F 449	
+C 775 G 743	
+D 713 H 895	
+****** Result for Image/Page 981 ******
+Shortcuts	
+Pickup	
+A A 580 E 689	
+B B 627 F 450	
+C775 G 743	
+D 713 H 894	
+****** Result for Image/Page 982 ******
+Shortcuts	
+Pickup	
+A A 580 E 686	
+B 627	F454	
+C 775 G 747	
+D 713 H H 893	
+****** Result for Image/Page 983 ******
+Shortcuts	
+Pickup	
+A A 580 E 685	
+B B 627 F 455	
+C 775 G 748	
+D 713 H 892	
+****** Result for Image/Page 984 ******
+Shortcuts	
+Pickup	
+A A 580 E 684	
+B B 627 F 455	
+C 775 G 748	
+D 713 H891	
+****** Result for Image/Page 985 ******
+Shortcuts	
+Pickup	
+A A 580 E 683	
+B B 627 F 458	
+C 775 G 750	
+D713 H897	
+****** Result for Image/Page 986 ******
+Shortcuts	
+Pickup	
+A A 580 E 682	
+B B 627 F 458	
+C 775 G 750	
+D 713 H891	
+****** Result for Image/Page 987 ******
+Shortcuts	
+Pickup	
+A A 580 E 682	
+B B627 F458	
+C 775 G 750	
+D D 713 H 891	
+****** Result for Image/Page 988 ******
+Shortcuts	
+Pickup	
+A 580 E 682	
+B 627	F458	
+C775G751	
+D 713 H 891	
+****** Result for Image/Page 989 ******
+Shortcuts	
+Pickup	
+A A 580 E 682	
+B B 627 F458	
+C 775 G 750	
+D 712	H891	
+****** Result for Image/Page 990 ******
+Shortcuts	
+Pickup	
+A A 580 E 683	
+B B 627 F 458	
+C775G750	
+D712	H892	
+****** Result for Image/Page 991 ******
+Shortcuts	
+Pickup	
+A A 579 E 683	
+B 627	F 458	
+C775 G 750	
+D713 H897	
+****** Result for Image/Page 992 ******
+Shortcuts	
+Pickup	
+A A 579 E683	
+B B 627 F458	
+C 775 G750	
+D 713 H 892	
+****** Result for Image/Page 993 ******
+Shortcuts	
+Pickup	
+A A 579 E683	
+B B 627 F458	
+C776 G G 750	
+D 712 H 892	
+****** Result for Image/Page 994 ******
+Shortcuts	
+Pickup	
+A A 579 E683	
+B 627	F 459	
+C776G750	
+D712 H892	
+****** Result for Image/Page 995 ******
+Shortcuts	
+Pickup	
+A A 579 E683	
+B B 627 F 459	
+C776G750	
+D 712	H 892	
+****** Result for Image/Page 996 ******
+Shortcuts	
+Pickup	
+A A 579 E683	
+B B 627 F459	
+C776G750	
+D 712	H 892	
+****** Result for Image/Page 997 ******
+Shortcuts	
+Pickup	
+A579 E683	
+B B 627 F 459	
+C776 G750	
+D 712	H892	
+****** Result for Image/Page 998 ******
+Shortcuts	
+Pickup	
+A A 579 E683	
+B B 627 F 459	
+C 776 G750	
+D 712	H892	
+****** Result for Image/Page 999 ******
+Shortcuts	
+Pickup	
+A A 578 E683	
+B B 628 F459	
+C776 G 750	
+D712 H891	
+****** Result for Image/Page 1000 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F459	
+C776 G 749	
+D712	H 891	
+****** Result for Image/Page 1001 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B 628	F 459	
+C776 G G 749	
+D 712	H897	
+****** Result for Image/Page 1002 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G749	
+D712 H897	
+****** Result for Image/Page 1003 ******
+Shortcuts	
+Pickup	
+A 578 E683	
+B 628	F460	
+C776 G G 749	
+D712 H890	
+****** Result for Image/Page 1004 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776 G749	
+D712 H890	
+****** Result for Image/Page 1005 ******
+Shortcuts	
+Pickup	
+A 578 E683	
+B B 628 F460	
+C776 G748	
+D 712	H 890	
+****** Result for Image/Page 1006 ******
+Shortcuts	
+Pickup	
+A A 578 E683	
+B B 628 F460	
+C776 G G 748	
+D712 H 890	
+****** Result for Image/Page 1007 ******
+Shortcuts	
+Pickup	
+A 578 E683	
+B B 628 F460	
+C776 G 748	
+D712 H890	
+****** Result for Image/Page 1008 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B 628	F460	
+C776 G G 748	
+D 712 H890	
+****** Result for Image/Page 1009 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B 628	F460	
+C776 G G 748	
+D712 H 890	
+****** Result for Image/Page 1010 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G G 749	
+D712 H890	
+****** Result for Image/Page 1011 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776 G G 749	
+D712 H890	
+****** Result for Image/Page 1012 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B 628	F460	
+C776 G G 749	
+D 712	H 891	
+****** Result for Image/Page 1013 ******
+Shortcuts	
+Pickup	
+A A 578 E683	
+B B 628 F459	
+C776 G 749	
+D712 H891	
+****** Result for Image/Page 1014 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F 460	
+C776 G 749	
+D 712	H 891	
+****** Result for Image/Page 1015 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776 G749	
+D712 H 891	
+****** Result for Image/Page 1016 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B 628	F460	
+C776 G G 749	
+D712 H891	
+****** Result for Image/Page 1017 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G 749	
+D 712 H890	
+****** Result for Image/Page 1018 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776 G G 749	
+D D 712 H 890	
+****** Result for Image/Page 1019 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F 460	
+C776 G749	
+D712H 890	
+****** Result for Image/Page 1020 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G G 749	
+D712 H 890	
+****** Result for Image/Page 1021 ******
+Shortcuts	
+Pickup	
+A A 578 E683	
+B B 628 F460	
+C776 G 749	
+D712 H 890	
+****** Result for Image/Page 1022 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G G 749	
+D D 712 H890	
+****** Result for Image/Page 1023 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G 749	
+D 712 H H 890	
+****** Result for Image/Page 1024 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776 G748	
+D712 H890	
+****** Result for Image/Page 1025 ******
+Shortcuts	
+Pickup	
+A578 E683	
+B B 628 F460	
+C776G 748	
+D712 H 890	
+****** Result for Image/Page 1026 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776 G G 748	
+D712 H890	
+****** Result for Image/Page 1027 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776 G G 748	
+D712H890	
+****** Result for Image/Page 1028 ******
+Shortcuts	
+Pickup	
+A A 578 E 683	
+B B 628 F460	
+C776G748	
+D712 H 890	
+****** Result for Image/Page 1029 ******
+Shortcuts	
+Pickup	
+A A 578 E684	
+B 628	F 459	
+C776 G748	
+D712 H891	
+****** Result for Image/Page 1030 ******
+Shortcuts	
+Pickup	
+A578 E685	
+B 628	F459	
+C 776 G 748	
+D712 H891	
+****** Result for Image/Page 1031 ******
+Shortcuts	
+Pickup	
+A579 E685	
+B B 627 F458	
+C 776 G 747	
+D 713 H 892	
+****** Result for Image/Page 1032 ******
+Shortcuts	
+Pickup	
+A A 579 E 685	
+B B 627 F458	
+C 776 G G 747	
+D 713 H 892	
+****** Result for Image/Page 1033 ******
+Shortcuts	
+Pickup	
+A A 579 E 685	
+B B 627 F 458	
+C 776 G747	
+D 713 H 892	
+****** Result for Image/Page 1034 ******
+Shortcuts	
+Pickup	
+A A 579 E685	
+B 627	F 458	
+C 776	G 747	
+D 713 H897	
+****** Result for Image/Page 1035 ******
+Shortcuts	
+Pickup	
+A A 579 E685	
+B B 627 F458	
+C 776 G747	
+D 713 H 892	
+****** Result for Image/Page 1036 ******
+Shortcuts	
+Pickup	
+A 579 E 685	
+B B 627 F 458	
+C 776 G 747	
+D713 H892	
+****** Result for Image/Page 1037 ******
+Shortcuts	
+Pickup	
+A A 579 E 685	
+B627 F458	
+C 776	G 747	
+D 713 H 892	
+****** Result for Image/Page 1038 ******
+Shortcuts	
+Pickup	
+A 579E 685	
+B 627	F 458	
+C 775 G 747	
+D 713 H 892	
+****** Result for Image/Page 1039 ******
+Shortcuts	
+Pickup	
+A A 579 E 686	
+B B 627 F457	
+C 775 G 747	
+D 713 H 893	
+****** Result for Image/Page 1040 ******
+Shortcuts	
+Pickup	
+A A 579 E686	
+B627	F457	
+C 776 G 747	
+D 713 H 893	
+****** Result for Image/Page 1041 ******
+Shortcuts	
+Pickup	
+A A 579 E687	
+B627 F456	
+C 776 G746	
+D 713	H894	
+****** Result for Image/Page 1042 ******
+Shortcuts	
+Pickup	
+A A 579 E 687	
+B B 627 F456	
+C 776 G 746	
+D712 H894	
+****** Result for Image/Page 1043 ******
+Shortcuts	
+Pickup	
+A A 579 E 687	
+B 627	F456	
+C 776 G 746	
+D712 H894	
+****** Result for Image/Page 1044 ******
+Shortcuts	
+Pickup	
+A578 E 687	
+B 628	F456	
+C 776 G 746	
+D712 H894	
+****** Result for Image/Page 1045 ******
+Shortcuts	
+Pickup	
+A A 578 E 687	
+B B 628 F456	
+C776 G G 746	
+D712H 894	
+****** Result for Image/Page 1046 ******
+Shortcuts	
+Pickup	
+A A 578 E 687	
+B B 629 F456	
+C 776 G747	
+D711 H 894	
+****** Result for Image/Page 1047 ******
+Shortcuts	
+Pickup	
+A578 E686	
+B 628	F456	
+C 776 G747	
+D711 H 894	
+****** Result for Image/Page 1048 ******
+Shortcuts	
+Pickup	
+A A 578 E 686	
+B B 628 F456	
+C 776 G 747	
+D712 H894	
+****** Result for Image/Page 1049 ******
+Shortcuts	
+Pickup	
+A 578 E 686	
+B B628 F456	
+C 776 G 748	
+D 711 H 894	
+****** Result for Image/Page 1050 ******
+Shortcuts	
+Pickup	
+A A 578 E 686	
+B B 628 F 456	
+C776 G 748	
+D 711 H 894	
+****** Result for Image/Page 1051 ******
+Shortcuts	
+Pickup	
+A A 578 E 686	
+B B629 F 456	
+C776 G 748	
+D 711 H H 894	
+****** Result for Image/Page 1052 ******
+Shortcuts	
+Pickup	
+A A 578 E686	
+B B 629 F456	
+C 776 G 748	
+D 711 H 894	
+****** Result for Image/Page 1053 ******
+Shortcuts	
+Pickup	
+A A 578 E 686	
+B B 629 F 456	
+C775 G748	
+D710 H894	
+****** Result for Image/Page 1054 ******
+Shorteuts	
+Pickup	
+A578 E 686	
+B B 629 F456	
+C776G749	
+D 710H895	
+****** Result for Image/Page 1055 ******
+Shortcuts	
+Pickup	
+A 578 E 686	
+B B629 F456	
+C C 776 G 749	
+D 710 H895	
+****** Result for Image/Page 1056 ******
+Shortcuts	
+Pickup	
+A A 578 E 685	
+B B 628 F456	
+C776 G 750	
+D 711 H895	
+****** Result for Image/Page 1057 ******
+Shortcuts	
+Pickup	
+A578 E 685	
+B B 628 F456	
+C776 G 750	
+D 712 H895	
+****** Result for Image/Page 1058 ******
+Shortcuts	
+Pickup	
+A A 578 E 685	
+B B 628 F456	
+C776 G 750	
+D712 H 895	
+****** Result for Image/Page 1059 ******
+Shortcuts	
+Pickup	
+A A 578 E 686	
+B B 627 F456	
+C777G749	
+D 713 H894	
+****** Result for Image/Page 1060 ******
+Shortcuts	
+Pickup	
+A578 E 686	
+B B 627 F456	
+C777 G 749	
+D 713 H894	
+****** Result for Image/Page 1061 ******
+Shorteuts	
+Pickup	
+A A 578 E685	
+B B 627 F456	
+C777 G749	
+D 713	H 894	
+****** Result for Image/Page 1062 ******
+Shortcuts	
+Pickup	
+A578 E 685	
+B B 626 F 456	
+C777 G 749	
+D 714 H894	
+****** Result for Image/Page 1063 ******
+Shortcuts	
+Pickup	
+A A 576 E685	
+B B 627 F456	
+C 779	G 749	
+D 713 H895	
+****** Result for Image/Page 1064 ******
+Shortcuts	
+Pickup	
+A A 575 E 685 L	
+B628	F 456	
+C779G 749	
+D712H 895	
+****** Result for Image/Page 1065 ******
+Shortcuts	
+Pickup	
+A A 574 E 685 L	
+B B 629 F 456	
+C C 780 G 749	
+D712 H 895	
+****** Result for Image/Page 1066 ******
+Shortcuts	
+Pickup	
+A A 570 E 685	
+B B 632 F 456	
+C784 G749	
+D 711 H 894	
+****** Result for Image/Page 1067 ******
+Shortcuts	
+Pickup	
+A A 556 E 685	
+B B 639 F 456	
+C798 G 749	
+D 708	H 894	
+****** Result for Image/Page 1068 ******
+Shortcuts	
+Pickup	
+A 503	E 686	
+B B 639	F456	
+C C 856 G749	
+D 708 H895	
+****** Result for Image/Page 1069 ******
+Shortcuts	
+Pickup	
+A 476 E 686	
+B 446	F456	
+C850 G 749	
+D D 695 H895	
+****** Result for Image/Page 1070 ******
+Shortcuts	
+Pickup	
+A 444	E 686	
+B729 F456	
+C905 G G 749	
+D 664H895	
+****** Result for Image/Page 1071 ******
+Shortcuts	
+Pickup	
+A 426	E 686	
+B 746	F456	
+C921 | G 750	
+D D 655 H895	
+****** Result for Image/Page 1072 ******
+Shortcuts	
+Pickup	
+A 426	E 686	
+B752 F455	
+C923 G G 750	
+D 649H 896	
+****** Result for Image/Page 1073 ******
+Shortcuts	
+Pickup	
+A 425	E 686	
+B751 F455	
+C 921	G 750	
+D D 649 H896	
+****** Result for Image/Page 1074 ******
+Shortcuts	
+Pickup	
+A 425	E 685	
+B751 F455	
+C921G 750	
+D D 649H895	
+****** Result for Image/Page 1075 ******
+Shortcuts	
+Pickup	
+A 427	E 686	
+B 748	F455	
+C 921 G 750	
+D D 653 H896	
+****** Result for Image/Page 1076 ******
+Shortcuts	
+Pickup	
+A 429	E 685	
+B 745	F 455	
+C919	G 750	
+D654 H 896	
+****** Result for Image/Page 1077 ******
+Shortcuts	
+Pickup	
+A 433	E 685	
+B743 F455	
+C916	G 750	
+D D 655 H896	
+****** Result for Image/Page 1078 ******
+Shortcuts	
+Pickup	
+A 434 E 686	
+B745 F455	
+C914 G 750	
+D 653H896	
+****** Result for Image/Page 1079 ******
+Shortcuts	
+Pickup	
+A 434 E685	
+B 744 F455	
+C914	G 750	
+D 653H896	
+****** Result for Image/Page 1080 ******
+Shortcuts	
+Pickup	
+A 434 E686	
+B 744 F455	
+C915 G G 750	
+D D 653 H896	
+****** Result for Image/Page 1081 ******
+Shortcuts	
+Pickup	
+A 436	E 685	
+B742 F455	
+C913	G 751	
+D 654H 896	
+****** Result for Image/Page 1082 ******
+Shortcuts	
+Pickup	
+A 472 E 686	
+B 742	F455	
+C 879 G 750	
+D 657H896	
+****** Result for Image/Page 1083 ******
+Shortcuts	
+Pickup	
+A 502 E 686	
+B 684	F455	
+C 850G 750	
+D 683	H 896	
+****** Result for Image/Page 1084 ******
+Shortcuts	
+Pickup	
+A A 527 E686	
+B 658 F455	
+C 829	G 750	
+D D 702 H896	
+****** Result for Image/Page 1085 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B 633	F455	
+C809 G 750	
+D D 720 H896	
+****** Result for Image/Page 1086 ******
+Shortcuts	
+Pickup	
+A 550 E 686	
+B 633	F455	
+C809 G 750	
+D 720H 896	
+****** Result for Image/Page 1087 ******
+Shortcuts	
+Pickup	
+A 549	E 686	
+B 634	F454	
+C 809	G 750	
+D 720	H 897	
+****** Result for Image/Page 1088 ******
+Shortcuts	
+Pickup	
+A 549 E 686	
+B 634	F454	
+C 809 G G 750	
+D D 720 H 897	
+****** Result for Image/Page 1089 ******
+Shortcuts	
+Pickup	
+A 549 E 686	
+B 634	F455	
+C810	G 750	
+D D 719 H 896	
+****** Result for Image/Page 1090 ******
+Shortcuts	
+Pickup	
+A 549 E 686	
+B 634	F455	
+C 809	G 750	
+D719 H 896	
+****** Result for Image/Page 1091 ******
+Shortcuts	
+Pickup	
+A 549	E 686	
+B634	F455	
+C 809	G 750	
+D719 H 896	
+****** Result for Image/Page 1092 ******
+Shortcuts	
+Pickup	
+A 549 E 686	
+B 634 F456	
+C 809 G 749	
+D719 H 895	
+****** Result for Image/Page 1093 ******
+Shortcuts	
+Pickup	
+A 549	E 686	
+B634 F456	
+C 809	G 749	
+D719 H895	
+****** Result for Image/Page 1094 ******
+Shortcuts	
+Pickup	
+A 550 E 686	
+B634	F455	
+C 809	G 749	
+D719 H896	
+****** Result for Image/Page 1095 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B634	F455	
+C 809 G 749	
+D D 719 H896	
+****** Result for Image/Page 1096 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B634	F455	
+C 809 G 749	
+D719 H 896	
+****** Result for Image/Page 1097 ******
+Shortcuts	
+Pickup	
+A 550 E 686	
+B 634F455	
+C 809	G 749	
+D719 H896	
+****** Result for Image/Page 1098 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B B634 F455	
+C 809	G 749	
+D719 H895	
+****** Result for Image/Page 1099 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B 634	F455	
+C 808	G 748	
+D D 719 H895	
+****** Result for Image/Page 1100 ******
+Shortcuts	
+Pickup	
+A 550 E 686	
+B634	F456	
+C 808	G 748	
+D D 719 H895	
+****** Result for Image/Page 1101 ******
+Shortcuts	
+Pickup	
+A 550 E 686	
+B 634	F455	
+C 808	G 748	
+D 719	H 895	
+****** Result for Image/Page 1102 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B 634	F455	
+C 808	G 748	
+D 719 H895	
+****** Result for Image/Page 1103 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B634	F 455	
+C 808	G 748	
+D719 H895	
+****** Result for Image/Page 1104 ******
+Shortcuts	
+Pickup	
+A A 550 E 687	
+B634 F455	
+C 808	G 748	
+D719H895	
+****** Result for Image/Page 1105 ******
+Shortcuts	
+Pickup	
+A 550	E 686	
+B 634 F455	
+C 808	G 748	
+D D 719 H895	
+****** Result for Image/Page 1106 ******
+Shortcuts	
+Pickup	
+A 550	E 687	
+B 634	F455	
+C 808	G 747	
+D719H895	
+****** Result for Image/Page 1107 ******
+Shortcuts	
+Pickup	
+A 551 E 686	
+B 634	F455	
+C 808	G 747	
+D D 719 H894	
+****** Result for Image/Page 1108 ******
+Shortcuts	
+Pickup	
+A A 550 E 686	
+B634 F455	
+C 808 G 747	
+D719H894	
+****** Result for Image/Page 1109 ******
+Shortcuts	
+Pickup	
+A 551 E 686	
+B 634	F456	
+C 808	G 748	
+D719 H894	
+****** Result for Image/Page 1110 ******
+Shortcuts	
+Pickup	
+A 551 E 686	
+B 634 F455	
+C 807	G 747	
+D 719 H894	
+****** Result for Image/Page 1111 ******
+Shortcuts	
+Pickup	
+A 551 E 687	
+B 634	F455	
+C 807	G 747	
+D719H894	
+****** Result for Image/Page 1112 ******
+Shortcuts	
+Pickup	
+A 551 E 687	
+B 634	F455	
+C 807	G 747	
+D719H894	
+****** Result for Image/Page 1113 ******
+Shortcuts	
+Pickup	
+A 558	E 687	
+B 631	F456	
+C 800	G 747	
+D 721 H894	
+****** Result for Image/Page 1114 ******
+Shortcuts	
+Pickup	
+A 559	E 687	
+B 628	F456	
+C 799	G 747	
+D 722H894	
+****** Result for Image/Page 1115 ******
+Shortcuts	
+Pickup	
+A 559 E 687	
+B 627 F456	
+C 800	G 747	
+D722 H894	
+****** Result for Image/Page 1116 ******
+Shortcuts	
+Pickup	
+A 559	E 686	
+B627	F456	
+C800 G 747	
+D 722H894	
+****** Result for Image/Page 1117 ******
+Shortcuts	
+Pickup	
+A 559 E 686	
+B 627	F456	
+C 800 G 747	
+D 722 H894	
+****** Result for Image/Page 1118 ******
+Shortcuts	
+Pickup	
+A 559 E 686	
+B627	F456	
+C 800	G 747	
+D 722H894	
+****** Result for Image/Page 1119 ******
+Shortcuts	
+Pickup	
+A 559 E687	
+B 627	F455	
+C 800	G 747	
+D 722 H895	
+****** Result for Image/Page 1120 ******
+Shortcuts	
+Pickup	
+A 559 E 687	
+B627	F455	
+C 800	G 747	
+D D 722 H894	
+****** Result for Image/Page 1121 ******
+Shortcuts	
+Pickup	
+A 559 E 687	
+B627 F456	
+C800G 747	
+D 722H894	
+****** Result for Image/Page 1122 ******
+Shortcuts	
+Pickup	
+A 559 E 687	
+B627	F456	
+C800G 747	
+D 722H894	
+****** Result for Image/Page 1123 ******
+Shortcuts	
+Pickup	
+A 559 E 686	
+B627 F456	
+c800 G 747	
+D D 722 H893	
+****** Result for Image/Page 1124 ******
+Shortcuts	
+Pickup	
+A 559 E 686	
+B627	F456	
+C 800	G 747	
+D 722H893	
+****** Result for Image/Page 1125 ******
+Shortcuts	
+Pickup	
+A 559 E 686	
+B627	F456	
+C799G 747	
+D 722H893	
+****** Result for Image/Page 1126 ******
+Shortcuts	
+Pickup	
+A 559	E 686	
+B B627 F456	
+C 799	G 747	
+D 722H894	
+****** Result for Image/Page 1127 ******
+Shortcuts	
+Pickup	
+A 559	E 686	
+B 628	F456	
+C 800	G 747	
+D D 722 H894	
+****** Result for Image/Page 1128 ******
+Shortcuts	
+Pickup	
+A 583 E 687	
+B 623	F456	
+C 783G 747	
+D 725H894	
+****** Result for Image/Page 1129 ******
+Shortcuts	
+Pickup	
+A 594	E 687	
+B B 594 F456	
+C 769	G 747	
+D D 746 H894	
+****** Result for Image/Page 1130 ******
+Shortcuts	
+Pickup	
+A A 599 E686	
+B B 591 F456	
+C764G 747	
+D D 748 H893	
+****** Result for Image/Page 1131 ******
+Shortcuts	
+Pickup	
+A 595 E 686	
+B613	F457	
+C761G 746	
+D D 723 H893	
+****** Result for Image/Page 1132 ******
+Shortcuts	
+Pickup	
+A 603	E 686	
+B B 636	F457	
+C 745 G G 746	
+D D 693 H 893	
+****** Result for Image/Page 1133 ******
+Shortcuts	
+Pickup	
+A 603 E686	
+B643F456	
+C 745 G G 747	
+D 685H893	
+****** Result for Image/Page 1134 ******
+Shortcuts	
+Pickup	
+A 603 E 686	
+B 644	F456	
+C 744 G G 747	
+D 684H894	
+****** Result for Image/Page 1135 ******
+Shortcuts	
+Pickup	
+A 570	E 687	
+B677 F456	
+C776 G 747	
+D 657H894	
+****** Result for Image/Page 1136 ******
+Shortcuts	
+Pickup	
+A 542 E 687	
+B B 703 F455	
+C 803G 747	
+D D 638 H894	
+****** Result for Image/Page 1137 ******
+Shortcuts	
+Pickup	
+A513	E 687	
+B 729	F456	
+C832G 746	
+D D 620 H 894	
+****** Result for Image/Page 1138 ******
+Shortcuts	
+Pickup	
+A 449 E 687	
+B B 779 F456	
+C903G 746	
+D589 H 893	
+****** Result for Image/Page 1139 ******
+Shortcuts	
+Pickup	
+A 442	E 687	
+B 455	F456	
+C905G 746	
+D 582 H893	
+****** Result for Image/Page 1140 ******
+Shortcuts	
+Pickup	
+A 442 E 686	
+B 454	F457	
+C905 G G 746	
+D 580H892	
+****** Result for Image/Page 1141 ******
+Shortcuts	
+Pickup	
+A 442	E 686	
+B 454	F457	
+C905 G G 746	
+D 580H892	
+****** Result for Image/Page 1142 ******
+Shortcuts	
+Pickup	
+A 442	E 686	
+B454	F457	
+C904 G G 746	
+D579 H 892	
+****** Result for Image/Page 1143 ******
+Shortcuts	
+Pickup	
+A 444	E 686	
+B454	F457	
+C903 G 747	
+D 580H893	
+****** Result for Image/Page 1144 ******
+Shortcuts	
+Pickup	
+A 445 E 686	
+B 454	F457	
+C902	G 746	
+D580 H 893	
+****** Result for Image/Page 1145 ******
+Shortcuts	
+Pickup	
+A A 447 E687	
+B455 F456	
+C900G 746	
+D 580H893	
+****** Result for Image/Page 1146 ******
+Shortcuts	
+Pickup	
+A A 457 E 687	
+B455	F456	
+C892 G 746	
+D589 H 893	
+****** Result for Image/Page 1147 ******
+Shortcuts	
+Pickup	
+A A 467 E 687	
+B B 457 F456	
+C 879G 745	
+D D 603 H 893	
+****** Result for Image/Page 1148 ******
+Shortcuts	
+Pickup	
+A 467	E 687	
+B458 F456	
+C 879G 745	
+D D 603 H 893	
+****** Result for Image/Page 1149 ******
+Shortcuts	
+Pickup	
+A511E 687	
+B B 667 F457	
+C837 G 745	
+D 660H892	
+****** Result for Image/Page 1150 ******
+Shortcuts	
+Pickup	
+A 557 E 686	
+B 634	F457	
+C800 G 745	
+D715H892	
+****** Result for Image/Page 1151 ******
+Shortcuts	
+Pickup	
+A 585	E 686	
+B601 F457	
+C782 G 746	
+D 745 H892	
+****** Result for Image/Page 1152 ******
+Shortcuts	
+Pickup	
+A 584 E 685	
+B B599 F458	
+C 779 G748	
+D 746 H892	
+****** Result for Image/Page 1153 ******
+Shortcuts	
+Pickup	
+A 584 E 684	
+B 599F458	
+C 780 G748	
+D 746H892	
+****** Result for Image/Page 1154 ******
+Shortcuts	
+Pickup	
+A 584 E 683	
+B599 F459	
+C 780	G 751	
+D 746H893	
+****** Result for Image/Page 1155 ******
+Shortcuts	
+Pickup	
+A 588 E676	
+B 595	F459	
+C777 G 786	
+D D 749 H897	
+****** Result for Image/Page 1156 ******
+Shortcuts	
+Pickup	
+A 593	E 657	
+B 587	F463	
+C774 G804	
+D757 H915	
+****** Result for Image/Page 1157 ******
+Shortcuts	
+Pickup	
+A 594	E 650	
+B585 F464	
+C773G 821	
+D D 758 H 924	
+****** Result for Image/Page 1158 ******
+Shortcuts	
+Pickup	
+A 594	E 647	
+B585 F466	
+C773 G 828	
+D D 758 H927	
+****** Result for Image/Page 1159 ******
+Shortcuts	
+Pickup	
+A 594 E 647	
+B 585	F466	
+C774 G827	
+D 758H927	
+****** Result for Image/Page 1160 ******
+Shortcuts	
+Pickup	
+A 594	E 647	
+B585	F465	
+C774 G 826	
+D D 758 H926	
+****** Result for Image/Page 1161 ******
+Shortcuts	
+Pickup	
+A 594	E 643	
+B 585	F471	
+C774 G824	
+D 758 H 904	
+****** Result for Image/Page 1162 ******
+Shortcuts	
+Pickup	
+A 594	E 642	
+B585	F477	
+C774 G812	
+D D 758 H 891	
+****** Result for Image/Page 1163 ******
+Shortcuts	
+Pickup	
+A 594 E 642	
+B585 F486	
+C774G 795	
+D D 758 H 884	
+****** Result for Image/Page 1164 ******
+Shortcuts	
+Pickup	
+A 594 E 640	
+B585 F488	
+C774 G 796	
+D 758 H 882	
+****** Result for Image/Page 1165 ******
+Shortcuts	
+Pickup	
+A 594 E 640	
+B B 585 F489	
+C774 G 796	
+D 758 H881	
+****** Result for Image/Page 1166 ******
+Shortcuts	
+Pickup	
+A 594 E 639	
+B585 F489	
+C774 G 796	
+D 758 H 881	
+****** Result for Image/Page 1167 ******
+Shortcuts	
+Pickup	
+A 594 E 639	
+B B 585 F490	
+C774 G 796	
+D 758 H 881	
+****** Result for Image/Page 1168 ******
+Shortcuts	
+Pickup	
+A A 594 E 639	
+B 585	F490	
+C774 G 796	
+D 758H 880	
+****** Result for Image/Page 1169 ******
+Shortcuts	
+Pickup	
+A 594 E 639	
+B 586 F490	
+C774 G 796	
+D 758 H 880	
+****** Result for Image/Page 1170 ******
+Shortcuts	
+Pickup	
+A 594 E 639	
+B585	F490	
+C774G 796	
+D 758 H 880	
+****** Result for Image/Page 1171 ******
+Shortcuts	
+Pickup	
+A 594 E639	
+B585	F490	
+C774G 795	
+D 758 H 880	
+****** Result for Image/Page 1172 ******
+Shortcuts	
+Pickup	
+A A 594 E 639	
+B585	F490	
+C774 G 795	
+D D 758 H 880	
+****** Result for Image/Page 1173 ******
+Shortcuts	
+Pickup	
+A 594	E 639	
+B B 585 F490	
+C774 G 795	
+D 758 H 880	
+****** Result for Image/Page 1174 ******
+Shortcuts	
+Pickup	
+A 595 E 639	
+B B 585 F490	
+C773 G 795	
+D 758H880	
+****** Result for Image/Page 1175 ******
+Shortcuts	
+Pickup	
+A A 594 E 639	
+B B 585 F490	
+C773 G 795	
+D 758 H 880	
+****** Result for Image/Page 1176 ******
+Shortcuts	
+Pickup	
+A A 595 E 640	
+B B 585 F490	
+C773 G G 794	
+D 758 H879	
+****** Result for Image/Page 1177 ******
+Shortcuts	
+Pickup	
+A A 595 E 639	
+B 585F491	
+C773 G 795	
+D D 758 H879	
+****** Result for Image/Page 1178 ******
+Shortcuts	
+Pickup	
+A 595	E 636	
+B B 585 F493	
+C773 G 797	
+D 758H879	
+****** Result for Image/Page 1179 ******
+Shortcuts	
+Pickup	
+A 595	E 634	
+B585	F495	
+C773G 799	
+D D 758 H 876	
+****** Result for Image/Page 1180 ******
+Shortcuts	
+Pickup	
+A 595	E 632	
+B585	F497	
+C773G 800	
+D D 758 H 875	
+****** Result for Image/Page 1181 ******
+Shortcuts	
+Pickup	
+A 595 E 632	
+B 585	F497	
+C773 G 801	
+D 758 H875	
+****** Result for Image/Page 1182 ******
+Shortcuts	
+Pickup	
+A 595	E 632	
+B 585	F497	
+C773	G 801	
+D 758 H875	
+****** Result for Image/Page 1183 ******
+Shortcuts	
+Pickup	
+A A 595 E633	
+B585	F496	
+C773G 800	
+D 758 H875	
+****** Result for Image/Page 1184 ******
+Shortcuts	
+Pickup	
+A 595	E 633	
+B 585	F495	
+C773 G 800	
+D 758H876	
+****** Result for Image/Page 1185 ******
+Shortcuts	
+Pickup	
+A 595 E 634	
+B585	F495	
+C773 G 799	
+D 758 H876	
+****** Result for Image/Page 1186 ******
+Shortcuts	
+Pickup	
+A 595	E 634	
+B585	F495	
+C773	G 799	
+D 758 H876	
+****** Result for Image/Page 1187 ******
+Shortcuts	
+Pickup	
+A 595 E 634	
+B585	F495	
+C773G 799	
+D 758 H877	
+****** Result for Image/Page 1188 ******
+Shortcuts	
+Pickup	
+A 595	E 634	
+B585	F495	
+C773 G 799	
+D 758 H877	
+****** Result for Image/Page 1189 ******
+Shortcuts	
+Pickup	
+A 595 E634	
+B585 F495	
+C773G 799	
+D 758 H877	
+****** Result for Image/Page 1190 ******
+Shortcuts	
+Pickup	
+A A 595 E 634	
+B B 585 F495	
+C773 G 799	
+D 758 H876	
+****** Result for Image/Page 1191 ******
+Shortcuts	
+Pickup	
+A 595	E 634	
+B 585	F495	
+C773	G 799	
+D 758 H876	
+****** Result for Image/Page 1192 ******
+Shortcuts	
+Pickup	
+A 595	E 634	
+B585 F495	
+C773 G 799	
+D 758 H876	
+****** Result for Image/Page 1193 ******
+Shortcuts	
+Pickup	
+A 595 E 636	
+B 585	F494	
+C773	G 797	
+D 758 H877	
+****** Result for Image/Page 1194 ******
+Shortcuts	
+Pickup	
+A 595 E 636	
+B B585 F494	
+C773 G 797	
+D D 758 H878	
+****** Result for Image/Page 1195 ******
+Shortcuts	
+Pickup	
+A 595 E 635	
+B585	F495	
+C773G 797	
+D 758 H876	
+****** Result for Image/Page 1196 ******
+Shortcuts	
+Pickup	
+A 595	E 633	
+B 585 F497	
+C773G 799	
+D 758 H874	
+****** Result for Image/Page 1197 ******
+Shortcuts	
+Pickup	
+A 595 E631	
+B 585F497	
+C773G 799	
+D D 758 H872	
+****** Result for Image/Page 1198 ******
+Shortcuts	
+Pickup	
+A A 595 E630	
+B585	F499	
+C773 G 807	
+D 758 H872	
+****** Result for Image/Page 1199 ******
+Shortcuts	
+Pickup	
+A 595	E 629	
+B585	F499	
+C773 G 803	
+D 758 H874	
+****** Result for Image/Page 1200 ******
+Shortcuts	
+Pickup	
+A 595	E 628	
+B B585 F500	
+C773 G 805	
+D 758 H875	
+****** Result for Image/Page 1201 ******
+Shortcuts	
+Pickup	
+A 595 E 626	
+B B 585F501	
+C773 G 807	
+D 758 H875	
+****** Result for Image/Page 1202 ******
+Shortcuts	
+Pickup	
+A 595 E 626	
+B 585F502	
+C773 G 807	
+D 758 H874	
+****** Result for Image/Page 1203 ******
+Shortcuts	
+Pickup	
+A 595	E 627	
+B 585 F502	
+C773G 804	
+D D 758 H 871	
+****** Result for Image/Page 1204 ******
+Shortcuts	
+Pickup	
+A 595	E 627	
+B 585 F502	
+C773G 803	
+D D 758 H 871	
+****** Result for Image/Page 1205 ******
+Shortcuts	
+Pickup	
+A 595	E 627	
+B585	F501	
+C 773 G 803	
+D 758 H871	
+****** Result for Image/Page 1206 ******
+Shortcuts	
+Pickup	
+A 594 E 629	
+B585	F501	
+C773G 800	
+D 759 H871	
+****** Result for Image/Page 1207 ******
+Shortcuts	
+Pickup	
+A 594 E 630	
+B 585	F 501	
+C773	G 799	
+D 759	H 870	
+****** Result for Image/Page 1208 ******
+Shortcuts	
+Pickup	
+A 594 E 630	
+B585	F 501	
+C773 G 799	
+D D 759 H870	
+****** Result for Image/Page 1209 ******
+Shortcuts	
+Pickup	
+A 595 E 630	
+B B585 F 501	
+C773	G 799	
+D D 759 H870	
+****** Result for Image/Page 1210 ******
+Shortcuts	
+Pickup	
+A 595	E 631	
+B B 585 F500	
+C773 G 798	
+D 759H870	
+****** Result for Image/Page 1211 ******
+Shortcuts	
+Pickup	
+A 595 E 631	
+B B 585 F499	
+C773 G 797	
+D D 759 H871	
+****** Result for Image/Page 1212 ******
+Shortcuts	
+Pickup	
+A 595	E 632	
+B 585	F499	
+C773G 797	
+D 759 H 871	
+****** Result for Image/Page 1213 ******
+Shortcuts	
+Pickup	
+A 595 E 631	
+B585	F499	
+C773 G 797	
+D 759	H 871	
+****** Result for Image/Page 1214 ******
+Shortcuts	
+Pickup	
+A 595	E 632	
+B 585	F499	
+C773G 797	
+D D 759 H 871	
+****** Result for Image/Page 1215 ******
+Shortcuts	
+Pickup	
+A 595 E 634	
+B584	F495	
+C773G 796	
+D D 759 H 874	
+****** Result for Image/Page 1216 ******
+Shortcuts	
+Pickup	
+A 595 E 636	
+B 585	F492	
+C773 G 796	
+D 759 H876	
+****** Result for Image/Page 1217 ******
+Shortcuts	
+Pickup	
+A 595 E 637	
+B 585	F490	
+C773 G 800	
+D 759 H882	
+****** Result for Image/Page 1218 ******
+Shortcuts	
+Pickup	
+A 595 E 637	
+B 585	F489	
+C773G 806	
+D 759	H 888	
+****** Result for Image/Page 1219 ******
+Shortcuts	
+Pickup	
+A 595	E 637	
+B 585	F488	
+C773 G 804	
+D D 759 H 887	
+****** Result for Image/Page 1220 ******
+Shortcuts	
+Pickup	
+A 593	E 637	
+B587	F487	
+C775G 805	
+D 757H889	
+****** Result for Image/Page 1221 ******
+Shortcuts	
+Pickup	
+A 592 E 640	
+B 588F484	
+C 775	G 803	
+D 756 H 890	
+****** Result for Image/Page 1222 ******
+Shortcuts	
+Pickup	
+A 591 E641	
+B 589	F 484	
+C775G 801	
+D D 755 H890	
+****** Result for Image/Page 1223 ******
+Shortcuts	
+Pickup	
+A 586 E 641	
+B 594	F484	
+C778 G 800	
+D751 H889	
+****** Result for Image/Page 1224 ******
+Shortcuts	
+Pickup	
+A 578 E 641	
+B 629	F486	
+C778 G 797	
+D 751	H 885	
+****** Result for Image/Page 1225 ******
+Shortcuts	
+Pickup	
+A 554	E 640	
+B 660	F487	
+C 804 G797	
+D721 H883	
+****** Result for Image/Page 1226 ******
+Shortcuts	
+Pickup	
+A 527 E640	
+B661 F 487	
+C 826	G 797	
+D D 696 H884	
+****** Result for Image/Page 1227 ******
+Shortcuts	
+Pickup	
+A 474 E 638	
+B722 F 490	
+C873 G797	
+D 650	H 881	
+****** Result for Image/Page 1228 ******
+Shortcuts	
+Pickup	
+A 448	E 636	
+B 754	F 492	
+C903G 799	
+D 634 H 880	
+****** Result for Image/Page 1229 ******
+Shortcuts	
+Pickup	
+A 446	E 634	
+B B 755 F494	
+C899 G 800	
+D 627H878	
+****** Result for Image/Page 1230 ******
+Shortcuts	
+Pickup	
+A 447 E633	
+B 755	F495	
+C 899 G802	
+D 628H878	
+****** Result for Image/Page 1231 ******
+Shortcuts	
+Pickup	
+A 448 E630	
+B 751	F498	
+C898 G 803	
+D D 633 H 876	
+****** Result for Image/Page 1232 ******
+Shortcuts	
+Pickup	
+A 449	E 629	
+B 737 F499	
+C 899 G G 804	
+D D 652 H 875	
+****** Result for Image/Page 1233 ******
+Shortcuts	
+Pickup	
+A 450 E 629	
+B B 737 F499	
+C904 G804	
+D 684 H874	
+****** Result for Image/Page 1234 ******
+Shortcuts	
+Pickup	
+A 452	E 629	
+B 484	F499	
+C 912	G 803	
+D 757 H874	
+****** Result for Image/Page 1235 ******
+Shortcuts	
+Pickup	
+A 455 E 630	
+B653	F498	
+C 936G 803	
+D D 783 H875	
+****** Result for Image/Page 1236 ******
+Shortcuts	
+Pickup	
+A A 456 E 454	
+B 653	F497	
+C936 G 801	
+D D 785 H875	
+****** Result for Image/Page 1237 ******
+Shortcuts	
+Pickup	
+A A 453 E632	
+B 660	F497	
+C935 G 801	
+D 775 H875	
+****** Result for Image/Page 1238 ******
+Shortcuts	
+Pickup	
+A A 453 E632	
+B665	F497	
+C926 G 801	
+D D 762 H 875	
+****** Result for Image/Page 1239 ******
+Shortcuts	
+Pickup	
+A 454 E 632	
+B 667	F497	
+C 922 G 800	
+D D 754 H875	
+****** Result for Image/Page 1240 ******
+Shortcuts	
+Pickup	
+A 454 E 632	
+B 667	F497	
+C923 G G 800	
+D 754 H875	
+****** Result for Image/Page 1241 ******
+Shortcuts	
+Pickup	
+A 454 E 633	
+B668	F497	
+C923 G G 800	
+D 754H874	
+****** Result for Image/Page 1242 ******
+Shortcuts	
+Pickup	
+A 452 E 633	
+B 683	F497	
+C924 G 799	
+D 744 H874	
+****** Result for Image/Page 1243 ******
+Shortcuts	
+Pickup	
+A A 436 E 634	
+B697	F497	
+C929 G 797	
+D722 H872	
+****** Result for Image/Page 1244 ******
+Shortcuts	
+Pickup	
+A 421	E 636	
+B 724	F496	
+C936 G794	
+D 694H871	
+****** Result for Image/Page 1245 ******
+Shortcuts	
+Pickup	
+A A 384 E 636	
+B 476	F496	
+C963	G 794	
+D 632 H872	
+****** Result for Image/Page 1246 ******
+Shortcuts	
+Pickup	
+A A 357 E 640	
+B 485	F494	
+C975 G 789	
+D632 H 870	
+****** Result for Image/Page 1247 ******
+Shortcuts	
+Pickup	
+A A 353 E 642	
+B 490	F492	
+C993 G 786	
+D 622H872	
+****** Result for Image/Page 1248 ******
+Shortcuts	
+Pickup	
+A 335 E 645	
+B 842	F488	
+C1013 G 785	
+D610 H876	
+****** Result for Image/Page 1249 ******
+Shortcuts	
+Pickup	
+A A 334 E 646	
+B 843	F488	
+C 1018 G G 784	
+D D 608 H877	
+****** Result for Image/Page 1250 ******
+Shortcuts	
+Pickup	
+A A 330 E646	
+B 843	F 488	
+C1016 G 784	
+D611 H 876	
+****** Result for Image/Page 1251 ******
+Shortcuts	
+Pickup	
+A A 330 E 646	
+B 843 F488	
+C1015G 784	
+D610 H876	
+****** Result for Image/Page 1252 ******
+Shortcuts	
+Pickup	
+A A 335 E 646	
+B 842	F488	
+C 1015 G 784	
+D D 607 H 876	
+****** Result for Image/Page 1253 ******
+Shortcuts	
+Pickup	
+A A 333 E 646	
+B 843 F488	
+C1013 G 784	
+D D 609H876	
+****** Result for Image/Page 1254 ******
+Shortcuts	
+Pickup	
+A A 331 E 646	
+B 842	F488	
+C1014G 783	
+D611 H876	
+****** Result for Image/Page 1255 ******
+Shortcuts	
+Pickup	
+A 326 E 645	
+B 831 F492	
+C1008 G 782	
+D D 621 H 871	
+****** Result for Image/Page 1256 ******
+Shortcuts	
+Pickup	
+A 334 E 639	
+B 843	F501	
+C1013 G779	
+D 609H859	
+****** Result for Image/Page 1257 ******
+Shortcuts	
+Pickup	
+A 332 E 639	
+B 842	F511	
+C C 1013 G G 766	
+D 609H828	
+****** Result for Image/Page 1258 ******
+Shortcuts	
+Pickup	
+A A 330 E 647	
+B 841	F527	
+C 1015	G 738	
+D612 H 814	
+****** Result for Image/Page 1259 ******
+Shortcuts	
+Pickup	
+A A 330 E 651	
+B 842	F542	
+C1014G 723	
+D612H793	
+****** Result for Image/Page 1260 ******
+Shortcuts	
+Pickup	
+A A 331 E 647	
+B B 841 F567	
+C1014	G 716	
+D612 H765	
+****** Result for Image/Page 1261 ******
+Shortcuts	
+Pickup	
+A A 331 E 632	
+B 841	F 630	
+C1014 G 721	
+D613H734	
+****** Result for Image/Page 1262 ******
+Shortcuts	
+Pickup	
+A A 331 E610	
+B 840	F 661	
+C1014 G 737	
+D614	H 703	
+****** Result for Image/Page 1263 ******
+Shortcuts	
+Pickup	
+A 331 E332	
+B 840 F682	
+C1014 G763	
+D614	H 632	
+****** Result for Image/Page 1264 ******
+Shortcuts	
+Pickup	
+A 331 E327	
+B 840	F 701	
+C 748G 760	
+D614 H 621	
+****** Result for Image/Page 1265 ******
+Shortcuts	
+Pickup	
+A A 331 E597	
+B B 841 F 730	
+C1014 G 744	
+D613 H 596	
+****** Result for Image/Page 1266 ******
+Shortcuts	
+Pickup	
+A A 331 E 602	
+B 841	F 764	
+C1013 G 743	
+D612	H 562	
+****** Result for Image/Page 1267 ******
+Shortcuts	
+Pickup	
+A A 332 E 588	
+B 841 F 784	
+C1013 G767	
+D611 H562	
+****** Result for Image/Page 1268 ******
+Shortcuts	
+Pickup	
+A A 333 E563	
+B 842	F 786	
+C1012G786	
+D610H543	
+****** Result for Image/Page 1269 ******
+Shortcuts	
+Pickup	
+A A 334 E535	
+B B 841 F 792	
+C1011G812	
+D 609	H 542	
+****** Result for Image/Page 1270 ******
+Shortcuts	
+Pickup	
+A 334 E 468	
+B B 841 F819	
+C1011 G878	
+D 610H538	
+****** Result for Image/Page 1271 ******
+Shortcuts	
+Pickup	
+A A 334 E 437	
+B 840	F 844	
+C 1011 G 912	
+D612H526	
+****** Result for Image/Page 1272 ******
+Shortcuts	
+Pickup	
+A A 333 E407	
+B 840	F871	
+C 1011 G 945	
+D614 H514	
+****** Result for Image/Page 1273 ******
+Shortcuts	
+Pickup	
+A A 333 E 373	
+B 839	F 907	
+C1013G 992	
+D615	H 508	
+****** Result for Image/Page 1274 ******
+Shortcuts	
+Pickup	
+A A 332 E366|	
+B B 835 F F 922	
+C 1011 G 1003	
+D 620	H 497	
+****** Result for Image/Page 1275 ******
+Shortcuts	
+Pickup	
+A A 333 E 367	
+B 834	F 934	
+C1011G 1005	
+D 620 H482	
+****** Result for Image/Page 1276 ******
+Shortcuts	
+Pickup	
+A A 335 E374	
+B 832 F 944	
+C 1009	G 1003	
+D D 457 H464	
+****** Result for Image/Page 1277 ******
+Shortcuts	
+Pickup	
+A 341 E394L	
+B831 F972	
+C 1004	G 1001	
+D420	H 420	
+****** Result for Image/Page 1278 ******
+Shortcuts	
+Pickup	
+A A 344 E 434	
+B 832	F 983	
+C1002 G996	
+D 622 H400	
+****** Result for Image/Page 1279 ******
+Shortcuts	
+Pickup	
+A 346	E 455	
+B 832	F 986	
+C1001	G 982	
+D 620H386	
+****** Result for Image/Page 1280 ******
+Shortcuts	
+Pickup	
+A 353 E 470	
+B B 819 F964	
+C992 G941	
+D 624 H 389	
+****** Result for Image/Page 1281 ******
+Shortcuts	
+Pickup	
+A 372 E476	
+B 769	F 921	
+C975 G924	
+D D 635 H 431	
+****** Result for Image/Page 1282 ******
+Shortcuts	
+Pickup	
+A 398 E475	
+B 728	F919	
+C951 G912	
+D657 H464	
+****** Result for Image/Page 1283 ******
+Shortcuts	
+Pickup	
+A 423 E 469	
+B730F890	
+C931 G 902	
+D D 685 H463	
+****** Result for Image/Page 1284 ******
+Shortcuts	
+Pickup	
+A A 423 E469	
+B 655 F890	
+C931 G 902	
+D D 757 H566	
+****** Result for Image/Page 1285 ******
+Shortcuts	
+Pickup	
+A 474 E 457	
+B 649	F 777	
+C907	G 884	
+D D 766 H595	
+****** Result for Image/Page 1286 ******
+Shortcuts	
+Pickup	
+A A 474 E 463	
+B 649	F 752	
+C909 G879	
+D 767 H623	
+****** Result for Image/Page 1287 ******
+Shortcuts	
+Pickup	
+A 469 E 492	
+B 646	F719	
+C920 G 868	
+D 779	H 657	
+****** Result for Image/Page 1288 ******
+Shortcuts	
+Pickup	
+A 466 E 509	
+B 649	F 709	
+C924 G834	
+D D 780 H648	
+****** Result for Image/Page 1289 ******
+Shortcuts	
+Pickup	
+A 461 E528	
+B647 F 707	
+C936G813	
+D D 791 H 641	
+****** Result for Image/Page 1290 ******
+Shortcuts	
+Pickup	
+A A 458 E565	
+B 648F704	
+C940 G 775	
+D D 794 H631	
+****** Result for Image/Page 1291 ******
+Shortcuts	
+Pickup	
+A 458 E 565	
+B648F704	
+C940 G 775	
+D 794 H631	
+****** Result for Image/Page 1292 ******
+Shortcuts	
+Pickup	
+A 458 E 565	
+B649	F 704	
+C941G774	
+D 794H631	
+****** Result for Image/Page 1293 ******
+Shortcuts	
+Pickup	
+A A 458 E566	
+B 650	F 705	
+C941 G 776	
+D D 795 H633	
+****** Result for Image/Page 1294 ******
+Shortcuts	
+Pickup	
+A 459 E 568	
+B 650	F 707	
+C940 G778	
+D 796 H635	
+****** Result for Image/Page 1295 ******
+Shortcuts	
+Pickup	
+A 461	E572	
+B 648F710	
+C939 G782	
+D 795H640	
+****** Result for Image/Page 1296 ******
+Shortcuts	
+Pickup	
+A A 460 E573	
+B 650	F711	
+C937	G 783	
+D D 791 H640	
+****** Result for Image/Page 1297 ******
+Shortcuts	
+Pickup	
+A 444	E570	
+B 680F712	
+C940 G 782	
+D D 772 H642	
+****** Result for Image/Page 1298 ******
+Shortcuts	
+Pickup	
+A A 437 E568	
+B679	F711	
+C947 G 783	
+D 763 H637	
+****** Result for Image/Page 1299 ******
+Shortcuts	
+Pickup	
+A 432 E 565	
+B 683	F 709	
+C951	G 784	
+D D 762 H635	
+****** Result for Image/Page 1300 ******
+Shortcuts	
+Pickup	
+A 431 E563	
+B 683	F 708	
+C 952	G 781	
+D 762H632	
+****** Result for Image/Page 1301 ******
+Shortcuts	
+Pickup	
+A 430 E 561	
+B 684 F707	
+C953 G779	
+D 762H630	
+****** Result for Image/Page 1302 ******
+Shortcuts	
+Pickup	
+A 430 E561	
+B684 F707	
+C954 G779	
+D 763H630	
+****** Result for Image/Page 1303 ******
+Shortcuts	
+Pickup	
+A 431 E561	
+B683 F707	
+C952 G 778	
+D 763H 630	
+****** Result for Image/Page 1304 ******
+Shortcuts	
+Pickup	
+A A 440 E561	
+B 676	F 707	
+C943 G 779	
+D 763H630	
+****** Result for Image/Page 1305 ******
+Shortcuts	
+Pickup	
+A 454 E561	
+B 666	F 707	
+C928G779	
+D D 762 H630	
+****** Result for Image/Page 1306 ******
+Shortcuts	
+Pickup	
+A 454 E561	
+B666 F708	
+C928	G 779	
+D 763H629	
+****** Result for Image/Page 1307 ******
+Shortcuts	
+Pickup	
+A 454 E551]	
+B665	F 703	
+C 928 G 789	
+D 763 H638	
+****** Result for Image/Page 1308 ******
+Shortcuts	
+Pickup	
+A A 454 E 551	
+B665 F703	
+C928 G 789	
+D 763 H638	
+****** Result for Image/Page 1309 ******
+Shortcuts	
+Pickup	
+A 454 E528	
+B666 F688	
+C928 G816	
+D 763H 666	
+****** Result for Image/Page 1310 ******
+Shortcuts	
+Pickup	
+A 454 E522	
+B 666	F686	
+C928 G 822	
+D 763 H672	
+****** Result for Image/Page 1311 ******
+Shortcuts	
+Pickup	
+A 454 E522	
+B 666	F 686	
+C928G 823	
+D 762 H671	
+****** Result for Image/Page 1312 ******
+Shortcuts	
+Pickup	
+A 453	E518	
+B 666	F 685	
+C928 G 827	
+D D 762 H674	
+****** Result for Image/Page 1313 ******
+Shortcuts	
+Pickup	
+A A 453 E500	
+B 666F677	
+C929 G 852	
+D 762H 698	
+****** Result for Image/Page 1314 ******
+Shortcuts	
+Pickup	
+A 453	E 493	
+B666	F677	
+C929 G 858	
+D D 763 H703	
+****** Result for Image/Page 1315 ******
+Shortcuts	
+Pickup	
+A A 453 E 492	
+B 666	F677	
+C929G 861	
+D 763 H 701	
+****** Result for Image/Page 1316 ******
+Shortcuts	
+Pickup	
+A 458 E 492	
+B 666	F677	
+C 924 G 860	
+D 761 H 702	
+****** Result for Image/Page 1317 ******
+Shortcuts	
+Pickup	
+A 471 E490	
+B664	F679	
+C913 G 863	
+D 760 H 701	
+****** Result for Image/Page 1318 ******
+Shortcuts	
+Pickup	
+A 470	E 489	
+B B 657 F688	
+C907G 861	
+D 755 H 690	
+****** Result for Image/Page 1319 ******
+Shortcuts	
+Pickup	
+A 470 E 503	
+B 658 F688	
+C908 G 845	
+D 755 H 680	
+****** Result for Image/Page 1320 ******
+Shortcuts	
+Pickup	
+A 469 E528
+B 659F676	
+C 908	G 820	
+D 754	H 681	
+****** Result for Image/Page 1321 ******
+Shortcuts	
+Pickup	
+A 469	E 551	
+B 657	F 634	
+C C908 G 798	
+D 755H720	
+****** Result for Image/Page 1322 ******
+Shortcuts	
+Pickup	
+A A 470 E593	
+B 658	F612	
+C908G 763	
+D D 756H731	
+****** Result for Image/Page 1323 ******
+Shortcuts	
+Pickup	
+A 470	E615	
+B658	F599	
+C908G718	
+D D 756 H738	
+****** Result for Image/Page 1324 ******
+Shortcuts	
+Pickup	
+A 470	E 637	
+B 658F596	
+C908G717	
+D 756 H735	
+****** Result for Image/Page 1325 ******
+Shortcuts	
+Pickup	.	
+A 469 E 664	
+B 658F595	
+C908	G 685	
+D 755H73	
+****** Result for Image/Page 1326 ******
+Shortcuts	
+Pickup	.	
+A A 471 E719	
+B656 F605	
+C907 G 623	
+D 757	H 722	
+****** Result for Image/Page 1327 ******
+Shortcuts	
+Pickup	
+A A 472 E746	
+B653	F613	
+C908G594	
+D 761 H719	
+****** Result for Image/Page 1328 ******
+Shortcuts	
+Pickup	.	
+A 472 E 803	
+B653F634	
+C 908G536	
+D 762 H718	
+****** Result for Image/Page 1329 ******
+Shortcuts	
+Pickup	
+A 472 E 803	
+B 653	F 634	
+C908	G536	
+D 762 H718	
+****** Result for Image/Page 1330 ******
+Shortcuts	
+Pickup	
+A 472 E 859	
+B653	F 661	
+C909 G 483	
+D 762H723	
+****** Result for Image/Page 1331 ******
+Shortcuts	
+Pickup	
+A 472 E 885	
+B 656F679	
+C 909	G462	
+D D 759 H723	
+****** Result for Image/Page 1332 ******
+Shortcuts	
+Pickup	
+A 472 E916	
+B 661 F 709	
+C903G 440	
+D 748H720	
+****** Result for Image/Page 1333 ******
+Shortcuts	
+Pickup	
+A A 472E 925	
+B667	F698	
+C 898 G430	
+D 737 H749	
+****** Result for Image/Page 1334 ******
+Shortcuts	
+Pickup	
+A 472 E 943	
+B 666	F 668	
+C898 G 402	
+D 738 H770	
+****** Result for Image/Page 1335 ******
+Shortcuts	
+Pickup	
+A 473	E 941	
+B 665	F 643	
+C896 G 401	
+D D 738 H787	
+****** Result for Image/Page 1336 ******
+Shortcuts	
+Pickup	
+A 485 E928	
+B 664 F 621	
+C 885	G411	
+D 741 H 795	
+****** Result for Image/Page 1337 ******
+Shortcuts	
+Pickup	
+A 501 E 905	
+B 646 F 602	
+C 848G434	
+D D 740 H 795	
+****** Result for Image/Page 1338 ******
+Shortcuts	
+Pickup	
+A 530	E 849	
+B632 F572	
+C834 G493	
+D 734H789	
+****** Result for Image/Page 1339 ******
+Shortcuts	
+Pickup	
+A A 533 E819	
+B 631 F F564	
+C831G565	
+D D 734 H783	
+****** Result for Image/Page 1340 ******
+Shortcuts	
+Pickup	
+A A 533 E762	
+B 631	F560	
+C831G 586	
+D D 734 H771	
+****** Result for Image/Page 1341 ******
+Shortcuts	
+Pickup	
+A 536	E 746	
+B 626	F560	
+C594	G 604	
+D 740 H767	
+****** Result for Image/Page 1342 ******
+Shortcuts	
+Pickup	
+A 539 E739	
+B 620	F564	
+C 829 G610	
+D 746 H 762	
+****** Result for Image/Page 1343 ******
+Shortcuts	
+Pickup	
+A A 539 E739	
+B 620F567	
+C 829	G 609	
+D D 746 H 760	
+****** Result for Image/Page 1344 ******
+Shortcuts	
+Pickup	
+A 539	E 741	
+B 620	F571	
+C 829 G 607	
+D 746 H756	
+****** Result for Image/Page 1345 ******
+Shortcuts	
+Pickup	
+A 539 E 745	
+B 620	F572	
+C 829 G 601	
+D D 746 H 756	
+****** Result for Image/Page 1346 ******
+Shortcuts	
+Pickup	
+A A 539 E 760	
+B 620	F571	
+C 829 G585	
+D D 746 H 761	
+****** Result for Image/Page 1347 ******
+Shortcuts	
+Pickup	
+A 539 E 806	
+B 620	F571	
+C 829	G 540	
+D 746	H 761	
+****** Result for Image/Page 1348 ******
+Shortcuts	
+Pickup	
+A A 539 E 829	
+B620	F561	
+C 829 G518	
+D 746 H781	
+****** Result for Image/Page 1349 ******
+Shortcuts	
+Pickup	
+A A 539 E 852	
+B 620	F551	
+C 829 G 493	
+D D 746 H 807	
+****** Result for Image/Page 1350 ******
+Shortcuts	
+Pickup	
+A 539 E 875	
+B 620 F523	
+C 829G472	
+D D 746 H826	
+****** Result for Image/Page 1351 ******
+Shortcuts	
+Pickup	
+A 538	E 892	
+B 620	F508	
+C452G 458	
+D D 746 H 845	
+****** Result for Image/Page 1352 ******
+Shortcuts	
+Pickup	
+A 538 E 900	
+B 620	F500	
+C831 G452	
+D D 747 H855	
+****** Result for Image/Page 1353 ******
+Shortcuts	
+Pickup	
+A 538 E 899	
+B 620	F500	
+C830 G453	
+D747 H856	
+****** Result for Image/Page 1354 ******
+Shortcuts	
+Pickup	
+A 538	E 898	
+B 620	F 501	
+C830 G 454	
+D D 747 H856	
+****** Result for Image/Page 1355 ******
+Shortcuts	
+Pickup	
+A 538	E 898	
+B 620	F518	
+C830 G454	
+D D 747 H855	
+****** Result for Image/Page 1356 ******
+Shortcuts	
+Pickup	
+A 538	E 897	
+B 620	F519	
+C830 G 455	
+D D 746 H854	
+****** Result for Image/Page 1357 ******
+Shortcuts	
+Pickup	
+A 538	E 898	
+B 620	F519	
+C830 G453	
+D D 746 H854	
+****** Result for Image/Page 1358 ******
+Shortcuts	
+Pickup	
+A 538	E 887	
+B 620	F520	
+C 830G452	
+D 746H854	
+****** Result for Image/Page 1359 ******
+Shortcuts	
+Pickup	
+A 538 E 882	
+B 620	F 520	
+C830 G452	
+D 746H854	
+****** Result for Image/Page 1360 ******
+Shortcuts	
+Pickup	
+A 538 E 900	
+B 620 F520	
+C 830	G452	
+D 746H854	
+****** Result for Image/Page 1361 ******
+Shortcuts	
+Pickup	
+A 538 E 900	
+B620	F520	
+C830 G451	
+D D 746 H855	
+****** Result for Image/Page 1362 ******
+Shortcuts	
+Pickup	
+A 538 E 901	
+B 620	F521	
+C830 G451	
+D 746 H 854	
+****** Result for Image/Page 1363 ******
+Shortcuts	
+Pickup	
+A 538 E 901	
+B621 F522	
+C 830 G450	
+D 746	H 854	
+****** Result for Image/Page 1364 ******
+Shortcuts	
+Pickup	
+A 538 E902	
+B621	F 522	
+C830 G449	
+D 745H854	
+****** Result for Image/Page 1365 ******
+Shortcuts	
+Pickup	
+A 537	E 902	
+B621	F522	
+C830 G449	
+D 745H854	
+****** Result for Image/Page 1366 ******
+Shortcuts	
+Pickup	
+A 537 E902	
+B B 621 F522	
+C830 G449	
+D 745H854	
+****** Result for Image/Page 1367 ******
+Shortcuts	
+Pickup	
+A 538 E 903	
+B 621	F522	
+C830 G448	
+D D 745 H854	
+****** Result for Image/Page 1368 ******
+Shortcuts	
+Pickup	
+A 538 E 903	
+B 621	F522	
+C830 G448	
+D 745 H854	
+****** Result for Image/Page 1369 ******
+Shortcuts	
+Pickup	
+A A 538 E 903	
+B 620	F522	
+C830 G448	
+D D 746 H 854	
+****** Result for Image/Page 1370 ******
+Shortcuts	
+Pickup	
+A 538 E 903	
+B 620	F522	
+C830 G448	
+D 746	H 854	
+****** Result for Image/Page 1371 ******
+Shortcuts	
+Pickup	
+A 538	E 902	
+B 620	F 523	
+C830 G448	
+D 746H854	
+****** Result for Image/Page 1372 ******
+Shortcuts	
+Pickup	
+A 539 E 901	
+B 620	F 522	
+C829 G450	
+D 746 H 854	
+****** Result for Image/Page 1373 ******
+Shortcuts	
+Pickup	
+A 539 E 901	
+B 620	F522	
+C 829G450	
+D 746H853	
+****** Result for Image/Page 1374 ******
+Shortcuts	
+Pickup	
+A 539 E897	
+B619 F522	
+C 829 G454	
+D 747H853	
+****** Result for Image/Page 1375 ******
+Shortcuts	
+Pickup	
+A 539	E 895	
+B619 F522	
+C829 G456	
+D D 747 H 851	
+****** Result for Image/Page 1376 ******
+Shortcuts	
+Pickup	
+A 538 E 893	
+B619 F522	
+C 830	G458	
+D D 747 H 849	
+****** Result for Image/Page 1377 ******
+Shortcuts	
+Pickup	
+A 538	E 890	
+B619 F522	
+C830 G461	
+D D 747 H 848	
+****** Result for Image/Page 1378 ******
+Shortcuts	
+Pickup	
+A 538 E 888	
+B619 F522	
+C 830	G 463	
+D D 747 H 848	
+****** Result for Image/Page 1379 ******
+Shortcuts	
+Pickup	
+A 538	E 887	
+B 620	F521	
+C 830G464	
+D 746H847	
+****** Result for Image/Page 1380 ******
+Shortcuts	
+Pickup	
+A 538	E 887	
+B 620	F521	
+C 830 G465	
+D D 746 H 847	
+****** Result for Image/Page 1381 ******
+Shortcuts	
+Pickup	
+A 556	E 883	
+B620	F518	
+C817 G470	
+D 766H850	
+****** Result for Image/Page 1382 ******
+Shortcuts	
+Pickup	
+A 563 E 874	
+B 600F519	
+C469G479	
+D D 761 H841	
+****** Result for Image/Page 1383 ******
+Shortcuts	
+Pickup	
+A A 563 E856	
+B 597 F525	
+C 485 G495	
+D D 761 H832	
+****** Result for Image/Page 1384 ******
+Shortcuts	
+Pickup	
+A 564 E 856	
+B 597	F524	
+C 489	G496	
+D761 H830	
+****** Result for Image/Page 1385 ******
+Shortcuts	
+Pickup	
+A 564 E 856	
+B596	F524	
+C 489G496	
+D D 761 H830	
+****** Result for Image/Page 1386 ******
+Shortcuts	
+Pickup	
+A 564 E 838	
+B 596	F 521	
+C 495G520	
+D D 761 H830	
+****** Result for Image/Page 1387 ******
+Shortcuts	
+Pickup	
+A 564 E816	
+B 596	F518	
+C510G545	
+D D 762 H826	
+****** Result for Image/Page 1388 ******
+Shortcuts	
+Pickup	
+A 564 E 811	
+B596	F518	
+C535	G 545	
+D D 761 H818	
+****** Result for Image/Page 1389 ******
+Shortcuts	
+Pickup	
+A 564	E 787	
+B 596	F521	
+C560	G570	
+D D 761 H 810	
+****** Result for Image/Page 1390 ******
+Shortcuts	
+Pickup	
+A 564 E787	
+B596	F521	
+C561 G571	
+D D 761 H 810	
+****** Result for Image/Page 1391 ******
+Shortcuts	
+Pickup	
+A 564 E787	
+B 596	F521	
+C562G571	
+D D 762 H 809	
+****** Result for Image/Page 1392 ******
+Shortcuts	
+Pickup	
+A 564	E 787	
+B 596	F521	
+C562G571	
+D D 762 H 809	
+****** Result for Image/Page 1393 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B596	F522	
+C563G571	
+D D 762 H 808	
+****** Result for Image/Page 1394 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B 596	F522	
+C563 G571	
+D D 761 H 808	
+****** Result for Image/Page 1395 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B 596	F 522	
+C563G571	
+D D 761 H 808	
+****** Result for Image/Page 1396 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B597	F523	
+563G571	
+D 761H 808	
+****** Result for Image/Page 1397 ******
+Shortcuts	
+Pickup	
+A 564 E786	
+B597 F523	
+C563G571	
+D D 761 H 808	
+****** Result for Image/Page 1398 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B597 F523	
+C563G571	
+D D 761 H 808	
+****** Result for Image/Page 1399 ******
+Shortcuts	
+Pickup	
+A A 564 E 786	
+B597	F522	
+C562G571	
+D D 761 H 808	
+****** Result for Image/Page 1400 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B597 F523	
+C563G571	
+D 760H808	
+****** Result for Image/Page 1401 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B597 F523	
+C562G570	
+D 760H 808	
+****** Result for Image/Page 1402 ******
+Shortcuts	
+Pickup	
+A 564	E 786	
+B597	F523	
+C562G570	
+D 761 H 808	
+****** Result for Image/Page 1403 ******
+Shortcuts	
+Pickup	
+A 564	E 787	
+B597 F524	
+C560	G569	
+D D 760 H H 807	
+****** Result for Image/Page 1404 ******
+Shortcuts	
+Pickup	
+A 564	E 787	
+B 597 F525	
+C559 G 568	
+D 760 H 806	
+****** Result for Image/Page 1405 ******
+Shortcuts	
+Pickup	
+A 564 E788	
+B597 F526	
+C558	G 567	
+D 760	H 806	
+****** Result for Image/Page 1406 ******
+Shortcuts	
+Pickup	
+A 564	E 789	
+B597 F526	
+C554G567	
+D 760 H H 806	
+****** Result for Image/Page 1407 ******
+Shortcuts	
+Pickup	
+A 563	E 789	
+B B 598 F527	
+C554 G566	
+D 759	H 806	
+****** Result for Image/Page 1408 ******
+Shortcuts	
+Pickup	
+A 563 E 790	
+B 598	F527	
+C553	G564	
+D 759	H 805	
+****** Result for Image/Page 1409 ******
+Shortcuts	
+Pickup	
+A 563 E 791	
+B599	F528	
+C553 G564	
+D D 758 H 805	
+****** Result for Image/Page 1410 ******
+Shortcuts	
+Pickup	
+A 563 E 791	
+B 600 F528	
+C553	G 563	
+D 758 H 805	
+****** Result for Image/Page 1411 ******
+Shortcuts	
+Pickup	
+A 563 E 793	
+B 600	F528	
+C553	G 561	
+D 757 H 805	
+****** Result for Image/Page 1412 ******
+Shortcuts	
+Pickup	
+A 562 E793	
+B 600	F528	
+C555 G561	
+D 757H806	
+****** Result for Image/Page 1413 ******
+Shortcuts	
+Pickup	
+A A 562 E793	
+B600	F528	
+C558	G 561	
+D757 H 807	
+****** Result for Image/Page 1414 ******
+Shortcuts	
+Pickup	
+A 562 E793	
+B 600 F527	
+C556G561	
+D D 757 H807	
+****** Result for Image/Page 1415 ******
+Shortcuts	
+Pickup	
+A 562	E 793	
+B 600	F527	
+C555	G561	
+D757 H 807	
+****** Result for Image/Page 1416 ******
+Shortcuts	
+Pickup	
+A A 562 E 793	
+B 600	F527	
+C555G561	
+D757 H807	
+****** Result for Image/Page 1417 ******
+Shortcuts	
+Pickup	
+A 562 E 792	
+B 600	F528	
+C555	G562	
+D D 757 H 806	
+****** Result for Image/Page 1418 ******
+Shortcuts	
+Pickup	
+A 562	E 792	
+B 600	F528	
+C555 G562	
+D757 H 806	
+****** Result for Image/Page 1419 ******
+Shortcuts	
+Pickup	
+A 563 E 792	
+B B 600 F528	
+C555 G562	
+D D 757 H 806	
+****** Result for Image/Page 1420 ******
+Shortcuts	
+Pickup	
+A 563	E 792	
+B599	F 528	
+C555 G 562	
+D 758 H 805	
+****** Result for Image/Page 1421 ******
+Shortcuts	
+Pickup	
+A 563	E 792	
+B 599	F529	
+C555	G562	
+D D 758 H 805	
+****** Result for Image/Page 1422 ******
+Shortcuts	
+Pickup	
+A 563 E 792	
+B 599	F528	
+C555 G 562	
+D D 758H805	
+****** Result for Image/Page 1423 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B 599 F529	
+C555	G562	
+D D 758 H 805	
+****** Result for Image/Page 1424 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599	F F529	
+C555	G562	
+D 758 H 805	
+****** Result for Image/Page 1425 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599 F529	
+C555	G562	
+D 758	H 805	
+****** Result for Image/Page 1426 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599	F529	
+C555	G562	
+D 758 H 805	
+****** Result for Image/Page 1427 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599 F529	
+C555	G562	
+D D 758 H 805	
+****** Result for Image/Page 1428 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B 599	F529	
+C555	G562	
+D 758 H 805	
+****** Result for Image/Page 1429 ******
+Shortcuts	
+Pickup	
+A 564 E 792	
+B 599	F529	
+C555G562	
+D 758 H 805	
+****** Result for Image/Page 1430 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599	F529	
+C555	G562	
+D 758 H 805	
+****** Result for Image/Page 1431 ******
+Shortcuts	
+Pickup	
+A 564 E 792	
+B599 F529	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1432 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599	F529	
+C555 G 562	
+D 758 H 805	
+****** Result for Image/Page 1433 ******
+Shortcuts	
+Pickup	
+A 564 E792	
+B 599	F 529	
+C555	G 562	
+D D 758 H 805	
+****** Result for Image/Page 1434 ******
+Shortcuts	
+Pickup	
+A 564 E792	
+B 599	F529	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1435 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599	F529	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1436 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599 F529	
+C555 G 562	
+D 758 H 805	
+****** Result for Image/Page 1437 ******
+Shortcuts	
+Pickup	
+A 564 E 792	
+B599 F529	
+C555G562	
+D D 758 H 805	
+****** Result for Image/Page 1438 ******
+Shortcuts	
+Pickup	
+A 564 E 792	
+B 599	F529	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1439 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B599	F529	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1440 ******
+Shortcuts	
+Pickup	
+A 564 E792	
+B599	F 529	
+C555	G562	
+D 758 H 805	
+****** Result for Image/Page 1441 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B 599	F529	
+C555 G562	
+D 758H805	
+****** Result for Image/Page 1442 ******
+Shortcuts	
+Pickup	
+A 564 E792	
+B599 F529	
+C555 G562	
+D D 758 H 805	
+****** Result for Image/Page 1443 ******
+Shortcuts	
+Pickup	
+A 564 E792	
+B599	F 529	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1444 ******
+Shortcuts	
+Pickup	
+A 564 E792	
+B599	F529	
+C555	G562	
+D 758 H 805	
+****** Result for Image/Page 1445 ******
+Shortcuts	
+Pickup	
+A 564	E 792	
+B 599	F528	
+C555 G562	
+D 758 H 805	
+****** Result for Image/Page 1446 ******
+Shortcuts	
+Pickup	
+A 564	E 793	
+B598	F551	
+C553	G559	
+D 758 H788	
+****** Result for Image/Page 1447 ******
+Shortcuts	
+Pickup	
+A 564	E 794	
+B B597 F561	
+C 806G557	
+D759 H 778	
+****** Result for Image/Page 1448 ******
+Shortcuts	
+Pickup	
+A 565	E 794	
+B597 F562	
+c 806G551	
+D 759H777	
+****** Result for Image/Page 1449 ******
+Shortcuts	
+Pickup	
+A 564	E 794	
+B597 F562	
+C 806G551	
+D 759	H777	
+****** Result for Image/Page 1450 ******
+Shortcuts	
+Pickup	
+A 565	E 794	
+B 598	F561	
+C 806G551	
+D 759 H777	
+****** Result for Image/Page 1451 ******
+Shortcuts	
+Pickup	
+A 564 E795	
+B 598	F561	
+C 806G551	
+D D 759 H777	
+****** Result for Image/Page 1452 ******
+Shortcuts	
+Pickup	
+A 564	E 794	
+B 598	F562	
+C 806G551	
+D 758 H 776	
+****** Result for Image/Page 1453 ******
+Shortcuts	
+Pickup	
+A 564 E794	
+B 598	F 562	
+C806 G551	
+D D 758 H 776	
+****** Result for Image/Page 1454 ******
+Shortcuts	
+Pickup	
+A A 564 E 795	
+B 599	F567	
+c806 G549	
+D 758 H771	
+****** Result for Image/Page 1455 ******
+Shortcuts	
+Pickup	
+A 565	E 794	
+B598	F567	
+C 805	G550	
+D 758 H772	
+****** Result for Image/Page 1456 ******
+Shortcuts	
+Pickup	
+A 565 E 795	
+B 599	F568	
+c 805G548	
+D 757 H 771	
+****** Result for Image/Page 1457 ******
+Shortcuts	
+Pickup	
+A 567 E795	
+B B 602 F568	
+c804 G549	
+D 755 H772	
+****** Result for Image/Page 1458 ******
+Shortcuts	
+Pickup	
+A 567 E795	
+B 601	F568	
+c 800	G549	
+D 753 H771	
+****** Result for Image/Page 1459 ******
+Shortcuts	
+Pickup	
+A 568 E795	
+B601	F568	
+C C800 G 549	
+D 753 H771	
+****** Result for Image/Page 1460 ******
+Shortcuts	
+Pickup	
+A A 568 E795 	
+B 601	F 568	
+C 800	G 549	
+D 752 H771	
+****** Result for Image/Page 1461 ******
+Shortcuts	
+Pickup	
+A 572 E 794	
+B 609	F569	
+C 797	G549	
+D 748 H771	
+****** Result for Image/Page 1462 ******
+Shortcuts	
+Pickup	
+A 580	E 794	
+B B 603 F569	
+C 782	G550	
+D D 742 H 771	
+****** Result for Image/Page 1463 ******
+Shortcuts	
+Pickup	
+A 580	E 794	
+B 603	F569	
+C782 G550	
+D 742	H 771	
+****** Result for Image/Page 1464 ******
+Shortcuts	
+Pickup	
+A 647	E 794	
+B 603	F569	
+C541G550	
+D 719 H771	
+****** Result for Image/Page 1465 ******
+Shortcuts	
+Pickup	
+A 671	E 794	
+B 608	F569	
+C 677G550	
+D712 H771	
+****** Result for Image/Page 1466 ******
+Shortcuts	
+Pickup	
+A 696	E 794	
+B614	F569	
+C651	G550	
+D 706	H 771	
+****** Result for Image/Page 1467 ******
+Shortcuts	
+Pickup	
+A 774 E794	
+B 633	F569	
+C577 G550	
+D 702	H771	
+****** Result for Image/Page 1468 ******
+Shortcuts	
+Pickup	
+A 774 E794	
+B633 F569	
+C577G550	
+D D 702 H 771	
+****** Result for Image/Page 1469 ******
+Shortcuts	
+Pickup	
+A 773	E 794	
+B555 F568	
+C573G550	
+D D 700 H 771	
+****** Result for Image/Page 1470 ******
+Shortcuts	
+Pickup	
+A 772 E 794	
+B B 553 F568	
+C574G550	
+D 700	H 771	
+****** Result for Image/Page 1471 ******
+Shortcuts	
+Pickup	
+A 771 E792	
+B553 F567	
+C575G552	
+D 701	H 771	
+****** Result for Image/Page 1472 ******
+Shortcuts	
+Pickup	
+A A 771 E793	
+B 553	F568	
+C575	G551	
+D D 700 H771	
+****** Result for Image/Page 1473 ******
+Shortcuts	
+Pickup	
+A771 E794
+B B 554 F568	
+C575G550	
+D 700	H 771	
+****** Result for Image/Page 1474 ******
+Shortcuts	
+Pickup	
+A771 E 794	
+B B 553 F568	
+C575 G550	
+D D 700 H 706	
+****** Result for Image/Page 1475 ******
+Shortcuts	
+Pickup	
+A A 773 E793	
+B554 F577	
+C572G554	
+D 708 H 709	
+****** Result for Image/Page 1476 ******
+Shortcuts	
+Pickup	
+A772 E 783	
+B576	F591	
+C573G558	
+D 708H707	
+****** Result for Image/Page 1477 ******
+Shortcuts	
+Pickup	
+A A 772 E 781	
+B 578F592	
+C574 G559	
+D 709	H 706	
+****** Result for Image/Page 1478 ******
+Shortcuts	
+Pickup	
+A 767	E 784	
+B571	F586	
+C579G557	
+D 696H693	
+****** Result for Image/Page 1479 ******
+Shortcuts	
+Pickup	
+A 759 E 783	
+B 660F590	
+C589 G557	
+D674 H673	
+****** Result for Image/Page 1480 ******
+Shortcuts	
+Pickup	
+A 767 E 782	
+B 650F592	
+C584	G558	
+D D 687H685	
+****** Result for Image/Page 1481 ******
+Shortcuts	
+Pickup	
+A A 767 E 780	
+B 644	F595	
+C580	G 560	
+D 691	H 689	
+****** Result for Image/Page 1482 ******
+Shortcuts	
+Pickup	
+A 767 | E 779	
+B B 647 F599	
+C580G561	
+D 688H 687	
+****** Result for Image/Page 1483 ******
+Shortcuts	
+Pickup	
+A A 767 E778	
+B 650 F607	
+C582	G563	
+D D 685 H 684	
+****** Result for Image/Page 1484 ******
+Shortcuts	
+Pickup	
+A 766 E775	
+B 652 F610	
+C 582	G 564	
+D D 684 H682	
+****** Result for Image/Page 1485 ******
+Shortcuts	
+Pickup	
+A 766 E 773	
+B 652F612	
+C582G 565	
+D D 683 H 681	
+****** Result for Image/Page 1486 ******
+Shortcuts	
+Pickup	
+A 764 E772	
+B 659	F615	
+C584G566	
+D 676 H675	
+****** Result for Image/Page 1487 ******
+Shortcuts	
+Pickup	
+A 762 E771	
+B B662 F617	
+C588	G567	
+D 672H670	
+****** Result for Image/Page 1488 ******
+Shortcuts	
+Pickup	
+A 760 E771	
+B B 628 F630	
+C589	| G571	
+D671 H 669	
+****** Result for Image/Page 1489 ******
+Shortcuts	
+Pickup	
+A 759 E 767	
+B634F636	
+C590	G572	
+D D 672 H 668	
+****** Result for Image/Page 1490 ******
+Shortcuts	
+Pickup	
+A 754	E 762	
+B 663	F 641	
+C594	G575	
+D 670H667	
+****** Result for Image/Page 1491 ******
+Shortcuts	
+Pickup	
+A A 749 E 761	
+B671 F643	
+C600G577	
+D D 661 H 660	
+****** Result for Image/Page 1492 ******
+Shortcuts	
+Pickup	
+A 742 E 759	
+B 678	F 648	
+C 608	G579	
+D 653H657	
+****** Result for Image/Page 1493 ******
+Shortcuts	
+Pickup	
+A 731 E 755	
+B 674 F653	
+C618 G584	
+D 655	H 682	
+****** Result for Image/Page 1494 ******
+Shortcuts	
+Pickup	
+A A 725 E753	
+B 668	F 661	
+C588	G588	
+D 658H674	
+****** Result for Image/Page 1495 ******
+Shortcuts	
+Pickup	
+A715 E 744	
+B 659	F676	
+C635 G596	
+D 660H659	
+****** Result for Image/Page 1496 ******
+Shortcuts	
+Pickup	
+A713 E 742	
+B628 F677	
+C641 G598	
+D D 697 H655	
+****** Result for Image/Page 1497 ******
+Shortcuts	
+Pickup	
+A715 E 738	
+B 629	F 682	
+C631	G 603	
+D 694	H 651	
+****** Result for Image/Page 1498 ******
+Shortcuts	
+Pickup	
+A 769 E 735	
+B587 F682	
+C578 G 607	
+D 742H650	
+****** Result for Image/Page 1499 ******
+Shortcuts	
+Pickup	
+A 804	E 731	
+B 565	F677	
+C545	G610	
+D771 H652	
+****** Result for Image/Page 1500 ******
+Shortcuts	
+Pickup	
+A A 853E721	
+B553 F 669	
+C498G615	
+D 791	H 654	
+****** Result for Image/Page 1501 ******
+Shortcuts	
+Pickup	
+A 865 E714	
+B555	F 662	
+C484G 623	
+D 803 H 662	
+****** Result for Image/Page 1502 ******
+Shortcuts	
+Pickup	
+A 869 E 709	
+B581	F656	
+C478 G626	
+D 782	H 668	
+****** Result for Image/Page 1503 ******
+Shortcuts	
+Pickup	
+A 869 E 709	
+B581	F 656	
+C478 G626	
+D 782	H 668	
+****** Result for Image/Page 1504 ******
+Shortcuts	
+Pickup	
+A 864	E 706	
+B593	F 644	
+C 495 G638	
+D D 767 H684	
+****** Result for Image/Page 1505 ******
+Shortcuts	
+Pickup	
+A713 E 707	
+B599 F632	
+C513 G 631	
+D 754H690	
+****** Result for Image/Page 1506 ******
+Shortcuts	
+Pickup	
+A 720	E 712	
+B 598	F625	
+C513	G515	
+D 755 H694	
+****** Result for Image/Page 1507 ******
+Shortcuts	
+Pickup	
+A 722 E714	
+B B 598 F625	
+C513G514	
+D 755H696	
+****** Result for Image/Page 1508 ******
+Shortcuts	
+Pickup	
+A A 722 E714	
+B B 598 F625	
+C513 G514	
+D 755H696	
+****** Result for Image/Page 1509 ******
+Shortcuts	
+Pickup	
+A 723 E715L	
+B597 F625	
+C512	G513	
+D 756H699	
+****** Result for Image/Page 1510 ******
+Shortcuts	
+Pickup	
+A 728 E719	
+B 597 F623	
+C511G512	
+D 756	H 703	
+****** Result for Image/Page 1511 ******
+Shortcuts	
+Pickup	
+A 731 E 721	
+B 597 F621	
+C510G511	
+D 756 H 705	
+****** Result for Image/Page 1512 ******
+Shortcuts	
+Pickup	
+A 744 E 734	
+B 599	F618	
+C511	G511	
+D 754 H 711	
+****** Result for Image/Page 1513 ******
+Shortcuts	
+Pickup	
+A 768	E 757	
+B599	F614	
+C511	G511	
+D 754 H 719	
+****** Result for Image/Page 1514 ******
+Shortcuts	
+Pickup	
+A 832	E 777	
+B599	F 622	
+C513G559	
+D 753 H 718	
+****** Result for Image/Page 1515 ******
+Shortcuts	
+Pickup	
+A 830	E 780	
+B 600	F625	
+C515	G554	
+D 752 H716	
+****** Result for Image/Page 1516 ******
+Shortcuts	
+Pickup	
+A 861	E 786	
+B593	F 624	
+C485	G479	
+D 771 H717	
+****** Result for Image/Page 1517 ******
+Shortcuts	
+Pickup	
+A A 855E 789	
+B 592	F627	
+C491 G549	
+D 772 H715	
+****** Result for Image/Page 1518 ******
+Shortcuts	
+Pickup	
+A A 857 E797	
+B577 F 630	
+C 496G539	
+D 783 H716	
+****** Result for Image/Page 1519 ******
+Shortcuts	
+Pickup	
+A A 851 E 801	
+B568	F 625	
+C503 G537	
+D D 780 H 722	
+****** Result for Image/Page 1520 ******
+Shortcuts	
+Pickup	
+A 834	E 797	
+B 561	F 626	
+C514	G 539	
+D723 H 719	
+****** Result for Image/Page 1521 ******
+Shortcuts	
+Pickup	
+A 810	E 804	
+B 563	F 623	
+C538 G533	
+D 776 H724	
+****** Result for Image/Page 1522 ******
+Shortcuts	
+Pickup	
+A 756	E 818	
+B597	F620	
+C589G519	
+D 731 H734	
+****** Result for Image/Page 1523 ******
+Shortcuts	
+Pickup	
+A 730	E 818	
+B631	F616	
+C589	| G507	
+D D 694 H 751	
+****** Result for Image/Page 1524 ******
+Shortcuts	
+Pickup	
+A716 E 839	
+B664	F 589	
+C629	G500	
+D 659 H 774	
+****** Result for Image/Page 1525 ******
+Shortcuts	
+Pickup	
+A 706	E 845	
+B B 669 F575	
+C640 G 498	
+D 654H766	
+****** Result for Image/Page 1526 ******
+Shortcuts	
+Pickup	
+A 708	E 833	
+B 662 F568	
+C C638 G 507	
+D D 661 H 778	
+****** Result for Image/Page 1527 ******
+Shortcuts	
+Pickup	
+A 708	E 825	
+B 646F569	
+C638 G516	
+D678 H 773	
+****** Result for Image/Page 1528 ******
+Shortcuts	
+Pickup	
+A715 E 811	
+B 630	F586	
+C631 G531	
+D 693H760	
+****** Result for Image/Page 1529 ******
+Shortcuts	
+Pickup	
+A715 E 808	
+B 630	F 584	
+C631G528	
+D 692	H 759	
+****** Result for Image/Page 1530 ******
+Shortcuts	
+Pickup	
+A714 E817	
+B 631	F 608	
+C631G536	
+D D691 | H735	
+****** Result for Image/Page 1531 ******
+Shortcuts	
+Pickup	
+A714 E795	
+B 632	F 640	
+C 632	G550	
+D 690H702	
+****** Result for Image/Page 1532 ******
+Shortcuts	
+Pickup	
+A 721 E 788	
+B B 628 F 640	
+C 624	G549	
+D 696	H 703	
+****** Result for Image/Page 1533 ******
+Shortcuts	
+Pickup	
+A 722 E 782	
+B627	F 637	
+C624G555	
+D D 696 H 703	
+****** Result for Image/Page 1534 ******
+Shortcuts	
+Pickup	
+A 729 E755	
+B623 F636	
+C616	G 580	
+D 700	H 700	
+****** Result for Image/Page 1535 ******
+Shortcuts	
+Pickup	
+A 746	E 759	
+B 604	F 634	
+C 607 G573	
+D 724	H 700	
+****** Result for Image/Page 1536 ******
+Shortcuts	
+Pickup	
+A 727	E 760	
+B 589 F631	
+C621	G573	
+D 732 H 703	
+****** Result for Image/Page 1537 ******
+Shortcuts	
+Pickup	
+A 727	E 764	
+B 590 F635	
+C 621G570	
+D 731 H 700	
+****** Result for Image/Page 1538 ******
+Shortcuts	
+Pickup	
+A 726	E 762	
+B590	F 634	
+C622 G572	
+D 731 H 701	
+****** Result for Image/Page 1539 ******
+Shortcuts	
+Pickup	
+A 726	E 750	
+B 590	F631	
+C622 G577	
+D 732H707	
+****** Result for Image/Page 1540 ******
+Shortcuts	
+Pickup	
+A 726	E 743	
+B589	F 623	
+C 622	G 594	
+D 732 H 709	
+****** Result for Image/Page 1541 ******
+Shortcuts	
+Pickup	
+A 726 E 743	
+B 589	F 620	
+C622 G591	
+D 732 H 710	
+****** Result for Image/Page 1542 ******
+Shortcuts	
+Pickup	
+A 726	E 746	
+B 589	F613	
+C622G 589	
+D 732 H717	
+****** Result for Image/Page 1543 ******
+Shortcuts	
+Pickup	
+A 727	E 748	
+B B590 F 605	
+C621 G587	
+D 732 H 724	
+****** Result for Image/Page 1544 ******
+Shortcuts	
+Pickup	
+A 727 E 748	
+B 590	F 605	
+C 621G587	
+D 731 H724	
+****** Result for Image/Page 1545 ******
+Shortcuts	
+Pickup	
+A 727	E 748	
+B591 F 605	
+C 621	G588	
+D 730 H724	
+****** Result for Image/Page 1546 ******
+Shortcuts	
+Pickup	
+A A 727 E748	
+B 591	F597	
+C620 G589	
+D D 730 H 731	
+****** Result for Image/Page 1547 ******
+Shortcuts	
+Pickup	
+A 728	E 742	
+B 591F607	
+C655 G595	
+D 730 H728	
+****** Result for Image/Page 1548 ******
+Shortcuts	
+Pickup	
+A 703 E731I	
+B586 F615	
+C 647G610	
+D733 H719	
+****** Result for Image/Page 1549 ******
+Shortcuts	
+Pickup	
+A 703 E 699	
+B 586 F621	
+C646 G 637	
+D D 733 H 701	
+****** Result for Image/Page 1550 ******
+Shortcuts	
+Pickup	
+A 703	E670	
+B586	F619	
+C646 G 667	
+D D 733H703	
+****** Result for Image/Page 1551 ******
+Shortcuts	
+Pickup	
+A A 704 E 650	
+B586	F617	
+C 646	G 659	
+D 734 H 708	
+****** Result for Image/Page 1552 ******
+Shortcuts	
+Pickup	
+A A 704 E 644	
+B 586	F 606	
+C 646 G652	
+D 734 H 718	
+****** Result for Image/Page 1553 ******
+Shortcuts	
+Pickup	
+A 704 E 646	
+B 586	F 602	
+C 646G699	
+D 734	H 722	
+****** Result for Image/Page 1554 ******
+Shortcuts	
+Pickup	
+A 703 E 657	
+B586	F586	
+C 647G 697	
+D 733H738	
+****** Result for Image/Page 1555 ******
+Shortcuts	
+Pickup	
+A A 701 E659	
+B587	F577	
+C648 G 694	
+D 733H743	
+****** Result for Image/Page 1556 ******
+Shortcuts	
+Pickup	
+A 701 E 666	
+B 587F579	
+C648 G 686	
+D 733	H 742	
+****** Result for Image/Page 1557 ******
+Shortcuts	
+Pickup	
+A A 701 E 666	
+B587 F582	
+C648	G 685	
+D D 733H740	
+****** Result for Image/Page 1558 ******
+Shortcuts	
+Pickup	
+A 702 E 665	
+B586	F585	
+C 648G 685	
+D 734 H739	
+****** Result for Image/Page 1559 ******
+Shortcuts	
+Pickup	
+A 702 E 663	
+B 585	F586	
+C 648G 690	
+D 734 H739	
+****** Result for Image/Page 1560 ******
+Shortcuts	
+Pickup	
+A 702 E 662	
+B 585F586	
+C 647G 688	
+D 735	H 738	
+****** Result for Image/Page 1561 ******
+Shortcuts	
+Pickup	
+A 702	E 658	
+B 584 F585	
+C 648 G693	
+D D 735 H 741	
+****** Result for Image/Page 1562 ******
+Shortcuts	
+Pickup	
+A 702 E 655	
+B 583	F583	
+C648	G 697	
+D D 736 H743	
+****** Result for Image/Page 1563 ******
+Shortcuts	
+Pickup	
+A 702 E 649 L	
+B 583	F581	
+C648 G 707	
+D 736	H 754	
+****** Result for Image/Page 1564 ******
+Shortcuts	
+Pickup	
+A 702 E 651	
+B584	F 581	
+C648 G 703	
+D736 H746	
+****** Result for Image/Page 1565 ******
+Shortcuts	
+Pickup	
+A A 702 E 651	
+B584	F 581	
+C648 G 703	
+D D 735 H746	
+****** Result for Image/Page 1566 ******
+Shortcuts	
+Pickup	
+A 701	E 644	
+B 585	F580	
+C 648G712	
+D 735H752	
+****** Result for Image/Page 1567 ******
+Shortcuts	
+Pickup	
+A 710 E641	
+B 588	F580	
+C 638G715	
+D D 732 H750	
+****** Result for Image/Page 1568 ******
+Shortcuts	
+Pickup	
+A 708 E 639	
+B592	F579	
+C 640 G718	
+D 729 H752	
+****** Result for Image/Page 1569 ******
+Shortcuts	
+Pickup	
+A 708	E 633	
+B 593	F580	
+C 640	G 726	
+D D 727 H753	
+****** Result for Image/Page 1570 ******
+Shortcuts	
+Pickup	
+A A 709 E 625	
+B 593	F591	
+C 640 G737	
+D 727 H744	
+****** Result for Image/Page 1571 ******
+Shortcuts	
+Pickup	
+A 709 E 622	
+B593	F611	
+C640 G 734	
+D 727 H726	
+****** Result for Image/Page 1572 ******
+Shortcuts	
+Pickup	
+A A 709 E 620	
+B 593	F619	
+C 640G732	
+D 727 H714	
+****** Result for Image/Page 1573 ******
+Shortcuts	
+Pickup	
+A 708 E 611	
+B594 F623	
+C C640 G 737	
+D 726 H714	
+****** Result for Image/Page 1574 ******
+Shortcuts	
+Pickup	
+A 708	E611	
+B594 F622	
+C C640 G 737	
+D 726 H712	
+****** Result for Image/Page 1575 ******
+Shortcuts	
+Pickup	
+A 708 E 609	
+B594 F622	
+C 640	G 740	
+D D 726 H712	
+****** Result for Image/Page 1576 ******
+Shortcuts	
+Pickup	
+A 708 E 605	
+B595F621	
+C 640G 745	
+D 725 H 714	
+****** Result for Image/Page 1577 ******
+Shortcuts	
+Pickup	
+A 708 E 601	
+B 595	F619	
+C641	G 749	
+D725 H719	
+****** Result for Image/Page 1578 ******
+Shortcuts	
+Pickup	
+A A 708 E599	
+B595	F619	
+C641 G 752	
+D 725 H720	
+****** Result for Image/Page 1579 ******
+Shortcuts	
+Pickup	
+A 708 E596|	
+B 595	F619	
+C641 G 755	
+D 725 H718	
+****** Result for Image/Page 1580 ******
+Shortcuts	
+Pickup	
+A 708 E59O	
+B 595 F622	
+C641 G 762	
+D 725	H 721	
+****** Result for Image/Page 1581 ******
+Shortcuts	
+Pickup	
+A A 708 E587	
+B595	F 622	
+C640 G 766	
+D725 H719	
+****** Result for Image/Page 1582 ******
+Shortcuts	
+Pickup	
+A A 708 E 589	
+B595 F623	
+C 640	G 762	
+D 725	H 717	
+****** Result for Image/Page 1583 ******
+Shortcuts	
+Pickup	
+A A 708 E599	
+B595	F 625	
+C 640	G 749	
+D 725 H710	
+****** Result for Image/Page 1584 ******
+Shortcuts	
+Pickup	
+A A 708 E 609	
+B 595	F626	
+C 640	G 741	
+D 725 H 705	
+****** Result for Image/Page 1585 ******
+Shortcuts	
+Pickup	
+A 708	E610	
+B 595	F625	
+C640 G 737	
+D 726 H 707	
+****** Result for Image/Page 1586 ******
+Shortcuts	
+Pickup	
+A 708	E611	
+B 595 F624	
+C640	G 736	
+D 726 H707	
+****** Result for Image/Page 1587 ******
+Shortcuts	
+Pickup	
+A A 708 E614	
+B 595	F 622	
+C 640G 733	
+D725 H708	
+****** Result for Image/Page 1588 ******
+Shortcuts	
+Pickup	
+A 708	E615	
+B 595 F 621	
+C 640G731	
+D725 H709	
+****** Result for Image/Page 1589 ******
+Shortcuts	
+Pickup	
+A A 708 E617	
+B595	F619	
+C 640G729	
+D 726 H 711	
+****** Result for Image/Page 1590 ******
+Shortcuts	
+Pickup	
+A A 708 E617	
+B B595 F619	
+C640	G 729	
+D 726 H 711	
+****** Result for Image/Page 1591 ******
+Shortcuts	
+Pickup	
+A A 708E617 L	
+B 595	F619	
+C 640	G 730	
+D 726 H711	
+****** Result for Image/Page 1592 ******
+Shortcuts	
+Pickup	
+A A 644 E617	
+B594	F618	
+C640 G G 730	
+D 726 H712	
+****** Result for Image/Page 1593 ******
+Shortcuts	
+Pickup	
+A 708	E618	
+B594 F616	
+C 640 G G 729	
+D 726H713	
+****** Result for Image/Page 1594 ******
+Shortcuts	
+Pickup	
+A A 708 E619	
+B 595	F614	
+C 640	G 728	
+D726 H714	
+****** Result for Image/Page 1595 ******
+Shortcuts	
+Pickup	
+A A 707 E619 L	
+B B 595 F613	
+C 640G728	
+D 726 H716	
+****** Result for Image/Page 1596 ******
+Shortcuts	
+Pickup	
+A 707 E619	
+B 594	F613	
+C640 G729	
+D 726	H 715	
+****** Result for Image/Page 1597 ******
+Shortcuts	
+Pickup	
+A 707	E618	
+B594	F613	
+C641G 730	
+D 726	H 715	
+****** Result for Image/Page 1598 ******
+Shortcuts	
+Pickup	
+A A 707 E618	
+B 595	F614	
+C641G 730	
+D 725 H714	
+****** Result for Image/Page 1599 ******
+Shortcuts	
+Pickup	
+A 706 E618	
+B 595	F615	
+C642 G 730	
+D725 H714	
+****** Result for Image/Page 1600 ******
+Shortcuts	
+Pickup	
+A 704	E617	
+B596	F615	
+C 643G 730	
+D 724H713	
+****** Result for Image/Page 1601 ******
+Shortcuts	
+Pickup	
+A 704 E616	
+B596	F616	
+C643 G 732	
+D 724	H 714	
+****** Result for Image/Page 1602 ******
+Shortcuts	
+Pickup	
+A 703 E615	
+B596	F616	
+C644 G 733	
+D724 H 713	
+****** Result for Image/Page 1603 ******
+Shortcuts	
+Pickup	
+A 703	E615	
+B 596	F617	
+C644 G732	
+D 724	H 712	
+****** Result for Image/Page 1604 ******
+Shortcuts	
+Pickup	
+A A 703E616	
+B596	F617	
+C644 G732	
+D 724	H 712	
+****** Result for Image/Page 1605 ******
+Shortcuts	
+Pickup	
+A 703	E616	
+B595F617	
+C644 G731	
+D725 H712	
+****** Result for Image/Page 1606 ******
+Shortcuts	
+Pickup	
+A 704 E616	
+B 594 F620	
+C 644G731	
+D D 726 H710	
+****** Result for Image/Page 1607 ******
+Shortcuts	
+Pickup	
+A A 704 E615	
+B594 F 622	
+C644 G731	
+D D 726 H708	
+****** Result for Image/Page 1608 ******
+Shortcuts	
+Pickup	
+A 704 E614	
+B 594F624	
+C 644G 732	
+D D 726 H707	
+****** Result for Image/Page 1609 ******
+Shortcuts	
+Pickup	
+A A 704 E614	
+B 594	F625	
+C644	G 647	
+D 726 H 705	
+****** Result for Image/Page 1610 ******
+Shortcuts	
+Pickup	
+A 705 E613	
+B 594	F 626	
+C 643G 646	
+D 726 H H 705	
+****** Result for Image/Page 1611 ******
+Shortcuts	
+Pickup	
+A 705 E614	
+B595 F625	
+C643 G 647	
+D 725 H 705	
+****** Result for Image/Page 1612 ******
+Shortcuts	
+Pickup	
+A 705 E614 L	
+B595	F 625	
+C 644G 648	
+D 725	H 706	
+****** Result for Image/Page 1613 ******
+Shortcuts	
+Pickup	
+A A 705E614L	
+B 595	F 624	
+C643 G649	
+D 725	H 706	
+****** Result for Image/Page 1614 ******
+Shortcuts	
+Pickup	
+A A 705 E614	
+B 595	F624	
+C C643 G650	
+D 725 H706	
+****** Result for Image/Page 1615 ******
+Shortcuts	
+Pickup	
+A A 705 E613	
+B595	F 625	
+C644 G 651	
+D 724	H 706	
+****** Result for Image/Page 1616 ******
+Shortcuts	
+Pickup	
+A 705	E613	
+B 596	F625	
+C 644 G733	
+D D 724 H706	
+****** Result for Image/Page 1617 ******
+Shortcuts	
+Pickup	
+A A 704 E613	
+B597	F 626	
+C644 G 733	
+D 723 H 705	
+****** Result for Image/Page 1618 ******
+Shortcuts	
+Pickup	
+A A 704 E613 L	
+B 598	F626	
+C 644G 733	
+D 722 H 705	
+****** Result for Image/Page 1619 ******
+Shortcuts	
+Pickup	
+A 704 E612	
+B 599	F626	
+C 644G 733	
+D 721	| H 705	
+****** Result for Image/Page 1620 ******
+Shortcuts	
+Pickup	
+A A 704 E612	
+B 601 F626	
+C643 G734	
+D 720 H H 705	
+****** Result for Image/Page 1621 ******
+Shortcuts	
+Pickup	
+A 704	E612	
+B 600 F626	
+C 643G 734	
+D720 H705	
+****** Result for Image/Page 1622 ******
+Shortcuts	
+Pickup	
+A A 705 E612	
+B 602 F626	
+C641	G 734	
+D 719 H 705	
+****** Result for Image/Page 1623 ******
+Shortcuts	
+Pickup	
+A A 705 E612	
+B 602 F626	
+C641	G 734	
+D 719 H 705	

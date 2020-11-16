@@ -1,0 +1,23 @@
+{
+  "name": "zhou-points",
+  "version": "1.0.0",
+  "description": "gets the distance between two points when it only has the distance of the points from the edges of a square",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPrada/zhu-points-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NPrada/zhu-points-maker/issues"
+  },
+  "homepage": "https://github.com/NPrada/zhu-points-maker#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}

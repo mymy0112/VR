@@ -1,0 +1,4265 @@
+****** Result for Image/Page 1 ******
+A A 980	E 951	
+B B 373	F 940	
+C448	G 552	
+D 1001 H563	
+****** Result for Image/Page 2 ******
+A 980	E 923	
+B 373 F914	
+C C 448	G 553	
+D 1001H561	
+****** Result for Image/Page 3 ******
+A 981 E 904	
+B373	F 854	
+C448	G546	
+D 1001H570	
+****** Result for Image/Page 4 ******
+A A 981 E 890	
+B 373	F 834	
+C 448	G 523	
+D 1001H 600	
+****** Result for Image/Page 5 ******
+A 981 E 878	
+B 373	F819	
+C 448	G526	
+D 1001	H 603	
+****** Result for Image/Page 6 ******
+A 981 E 869	
+B 372	F 783	
+C448	G 522	
+D 1002H614	
+****** Result for Image/Page 7 ******
+A A 981 E 865	
+B 373	F 778	
+C 448	G514	
+D 1001	H 629	
+****** Result for Image/Page 8 ******
+A 981	E 865	
+B 373	F 777	
+C447 G514	
+D 1001 H 630	
+****** Result for Image/Page 9 ******
+A 981	E 865	
+B373	F 777	
+C447	G514	
+D 1001 629	
+****** Result for Image/Page 10 ******
+A A 981 E 864	
+74 F 775	B 374	
+C 447	G514	
+D 1001 H632	
+****** Result for Image/Page 11 ******
+A 978 E 842	
+B 377	F 765	
+C 449	G518	
+D D 997 H 633	
+****** Result for Image/Page 12 ******
+A A 966 E 836	
+B 387	F 752	
+C451 G530	
+D 983	H 632	
+****** Result for Image/Page 13 ******
+A A 946 E819	
+A F 737	B 407	
+C 458	G 540	
+D 958 H635	
+****** Result for Image/Page 14 ******
+A 907	E 794	
+B453 E52	C472	G 552	
+F 702	
+D 904 H654	
+****** Result for Image/Page 15 ******
+A 898	E 795	
+B 465	F 684	
+C476 G550	
+D D 889 H 669	
+****** Result for Image/Page 16 ******
+A 898	E 808	
+B466	F 683	
+C476 G535	
+D 889H676	
+****** Result for Image/Page 17 ******
+A 898	E 829	
+B 465	F 690	
+C 475	G516	
+D D 890 H 680	
+****** Result for Image/Page 18 ******
+A 897	E E 857	
+B 465	F 466	
+C 476	G 494	
+D 890	H 682	
+****** Result for Image/Page 19 ******
+A A 897 E913	
+F 746	
+B 465 	C476 G 455	
+D 889 H 686	
+****** Result for Image/Page 20 ******
+A 897	E 937	
+B 465	F 765	
+C476	G 441	
+D 889 H 689	
+****** Result for Image/Page 21 ******
+A 896	E 960	
+C477 G 432	B465 F783	
+D 889	H 692	
+****** Result for Image/Page 22 ******
+A 897	E 959	
+B 462	F 783	
+C477	G 431	
+D D 892 H 692	
+****** Result for Image/Page 23 ******
+A A 900	F 783	E 960	
+B 431	
+C480 G 429	
+D 902H623	
+****** Result for Image/Page 24 ******
+A 912	E 958	
+B410	F777	
+C489	G 431	
+D 939H 701	
+****** Result for Image/Page 25 ******
+A A 921 E 942	F 777	
+B 386	
+C497	G428	
+D D 962	H 695	
+****** Result for Image/Page 26 ******
+A A 920 E 903	
+B 386 F767	
+C 495	G 439	
+D 961	H 690	
+****** Result for Image/Page 27 ******
+A 920	E 901	
+B 386	F752		
+G469	
+C 495	
+D D 962H 673	
+****** Result for Image/Page 28 ******
+A A 921 E877	F 385	
+B 386	
+G 482	
+C494	
+D 962	H672	
+****** Result for Image/Page 29 ******
+A 921 E 792	F 388	
+B 385	
+C494	G 506	
+D 962 H 666	
+****** Result for Image/Page 30 ******
+A 921 E 754	F 694	
+B 385	
+C494 G 589	
+D 962H 646	
+****** Result for Image/Page 31 ******
+A 921	E 723	
+B 385	F 686	
+C494	G616	
+D 962H 645	
+****** Result for Image/Page 32 ******
+A A 921 E 691	
+B 385F685	
+C494 G 648	
+D 962 H 640	
+****** Result for Image/Page 33 ******
+A A 921	E 623	
+F 702	
+B 385	
+C494G716	
+D D 962 H 620	
+****** Result for Image/Page 34 ******
+A A 921	E 588	F718	
+B 385	
+C494 G 751	
+D D 962 H 608	
+****** Result for Image/Page 35 ******
+B 385	A 921 E 555	F 735	
+C 494	G 784	
+D 962 H 597	
+****** Result for Image/Page 36 ******
+A 921	E 532	
+6 B 386 F747	
+C494G807	
+D D 962 H591	
+****** Result for Image/Page 37 ******
+A 920	E519	F 750	
+B 386	
+C495 G 820	
+D 962	H 592	
+****** Result for Image/Page 38 ******
+A A 920 E 521	F 747	
+B 386	
+C 495 G818	
+D 962	H 595	
+****** Result for Image/Page 39 ******
+A 920	E 520	
+B B 386 F 740	G 819	
+C 495	
+D 961 H 603	
+****** Result for Image/Page 40 ******
+A 920	E 525	
+B 386 F 697	
+C496 G817	
+D D 961 H653	
+****** Result for Image/Page 41 ******
+A 926	E 534	
+B B 384 F643	
+C491 G814	
+D 965H719	
+****** Result for Image/Page 42 ******
+A 942 E 550	B 385	F 603	
+C475	G 807	
+D 972	H 751	
+****** Result for Image/Page 43 ******
+A 962	E571	
+F580	
+B 390	
+C429 G 796	
+D 979 H 771	
+****** Result for Image/Page 44 ******
+A 1002	E 593	
+B407	F570	
+C 407	G 784	
+D D 991 H 782	
+****** Result for Image/Page 45 ******
+A 1020	E619	F543	
+B418	
+C386 G 780	
+D D 996 H 804	
+****** Result for Image/Page 46 ******
+A 1029	E 628	
+F527	
+B 426	
+C374 G 765	
+D D 998 H 821	
+****** Result for Image/Page 47 ******
+A 1030	E 632	
+F522	
+B428	
+C371 G 764	
+D 996 H 825	
+****** Result for Image/Page 48 ******
+A A 1030 E 631	F522	
+B 428	
+C371G 766	
+D D 996 H 827	
+****** Result for Image/Page 49 ******
+A 1030	E 631	
+F521	
+B B 428	G 766	
+C371	
+D D 996 H 827	
+****** Result for Image/Page 50 ******
+A 1030 E 631	
+B 428F521	G 767	
+C371	
+D 996 H 828	
+****** Result for Image/Page 51 ******
+A 1030	E 630	
+B428F521	
+C371	G 769	
+D996 H 829	
+****** Result for Image/Page 52 ******
+B428F502	A 1030E 646	
+C371	G 762	
+D 996H 848	
+****** Result for Image/Page 53 ******
+A A 1030 E674	
+B 428	F475	
+C371 G 750	
+D 996	H 869	
+****** Result for Image/Page 54 ******
+E674	
+A1030 F 476		B 428	
+G 745	
+C 371	
+D 996 H 870	
+****** Result for Image/Page 55 ******
+A 1030 E673	
+B430 F478	
+C371 G 745	
+D D 995 H 868	
+****** Result for Image/Page 56 ******
+A 1029	E 669	
+B 430 F480	G 747	
+C 371	
+D 995	H 867	
+****** Result for Image/Page 57 ******
+A 1029	E 669	
+B430 F480	
+C371 G 749	
+D 995 H 867	
+****** Result for Image/Page 58 ******
+A 1029	E 668	
+B430	F480	
+C371 G 749	
+D 995 H 868	
+****** Result for Image/Page 59 ******
+A 1029 E 668	
+B B 430 F479	
+C371 G 750	
+D 995	H 869	
+****** Result for Image/Page 60 ******
+A 1012	E 667	
+B B 430F480	C374 G 751	
+D991 H 869	
+****** Result for Image/Page 61 ******
+B434 F480	A 986 E667	
+C384 G 751	
+D 979	H 868	
+****** Result for Image/Page 62 ******
+A 953	E 666	
+6 B 447 F482	
+C C 430 G 751	
+D932 H 866	
+****** Result for Image/Page 63 ******
+A A 889 E 664	
+6457F485	G 480	
+C457	
+D 906	H 863	
+****** Result for Image/Page 64 ******
+A 856	E 662	
+B B 483 F486	G 752	
+C512	
+D 857 H 862	
+****** Result for Image/Page 65 ******
+A A 830 E 662	
+B 497F487	G 752	
+C534	
+D 836	H 861	
+****** Result for Image/Page 66 ******
+A816 E 661	
+B 508 F488	
+C547	G 753	
+D D 823 H 861	
+****** Result for Image/Page 67 ******
+A 815	E 661	
+B533 F487	
+C540 G753	
+D 801	H 861	
+****** Result for Image/Page 68 ******
+B B 549F487	A 825E661	
+C527	G 754	
+D 791	H 862	
+****** Result for Image/Page 69 ******
+A 837	E 661	.	
+B567F486	G 754	
+C512	
+D 781	H 863	
+****** Result for Image/Page 70 ******
+A 848	E E 662	
+B 583	F 485	
+C499 G 754	
+D 772 H 864	
+****** Result for Image/Page 71 ******
+A 872	E 666	
+B618 F481	
+C476 G 753	
+D754 H 867	
+****** Result for Image/Page 72 ******
+A A 880	E 666	F 481	
+B 633	
+C 468	G 752	
+D 748	H 867	
+****** Result for Image/Page 73 ******
+A A 885 E 671	
+B637 F475	
+C 465	L	G 750	
+D 747	H 871	
+****** Result for Image/Page 74 ******
+A 884E 673	F473	
+B 637	
+C466	G 748	
+D D 747 H 874	
+****** Result for Image/Page 75 ******
+A 885	E 675	
+B637 F470	G 750	
+C465	
+D 748	H 878	
+****** Result for Image/Page 76 ******
+B B 636 F470	A 885 E 674	
+C 465	G 750	
+D 748 H 878	
+****** Result for Image/Page 77 ******
+A A 885	E 673	F471	
+B 636	
+C465 G 752	
+D 748 H 878	
+****** Result for Image/Page 78 ******
+A 885	E 668	
+B635 F477	
+C465 G 753	
+D 749	H 874	
+****** Result for Image/Page 79 ******
+A A 880 E 665	
+F 480	
+B 634	
+C469 G756	
+D 748	H 871	
+****** Result for Image/Page 80 ******
+A 872 E 662	
+F 481	
+B 628	
+C476	G 758	
+D 751 H 869	
+****** Result for Image/Page 81 ******
+A 871 E 662	
+F 482	
+B 629	
+C477 G 757	
+D 748	H 868	
+****** Result for Image/Page 82 ******
+A 870	E 663	F 481	
+B 628	
+C478 G 756	
+D 748	H 869	
+****** Result for Image/Page 83 ******
+A 864	E 666	
+B627 F475	G 758	
+C483	
+D746 H 876	
+****** Result for Image/Page 84 ******
+A 856	E 669	
+B 625F 466	G 766	
+C 490	
+D 749 H 889	
+****** Result for Image/Page 85 ******
+A 824	E 669	
+B 627	F 466	
+C522	G 765	
+D 736	H 889	
+****** Result for Image/Page 86 ******
+A A 804 E 669	
+B 624	F467	
+C 541	G 764	
+D721 H 887	
+****** Result for Image/Page 87 ******
+A 760	E 669	
+B 623	F467	
+C587	G 763	
+D715 H 887	
+****** Result for Image/Page 88 ******
+A 740	E 670	
+B622 F 467	
+C 607 G 762	
+D 709 H 886	
+****** Result for Image/Page 89 ******
+B B 621 F 463	A 699E 675	
+C 646	G 758	
+D 706 H 887	
+****** Result for Image/Page 90 ******
+678 E 680	F460	
+B 625	
+C 668	G 754	
+D696	H 889	
+****** Result for Image/Page 91 ******
+A 658	E 685	
+B 631	F456	
+C687 G 749	
+D 690 H 892	
+****** Result for Image/Page 92 ******
+A 644E 690	F 452	
+B 633	
+C 701	G 744	
+D 689	H 894	
+****** Result for Image/Page 93 ******
+A 638	E 695	
+B 633	F 448	
+C 707	G 739	
+D D 689 H 895	
+****** Result for Image/Page 94 ******
+A 638	E 696	
+B633	F448	
+C707 G 738	H 895	
+D 689	
+****** Result for Image/Page 95 ******
+A A 638 E 695	
+B 633	F449	
+C 707	G 739	
+D D 689 H 894	
+****** Result for Image/Page 96 ******
+A 638	E 691	
+B B 632 F453	G 740	
+C 708	
+D 690	H 893	
+****** Result for Image/Page 97 ******
+A 637	E 689	
+B B 631 F 454	
+C 709 G 742	
+D 691 H 891	
+****** Result for Image/Page 98 ******
+A 636	E 685	
+B 631	F 458	
+C 710 G 746	
+D691 H 890	
+****** Result for Image/Page 99 ******
+A 636	E 682	
+B631 F460	
+C710 G 748	
+D 691	H 889	
+****** Result for Image/Page 100 ******
+A A 636E679	F462	
+B 631	
+C710	G 750	
+D691H 888	
+****** Result for Image/Page 101 ******
+A 636	E 676	.	
+B 631 F465	G 754	
+C 710	
+D691 H 886	
+****** Result for Image/Page 102 ******
+A A 636 E676	.	
+B 631 F465	
+C 711 G 754	
+D 691	H 885	
+****** Result for Image/Page 103 ******
+A A 635 E 676	F 464	.	
+B 631	
+C711 G 755	
+D691H 886	
+****** Result for Image/Page 104 ******
+A 635	E 677	F 463	
+B 631	
+C711 G 754	
+D691	H 887	
+****** Result for Image/Page 105 ******
+A 635	E 679	.	
+B B 631 F462	
+C711 G 752	
+D691H 887	
+****** Result for Image/Page 106 ******
+A A 638	E 679	
+B 621 F462	
+C709 G 752	
+D 701 H 887	
+****** Result for Image/Page 107 ******
+A A 647	E 679	.	
+B 602 F463	
+C 703 G 751	
+D 720 H 887	
+****** Result for Image/Page 108 ******
+B571F464	A 665E 678	
+C691 G 750	
+D 751	H 885	
+****** Result for Image/Page 109 ******
+A 716	E 679	
+B B 509 F464	
+C661 G 749	
+D815	H 884	
+****** Result for Image/Page 110 ******
+A743 E681	F463	
+B 483	
+C646G 747	
+D D 844 H884	
+****** Result for Image/Page 111 ******
+A 767	E 686	
+B 455	F 461	
+C637	G 741	
+D910	H 882	
+****** Result for Image/Page 112 ******
+A 803	E 688	
+B408	F460	
+C638 G 738	
+D931 H 883	
+****** Result for Image/Page 113 ******
+A A 821 E 691	F460	
+B 375	
+C C646 G 734	
+D 967 H 880	
+****** Result for Image/Page 114 ******
+A817 E 691	F460	
+B 378	
+C658 G 733	
+D 967	H 880	
+****** Result for Image/Page 115 ******
+A 818	E 690	
+B 373	F461	
+C654 G733	
+D D 969 H 880	
+****** Result for Image/Page 116 ******
+A 826	E 686	
+B 390	F 465	
+C679	G 735	
+D 978	H 878	
+****** Result for Image/Page 117 ******
+A 827	E 683	
+B393 F466	G 737	
+C679	
+D 980 H878	
+****** Result for Image/Page 118 ******
+A 828	E 682	
+6 B402 F467	
+C680	G 741	
+D 983H 876	
+****** Result for Image/Page 119 ******
+A 831	E 678	
+B 399 F469	
+C681 G 745	
+D 980H 877	
+****** Result for Image/Page 120 ******
+A A 824 E 677	F470	
+B 395	
+C675	G 746	
+D 980	H 875	
+****** Result for Image/Page 121 ******
+A 822 E 677	
+6 B 393F470	
+C671 G745	
+D977 H875	
+****** Result for Image/Page 122 ******
+A 819 E678	B B 381F469	
+C665 G 744	
+D 975 H 875	
+****** Result for Image/Page 123 ******
+A816E 684	
+B 374	F466	
+C656 G G 737	
+D 969 H 877	
+****** Result for Image/Page 124 ******
+A 823	E 687	
+B 373	F464	
+C 652 G 734	
+D D 970 H877	
+****** Result for Image/Page 125 ******
+A 830	E 692	
+B 367 F462	
+C 640 G 730	
+D971 H877	
+****** Result for Image/Page 126 ******
+A 831 E 692	F 461	
+B 372	
+C C 630 G 728	
+D 964 H877	
+****** Result for Image/Page 127 ******
+A 837	E 692	
+B 392	F 462	
+C599	G 727	
+D 941	H 877	
+****** Result for Image/Page 128 ******
+A A 846 E 692	
+B395F463	
+C 581	G 726	
+D D 936 H 876	
+****** Result for Image/Page 129 ******
+A 862	E E 691	
+B B 396 F463	
+C 557	G 727	
+D 936	H 876	
+****** Result for Image/Page 130 ******
+A 881 E 690	
+B 400 F463	
+C 529 G 728	
+D935 H878	
+****** Result for Image/Page 131 ******
+A915 E 686	B 432	F 466	
+C473	G478	
+D923 H 881	
+****** Result for Image/Page 132 ******
+A A 921 E 683	F467	
+B454	
+C C 457 G 459	
+D910 H 882	
+****** Result for Image/Page 133 ******
+A 926	E 680	F468	
+B 501	
+C 443	G 744	
+D D 896	H 882	
+****** Result for Image/Page 134 ******
+A A 918 E674	F469	
+B519	
+C437	G 751	
+D 859 H 882	
+****** Result for Image/Page 135 ******
+A A 900 E 673	
+E B 534F470	
+C 452	G 753	
+D 836	H 881	
+****** Result for Image/Page 136 ******
+B540 F470	A 876 E671	
+C475	G 755	
+D 820 H 880	
+****** Result for Image/Page 137 ******
+A 853	E 669	
+B 535	F471	
+C525	G 758	
+D814 H 882	
+****** Result for Image/Page 138 ******
+A812 E 668	
+B533 F471	
+C542 G 760	
+D 801 H 882	
+****** Result for Image/Page 139 ******
+A 791 E 663	
+F473	
+B 549	
+G 768	
+C561	
+D 781 H 884	
+****** Result for Image/Page 140 ******
+A 771 E653	F475	
+B 588	
+C579	G 787	
+D 744 H 891	
+****** Result for Image/Page 141 ******
+B607F475	A 753 E645	
+C594 G 807	
+D 718 H 902	
+****** Result for Image/Page 142 ******
+A 727	E 641	
+B 630	F475	
+C618	G 820	
+D D 694 H 910	
+****** Result for Image/Page 143 ******
+A716 E 641	
+B659 F475	G 820	
+C 641	
+D 664	H 911	
+****** Result for Image/Page 144 ******
+A711E641	F475	
+B 660	
+C C 635	G 821	
+D664 H912	
+****** Result for Image/Page 145 ******
+A711	E 640	F475	
+B 660	
+C635	G 822	
+D 664 H912	
+****** Result for Image/Page 146 ******
+A711E642	F475	
+B 660	
+C635 G 784	
+D D 664 H 909	
+****** Result for Image/Page 147 ******
+A 700	E 660	
+B 660	F476	
+C 646	G 793	
+D 663	H 899	
+****** Result for Image/Page 148 ******
+A A 687 E 654	
+B 651 F448	G 792	
+C 658	
+D670 H 899	
+****** Result for Image/Page 149 ******
+A 671	E 654	
+B 633	F471	
+C674	G 792	
+D D 687 H 898	
+****** Result for Image/Page 150 ******
+A 658 E 651	
+B612 F474	
+C690 G 793	
+D 705	896	
+****** Result for Image/Page 151 ******
+A 649 E651	F474	
+B 601	
+C 703	G 793	
+D D 721 H 895	
+****** Result for Image/Page 152 ******
+A 649	E 651	F475	
+B 601	
+C 703	G 793	
+D 721 H 895	
+****** Result for Image/Page 153 ******
+A A 649 E 650	F475	
+B 602	
+C 703	G 792	
+D721 H 893	
+****** Result for Image/Page 154 ******
+A 645 E 650	F476	
+B610	
+C 705	G 793	
+D 712	H 893	
+****** Result for Image/Page 155 ******
+A 636	F477	E 649	
+B 629	
+G 793	
+C711	
+D D 693 H 892	
+****** Result for Image/Page 156 ******
+A A 631	E 649	
+B 652	F477	
+C714	G 793	
+D D 655 H 892	
+****** Result for Image/Page 157 ******
+A A 638 E 649	
+B 680	F477	
+C 707	G 793	
+D641 H 891	
+****** Result for Image/Page 158 ******
+A A 639 E 648	F478	
+B 684	
+C 706	G 793	
+D 637 H 891	
+****** Result for Image/Page 159 ******
+A 639	E 647	
+F478	
+B 684	
+C 706	G 793	
+D D 637 H 891	
+****** Result for Image/Page 160 ******
+A 640	E 647	
+B 684	F478	
+C706 G 793	
+D 637 H 890	
+****** Result for Image/Page 161 ******
+A 641	E 647	
+B 683	F479	
+C 705	G 793	
+D 637 H 890	
+****** Result for Image/Page 162 ******
+F 480	A 641 E647	B 683	
+G 793	
+C 705	
+D D 637 H 889	
+****** Result for Image/Page 163 ******
+A 641	E 647	
+B 683	F 480	
+C 705	G 792	
+D 637	H 888	
+****** Result for Image/Page 164 ******
+A 634 E 647	F 480	
+B 695	
+C713 G 792	
+D625 H 888	
+****** Result for Image/Page 165 ******
+A 634	E 649	
+B 715	F479	
+C713	G 789	
+D572 H 887	
+****** Result for Image/Page 166 ******
+A 623	E 651	
+B748	F477	
+G 788	
+C C 733	
+D572 H 888	
+****** Result for Image/Page 167 ******
+A 618	E 652	
+F477	
+B 803	
+C C 754	G 787	
+D517 H 889	
+****** Result for Image/Page 168 ******
+A 619	E 653	
+B 813	F475	
+G 786	
+C C 758	
+D 507	H 889	
+****** Result for Image/Page 169 ******
+A 619	E 653	
+F475	
+B815	
+C 759	G 786	
+D 506 H 890	
+****** Result for Image/Page 170 ******
+A 619 E 654	
+B 815	F475	
+G 785	
+C 759	
+D 506 H 890	
+****** Result for Image/Page 171 ******
+A 618	E 655	
+B 828	F474	
+C C 760	G 785	
+D494 H 891	
+****** Result for Image/Page 172 ******
+A 626	E 655	
+B 842	F473	
+C C 765	G 784	
+D D479 H 891	
+****** Result for Image/Page 173 ******
+A A 634 E 655	F473	
+B 860	
+C 768	G 784	
+D D 452 H 891	
+****** Result for Image/Page 174 ******
+A A 637 E 655	B 872 F473	
+C772 G 784	
+D450 H 891	
+****** Result for Image/Page 175 ******
+A A 631 E 655	F473	
+B 866	
+C 772 G 784	
+D457 H 891	
+****** Result for Image/Page 176 ******
+A 627	E 655	
+B 825	F473	
+C 766 G784	
+D D 496 H 891	
+****** Result for Image/Page 177 ******
+A616	E 655	
+B 807 F473	
+C757 G 783	
+D514 H 891	
+****** Result for Image/Page 178 ******
+A 599	E 655	
+B 798	F474	
+C 768 G783	
+D D 525 H 890	
+****** Result for Image/Page 179 ******
+A 542	E 655	
+B 796	F474	
+C816G 783	
+D D 535 H 890	
+****** Result for Image/Page 180 ******
+A A 484 E 654	F474	
+B 800	
+C 842	G 784	
+D541 H526	
+****** Result for Image/Page 181 ******
+A A 449 E 650	
+B814 F478	
+C 900	G 788	
+D554 H 888	
+****** Result for Image/Page 182 ******
+A 433E 639	B 813 F487	
+C 914	G 798	
+D 565	H 884	
+****** Result for Image/Page 183 ******
+A 426	E 597	
+B 790	F 534	
+C 924	G812	
+D 585	H 872	
+****** Result for Image/Page 184 ******
+A A 404 E562	B 805	F567	
+C 942	G 844	
+D 598	H 821	
+****** Result for Image/Page 185 ******
+A A 409	F 596	E 562	
+B 797	
+C 946	G 844	
+D 604	H 821	
+****** Result for Image/Page 186 ******
+A A 415 E515	
+B794 F620	
+C 939	G 873	
+D D 606 H 780	
+****** Result for Image/Page 187 ******
+A A 409 E514	F 621	
+B 792	
+C933 G 872	
+D 606 H777	
+****** Result for Image/Page 188 ******
+A 409E514	F 621	
+B 793	
+C933 G 872	
+D 606 H H 777	
+****** Result for Image/Page 189 ******
+A 409	E 514	
+B 793	F621	
+C 933	G 872	
+D 605	H H 777	
+****** Result for Image/Page 190 ******
+A 409 E514	F 621	
+B793	
+C933 G 872	
+D605 H 776	
+****** Result for Image/Page 191 ******
+A 409	E 513	
+B 793	F 622	
+C 933	G872	
+D 605 H776	
+****** Result for Image/Page 192 ******
+A410E513	F 622	
+B B 793	
+C 933	G 872	
+D D 605 H H 775	
+****** Result for Image/Page 193 ******
+A 410 E513	F 622	
+B 793	
+C 933	G 872	
+D 605 H775	
+****** Result for Image/Page 194 ******
+A 410	E 513	
+B 793	F 622	
+C 932	G 872	
+D 605 H 775	
+****** Result for Image/Page 195 ******
+A410	E513	
+B B 792 F 623	
+C932 G G 872	
+D 605 H 775	
+****** Result for Image/Page 196 ******
+A 409	E513	
+B 792	F 623	
+C 933	G 872	
+D 606	H 775	
+****** Result for Image/Page 197 ******
+A 409	E513	
+B 792	F 623	
+C 933	G 872	
+D 606 H774	
+****** Result for Image/Page 198 ******
+A A 410	E 512	F623	
+B 793	
+C933 G872	
+D 606 H 774	
+****** Result for Image/Page 199 ******
+A 411	E 513	
+B792F628	G 872	
+C 933	
+D 607 H774	
+****** Result for Image/Page 200 ******
+A 412	E518	
+F617	
+B 789	
+C 933	G 870	
+D611 H H 780	
+****** Result for Image/Page 201 ******
+A A 409 E557	F577	
+B 779	
+C 936	G 862	
+D627 H817	
+****** Result for Image/Page 202 ******
+A 404 E574	F 555	
+B 744	
+C 951 G 837	
+D684 H 831	
+****** Result for Image/Page 203 ******
+A A 407	F532	E 595	
+B 723	
+C 958	G 824	
+D 718 H 848	
+****** Result for Image/Page 204 ******
+A 415	E 640	
+B 702	F 488	
+C964 G 812	
+D D 774 H 886	
+****** Result for Image/Page 205 ******
+A 422	E414	
+B677	F467	
+C978 G 800	
+D 788 H 902	
+****** Result for Image/Page 206 ******
+A 428 E416	F 456	
+B677	
+C972	G 784	
+D D 791 H910	
+****** Result for Image/Page 207 ******
+A 428E417	F 454	
+B 677	
+C973	G 782	
+D 791 H910	
+****** Result for Image/Page 208 ******
+A A 428	E417	F454	
+B677	
+C973 G 782	
+D 791 H910	
+****** Result for Image/Page 209 ******
+A 428	E417	
+B677	F454	
+C973 G 782	
+D 791H911	
+****** Result for Image/Page 210 ******
+A 428E417	F 454	
+B677	
+C973	G 783	
+D 791	H 911	
+****** Result for Image/Page 211 ******
+A A 428 E 417	F 454	
+B677	
+C 973	G 783	
+D D 791 H 911	
+****** Result for Image/Page 212 ******
+A 428	E 418	
+B677	F 454	
+C 973	G 783	
+D D 792 H911	
+****** Result for Image/Page 213 ******
+A 429	E 418	
+B677	F453	G 784	
+C972	
+D D 791 H913	
+****** Result for Image/Page 214 ******
+A 429	E418	
+B677F453	G 784	
+C972	
+D D 792	H913	
+****** Result for Image/Page 215 ******
+A 429 E418	F 453	
+B677	
+C 972	G 785	
+D 792 H913	
+****** Result for Image/Page 216 ******
+A 430	E 418	
+B676	F453	
+C971	G 785	
+D D 792 H914	
+****** Result for Image/Page 217 ******
+A A 430 E 416	F 453	
+B 675	
+C971	G 785	
+D 792 H913	
+****** Result for Image/Page 218 ******
+A 430	E416	
+B 675 F454	G 785	
+C 970	
+D 793 H912	
+****** Result for Image/Page 219 ******
+A 429	E419	
+B675	F454	
+C971	G 784	
+D 794	H 911	
+****** Result for Image/Page 220 ******
+A A 656 E 635	
+B B 877 F879	
+C836	G 755	
+D 336	H444	
+****** Result for Image/Page 221 ******
+A A 656 E 634	
+B B 898F899	
+C C 836 G 775	
+D 336 H 425	
+****** Result for Image/Page 222 ******
+A 656 E 635	
+B990F907	
+C 837 G 780	
+D 335 H417	
+****** Result for Image/Page 223 ******
+A 656 E636	
+B991 F 907	
+C837 G 780	
+D334 H418	
+****** Result for Image/Page 224 ******
+A 656 E636	
+B990F906	
+C837	G 779	
+D 335	H419	
+****** Result for Image/Page 225 ******
+A A 657 E637	
+B993 F 905	
+C839 G G 778	
+D 332 H 420	
+****** Result for Image/Page 226 ******
+B 996	A 659 E637	F 904	
+C841 G 776	
+D 328 H 420	
+****** Result for Image/Page 227 ******
+A A 658 E637	
+B996 F 904	
+C 841 G 776	
+D D 328 H 421	
+****** Result for Image/Page 228 ******
+A 658	E 637	
+B997F904	
+C841 G 776	
+D328 H 421	
+****** Result for Image/Page 229 ******
+A A 657 E637	
+B997 F904	
+C 841 G G 776	
+D D 328 H 421	
+****** Result for Image/Page 230 ******
+A A 657 E638	
+B997 F 904	
+C C 841 G 775	
+D D 328 H421	
+****** Result for Image/Page 231 ******
+A 657 E 638	
+B997 F903	
+C 841	G 775	
+D 328 H 422	
+****** Result for Image/Page 232 ******
+A 657 E639	
+B B 997 F903	
+C 842 G 774	
+D328 H 422	
+****** Result for Image/Page 233 ******
+A A 657 E 640	
+B997 F903	
+C 841 G774	
+D 328	H 422	
+****** Result for Image/Page 234 ******
+A 656	E 640	
+B 996	F 903	
+B C 842 G 773	D 329 H 422	
+****** Result for Image/Page 235 ******
+A 656 E641	
+B B 996 F903	
+C 841 G 773	
+D 329 H 422	
+****** Result for Image/Page 236 ******
+A A 655 E 642	
+B996 F904	
+C841 G 772	
+D 329 H 422	
+****** Result for Image/Page 237 ******
+A 655	E 642	
+B B 995F904	
+C841 G 773	
+D 330 H 330	
+****** Result for Image/Page 238 ******
+A 655	E 642	
+B995 F 904	
+C 841 G772	
+D 330 H 329	
+****** Result for Image/Page 239 ******
+A A 655 E 643	
+B B 995 F904	
+C841 G 772	
+D 330	H 329	
+****** Result for Image/Page 240 ******
+A A 654 E 643	
+B B 995 F904	
+C842 G 772	
+D 330	H 328	
+****** Result for Image/Page 241 ******
+A 654 E644	
+B 994F903	
+C841 G G 771	
+D 331 H328	
+****** Result for Image/Page 242 ******
+A 654	E 644	
+B995 F 903	
+C841	G 771	
+D 330 H 328	
+****** Result for Image/Page 243 ******
+A 654	E 644	.	
+B 994	F 903	
+C 842 G770	
+D D 330 H 328	
+****** Result for Image/Page 244 ******
+A 654	E 645	
+B994F902	
+C841 G 770	
+D 330 H 328	
+****** Result for Image/Page 245 ******
+A 654 E 645	
+B994 F902	
+C841 G 769	
+D 331 H328	
+****** Result for Image/Page 246 ******
+A 654E 645	
+C841 G 768	B 994F901	
+D D 331 H328	
+****** Result for Image/Page 247 ******
+A 654	E 646	
+B994 F 899	
+C841 G 766	
+D D 331 H328	
+****** Result for Image/Page 248 ******
+A 654 E 646	
+B993 F898	
+C 841 G 766	
+D 332 H 329	
+****** Result for Image/Page 249 ******
+A 654	E 646	
+B993 F 898	
+C841 G 766	
+D 332 H329	
+****** Result for Image/Page 250 ******
+A 654	E 646	
+B993 F 899	
+C C 841 G 766	
+D 332 H 329	
+****** Result for Image/Page 251 ******
+A 654	E 646	
+B B 993 F899	
+C840 G767	
+D 332 H 329	
+****** Result for Image/Page 252 ******
+B 992F899	A 654 E 646	
+C841 G 767	
+D D 332 H 329	
+****** Result for Image/Page 253 ******
+A 654	E 646	
+B993 F899	
+C 841 G 767	
+D D 332 H 329	
+****** Result for Image/Page 254 ******
+B992 F900	A 654E 646	
+C842 G 767	
+D D 330 H 328	
+****** Result for Image/Page 255 ******
+A 653	E 646	
+B994 F900	G 767	
+C 843	
+D D 329 H 327	
+****** Result for Image/Page 256 ******
+A 653	E 646	
+B995 F900	G 767	
+C 844	
+D D 328 H325	
+****** Result for Image/Page 257 ******
+A 653	E 646	
+B B995 F900	
+C844 G 767	
+D328 H 325	
+****** Result for Image/Page 258 ******
+A 653 E 646	
+B B 995 F 900	
+C C 844 G 767	
+D D 328 H 325	
+****** Result for Image/Page 259 ******
+A 653 E 646	
+B B 994 F 900	
+C843 G 767	
+D D 328 H 326	
+****** Result for Image/Page 260 ******
+A 653 E646	
+B994 F 900	
+C C 843 G 767	
+D 328 H 326	
+****** Result for Image/Page 261 ******
+A A 653 E647	
+B994F900	
+C 843 G 767	
+D 329 H 326	
+****** Result for Image/Page 262 ******
+A A 653 E647	
+B 994F 900	
+C 843 G766	
+D329 H 326	
+****** Result for Image/Page 263 ******
+A 653	E 647	
+B994 F F 900	
+C 843 G 766	
+D D 329 H 326	
+****** Result for Image/Page 264 ******
+A A 654 E 647	
+B993F900	
+C842 G 767	
+D D 330 H 328	
+****** Result for Image/Page 265 ******
+A A 654E647	
+B B 993F900	
+C 841	G 767	
+D 331 H 328	
+****** Result for Image/Page 266 ******
+B991 F900	A 650 E646	.	
+C839 G 767	
+336 H 332	
+****** Result for Image/Page 267 ******
+A 650	E 646	
+B977 F 901	
+C C836 G 767	
+D 349 H 344	
+****** Result for Image/Page 268 ******
+A 621 E 646	
+B 960F901	G 767	
+C 846	
+D357 H 425	
+****** Result for Image/Page 269 ******
+A612 E 646	
+B957F901	
+C 843 G 768	
+D367 H 425	
+****** Result for Image/Page 270 ******
+A 610	E 646	.	
+B956F901	
+C C 841 G 767	
+D 368	H 425	
+****** Result for Image/Page 271 ******
+A A 612 E 647	
+B954 F 900	
+C774 G 767	
+D 369 H426	
+****** Result for Image/Page 272 ******
+A 611	E 647	
+B947 F899	
+C 840	G 766	
+D 372 H H 427	
+****** Result for Image/Page 273 ******
+A 608 E 647	
+B945 F899	
+C840 G 766	
+D 375	H 427	
+****** Result for Image/Page 274 ******
+A A 606 E647	
+B B 944 F898	
+C769 G 765	
+D376 H 428	
+****** Result for Image/Page 275 ******
+A 610	E 647	.	
+B944F897	
+C768 G 765	
+D 374 H 429	
+****** Result for Image/Page 276 ******
+B953 F897	A 619 E647	.	
+C 836 G765	
+D 368 H 429	
+****** Result for Image/Page 277 ******
+A 635	E 647	.	
+B959F897	
+C830 G 765	
+D 362H 429	
+****** Result for Image/Page 278 ******
+A 667 E 647	
+B964F897	
+C819 G 764	
+D367 H 429	
+****** Result for Image/Page 279 ******
+A A 671 E 647	.	
+B 896F896	
+C 806 G 764	
+D364 H430	
+****** Result for Image/Page 280 ******
+A 671 E 647	.	
+B B 896F897	
+C 806 G 764	
+D D 364 H 429	
+****** Result for Image/Page 281 ******
+A 671 E647 -	
+B B 897 F 897	
+C C 806 G 764	
+D 364 H 429	
+****** Result for Image/Page 282 ******
+A 672 E 647	
+B 898 F897	
+C 806 G 764	
+D 363	H429	
+****** Result for Image/Page 283 ******
+A 672 E647	
+B B 897 F898	
+C 806 G 765	
+D 363 H 428	
+****** Result for Image/Page 284 ******
+A 672	E 647	
+B B 896F898	
+C 806 G 765	
+D 364 H 428	
+****** Result for Image/Page 285 ******
+A 671 E647	
+B B 895 F898	
+C 806 G 765	
+D 363 H 428	
+****** Result for Image/Page 286 ******
+B B 892F898	A 671 E648	
+C 806 G 765	
+D D 363 H 428	
+****** Result for Image/Page 287 ******
+A 667 E 648	
+B B 892 F898	
+C 807 G 765	
+D 363	H 428	
+****** Result for Image/Page 288 ******
+A 667	E 648	
+B B 891F898	
+C 807 G 765	
+D364 H 428	
+****** Result for Image/Page 289 ******
+A 661	E 648	
+B 891F898	
+C812 G 764	
+D D 364 H428	
+****** Result for Image/Page 290 ******
+A A 650	E 648	
+B 965 F897	G 764	
+C819	
+D D 362 H 428	
+****** Result for Image/Page 291 ******
+A 625	E 648	
+B950F897	
+C C 833 G 764	
+D 365 H 429	
+****** Result for Image/Page 292 ******
+A A 623 E 648	
+B948 F 896	
+C831 G 763	
+D372	H 430	
+****** Result for Image/Page 293 ******
+A 623	E 648	
+B950F896	
+C832 G 763	
+D371 H 430	
+****** Result for Image/Page 294 ******
+A 624 E 648	
+B950F896	
+C831 G 763	
+D371 H430	
+****** Result for Image/Page 295 ******
+A 624 E648	
+B950 F896	
+C831 G 764	
+D371 H 430	
+****** Result for Image/Page 296 ******
+A 625 E648	
+B 950 F896	
+C 830 G 763	
+D 371 H430	
+****** Result for Image/Page 297 ******
+A 653	E 648	
+B954F896	
+C826 G 764	
+D D 368 H430	
+****** Result for Image/Page 298 ******
+A A 663 E 648	.	
+B959 F896	
+C809 G 764	
+D D 366 H429	
+****** Result for Image/Page 299 ******
+B960 F897	A 665 E648	
+C C 808 G 764	
+D366 H429	
+****** Result for Image/Page 300 ******
+A A 666 E 647	.	
+B960F897	
+C C 807 G 764	
+D 366	H 429	
+****** Result for Image/Page 301 ******
+A 675 E647	
+B 895 F898	
+C802 G 765	
+D 368	H 428	
+****** Result for Image/Page 302 ******
+A A 676 E646	
+B961 F899	
+C 801 G 766	
+D 367 H427	
+****** Result for Image/Page 303 ******
+B961F899	A 676 E647	
+C 801 G 766	
+D 367 H 427	
+****** Result for Image/Page 304 ******
+A A 676 E 647	
+B961 F899	
+C 801 G 766	
+D 367 H 427	
+****** Result for Image/Page 305 ******
+A A 676 E647	
+B 961 F898	
+C 801	G 765	
+D 367 H 428	
+****** Result for Image/Page 306 ******
+A 676 E647	
+B 961 F898	
+C C 801 G 765	
+D 367 H 428	
+****** Result for Image/Page 307 ******
+A A 676 E 647	
+B961 F898	
+C 801 G 765	
+D 367 H 428	
+****** Result for Image/Page 308 ******
+A A 676 E647	
+B B 961 F 898	
+C 801 G 765	
+D 367 H 428	
+****** Result for Image/Page 309 ******
+A 676 E647	
+B961F897	
+C C 801 G 765	
+D 367 H429	
+****** Result for Image/Page 310 ******
+A 676 E 647	
+B961F 897	
+C 800 G 765	
+D 368	H429	
+****** Result for Image/Page 311 ******
+A A 676 E647	
+B960F897	
+C C 800 G 764	
+D D 368 H 429	
+****** Result for Image/Page 312 ******
+A A 676 E 647	
+B B 960 F897	
+C C 800 G764	
+D D 368 H429	
+****** Result for Image/Page 313 ******
+A 676	E 647	
+B B 960 F897	
+C 800 G764	
+D368 H429	
+****** Result for Image/Page 314 ******
+B960 F897	A 676E 647	
+C 800 G764	
+D D 368 H 429	
+****** Result for Image/Page 315 ******
+B960 F897	A 676E647	
+C 800 G 764	
+D 368 H 429	
+****** Result for Image/Page 316 ******
+A 676 E 647	
+B B 959 F897	
+C799 G 764	
+D D 369 H 429	
+****** Result for Image/Page 317 ******
+A A 676 E 648	
+B959 F897	
+C799 G 764	
+D369 H 429	
+****** Result for Image/Page 318 ******
+A 677 E 650	
+B959F893	
+C798 G 760	
+D 369 H 434	
+****** Result for Image/Page 319 ******
+A 685	E 649	
+B959F 893	
+C794 G 760	
+D372 H 434	
+****** Result for Image/Page 320 ******
+A 709 E 649	
+B958 F 888	
+C769 G 757	
+D D 388 H 439	
+****** Result for Image/Page 321 ******
+A A 709 E 648	B949 F886	
+C 766 G 757	
+D D 389 H 440	
+****** Result for Image/Page 322 ******
+A 709 E 648	
+B 948F886	
+C766 G 757	
+D 390 H440	
+****** Result for Image/Page 323 ******
+A 710	E 647	
+B944 F 886	
+C762 G 757	
+D 393 H440	
+****** Result for Image/Page 324 ******
+A 718 E 648	
+B 944F 885	
+C736 G 757	
+D418H441	
+****** Result for Image/Page 325 ******
+A 728 E 648	
+B911 F885	
+C726 G 756	
+D431	H 441	
+****** Result for Image/Page 326 ******
+A A 729 E648	
+B B 909F885	
+C723 G 756	
+D 434 H 441	
+****** Result for Image/Page 327 ******
+A 728 E648	B 910	F 885	
+C724 G 756	
+D 432 H 441	
+****** Result for Image/Page 328 ******
+A 728	E 648	
+B910F884	
+C725 G 756	
+D432 H 442	
+****** Result for Image/Page 329 ******
+A 728	E 648	
+B911 F884	
+C725 G 756	
+D431 H 442	
+****** Result for Image/Page 330 ******
+A 728	E 648	
+B911F884	
+C 725	G 756	
+D431 H442	
+****** Result for Image/Page 331 ******
+A 728	E 648	
+B911F 884	
+C 726 G 756	
+D 431	H 442	
+****** Result for Image/Page 332 ******
+A 727	E 649	
+B911 F884	
+C 726 G 756	
+D 431 H442	
+****** Result for Image/Page 333 ******
+A A 728 E 649	
+B916F885	
+C734 G 755	
+D D 424 H 441	
+****** Result for Image/Page 334 ******
+A A 724 E651	
+B929F887	
+C 749	G 756	
+D411	H 439	
+****** Result for Image/Page 335 ******
+A 701 E 650	
+B929 F890	
+G 758	
+C 769 	D 392 H 436	
+****** Result for Image/Page 336 ******
+A A 689E652	
+B959 F900	
+C816 G 764	
+D 371 H427	
+****** Result for Image/Page 337 ******
+A 659 E651	
+B988 F903	
+C834 G 766	
+D D 336 H427	
+****** Result for Image/Page 338 ******
+B993 F905	A 639 E650	
+C 852 G 767	
+D 328 H 330	
+****** Result for Image/Page 339 ******
+A A 607 E649	
+B993F905	
+C 881 G 768	
+D D 328 H 421	
+****** Result for Image/Page 340 ******
+B B 999 F 905	A A 600 E 649 |	
+C 885	G 768	
+D321 H 421	
+****** Result for Image/Page 341 ******
+A A 591 E650	
+B975F905	
+C885 G G 767	
+D 331 H 422	
+****** Result for Image/Page 342 ******
+A 579 E 650	
+B956F904	
+C 769	G 767	
+D 367 H 422	
+****** Result for Image/Page 343 ******
+A 570	E 650	
+B 949F 903	
+C872 G 766	
+D 374 H423	
+****** Result for Image/Page 344 ******
+A A 569 E651	.	
+B950 F903	
+C872	G 765	
+D373 H 423	
+****** Result for Image/Page 345 ******
+A575 E E 651	.	
+B945F903	
+C864 G 765	
+D 378 H423	
+****** Result for Image/Page 346 ******
+A 585	E 651	
+B937 F907
+C C 852 G 766	
+D 384 H421	
+****** Result for Image/Page 347 ******
+A A 589 E 650	
+B B 935 F907	
+C 848 G 768	
+D D 386 H 420	
+****** Result for Image/Page 348 ******
+A A 589 E 650	
+B 935	F 908	
+C848 G 769	
+D D 385 H419	
+****** Result for Image/Page 349 ******
+A A 589 E 650	
+B 936 F 908	
+C C 848 G 770	
+D D 385 H418	
+****** Result for Image/Page 350 ******
+A A 589 E 650	
+B936 F909	
+C848 G 770	
+D D 385 H418	
+****** Result for Image/Page 351 ******
+A A 591 E 650	
+B 939 F 909	
+C849 G 770	
+D 382	H417	
+****** Result for Image/Page 352 ******
+A 591	E 650	
+B 938	F910	
+C848 G 770	
+D D 382 H417	
+****** Result for Image/Page 353 ******
+A 591 E 650	.	
+B938 F 909	
+C 848 G G 771	
+D 382H418	
+****** Result for Image/Page 354 ******
+A 600 E650	
+B938 F909	
+C C 852 G 769	
+D D 378 H418	
+****** Result for Image/Page 355 ******
+A 609	E 650	
+B956	F 908	
+C 846 G 769	
+D 364	H419	
+****** Result for Image/Page 356 ******
+A 620 E 650	
+B974 F908	
+C853 D 348	H419	
+G 769	
+****** Result for Image/Page 357 ******
+A619 E 650	
+B972 F908	
+C851 G 769	
+D D 348 H419	
+****** Result for Image/Page 358 ******
+A 620 E650	
+B972 F 908	
+C 851 G 769	
+D 348	H419	
+****** Result for Image/Page 359 ******
+A 620	E 650	.	
+B B 972 F908	
+C850 G 769	
+D D 348 H419	
+****** Result for Image/Page 360 ******
+A A 620 E 650	
+B972 F908	
+C850 G 769	
+D D 348 H 419	
+****** Result for Image/Page 361 ******
+A 619	E 650	
+B 971 F909	G 769	
+C 850	
+D349 H418	
+****** Result for Image/Page 362 ******
+A 619 E 650	
+B971 F909	
+C850 G 770	
+D D 349 H418	
+****** Result for Image/Page 363 ******
+A 618	E 650	
+B971 F909	
+C 850	G 769	
+D349 H 418	
+****** Result for Image/Page 364 ******
+A618	E 651	
+B 971 F909	
+C850 G 769	
+D 350	H418	
+****** Result for Image/Page 365 ******
+A A 618 E 651	
+B971 F 909	
+C 851 G 769	
+D349 H417	
+****** Result for Image/Page 366 ******
+A A 619 E651	
+B970F910	
+C 850 G 769	
+D 349	H417	
+****** Result for Image/Page 367 ******
+A 619	E 651	
+B970 F909	
+C 849 G 769	
+D350 H418	
+****** Result for Image/Page 368 ******
+A 619	E 653	
+B968 F907	
+C 847 G 766	
+D 352 H 421	
+****** Result for Image/Page 369 ******
+A617 E 654	.	
+B 968 F897	
+C 847 G 764	
+D 354 H431	
+****** Result for Image/Page 370 ******
+A A617 E 650	
+B 967 F893	
+C 846 G 760	
+D355 H 433	
+****** Result for Image/Page 371 ******
+A 617E646	B965 F893	
+C845 G762	
+D 357 H433	
+****** Result for Image/Page 372 ******
+A617 E646	
+B B 964 F892	
+C C 844 G 763	
+D 358H 433	
+****** Result for Image/Page 373 ******
+A617	E 646	
+B962F891	
+C843 G 762	
+D 359 H 434	
+****** Result for Image/Page 374 ******
+A617E 641	
+B963F 886	
+C 843 G 763	
+D 359	H 438	
+****** Result for Image/Page 375 ******
+A617 E 628	
+B 964 F872	
+C 843 G 765	
+D 359 H 448	
+****** Result for Image/Page 376 ******
+A619 E623	
+B B 964 F862	
+C 843 G 766	
+D 358 H353	
+****** Result for Image/Page 377 ******
+A618	E 595	.	
+B966F812	
+C845 G 765	
+D358 H511	
+****** Result for Image/Page 378 ******
+A616 E E 584	
+B 967	F 781	
+C 846	G 765	
+D D 356 H543	
+****** Result for Image/Page 379 ******
+A 614	E 577	
+B 968	F 756	
+C 848 G 765	
+D 355	H570	
+****** Result for Image/Page 380 ******
+A611E570	
+B970 F726	
+C850 G 768	
+D354 H 603	
+****** Result for Image/Page 381 ******
+A 610	E561	
+B 971 F670	
+C852 G 781	
+D D 354 H670	
+****** Result for Image/Page 382 ******
+A A 609 E 561	
+B971	F670	
+C853 G 781	
+D 353 H H H 733	
+****** Result for Image/Page 383 ******
+A 608 E 568	
+B973 F622	
+C 854 G 788	
+D D 352 H 758	
+****** Result for Image/Page 384 ******
+A 607	E 593	
+B972 F565	
+C855 G 789	
+D 352	H 792	
+****** Result for Image/Page 385 ******
+A 607 E616	F531	
+B973	
+C C 855 G 785	
+D 352 H 828	
+****** Result for Image/Page 386 ******
+A 607 E654	
+B 973 F487	
+C 855 G 778	
+D 352 H 870	
+****** Result for Image/Page 387 ******
+A A 608 E E 655	
+B973 F481	
+C 855	G 779	
+D D 352 H 876	
+****** Result for Image/Page 388 ******
+A 610 E 653	
+B972 F482	
+C 854 G 775	
+D352 H 876	
+****** Result for Image/Page 389 ******
+A614 E 659	
+B967F476	
+C851 G G771	
+D D 353 H 881	
+****** Result for Image/Page 390 ******
+A A 614 E 668	
+B B 967 F467	
+C850 G 767	
+D 354 H 889	
+****** Result for Image/Page 391 ******
+A A 614E667	B B 967F467	
+C 849 G 768	
+D 354 H 889	
+****** Result for Image/Page 392 ******
+A 614 E 666	
+B B 969 F468	
+C 849 G 769	
+D 354 H H 888	
+****** Result for Image/Page 393 ******
+A A615 E 665	
+B 968	F 468	
+C850 G 770	
+D D 353 H 889	
+****** Result for Image/Page 394 ******
+A 615	E 665	
+B970 F468	
+C850 G 771	
+D352 H 889	
+****** Result for Image/Page 395 ******
+A 612 E665	
+B 972 F467	
+C852 G 772	
+D 351	H 891	
+****** Result for Image/Page 396 ******
+A 611	E 666	
+B 972 F466	
+c852 G G772	
+D 352 H 893	
+****** Result for Image/Page 397 ******
+A A 610 E 667	
+B B 972 F465	
+C853 G772	
+D352 H 894	
+****** Result for Image/Page 398 ******
+A 610	E 668	
+B 972 F464	
+C853 G 771	
+D D 352 H 894	
+****** Result for Image/Page 399 ******
+A610 E 669	F463	
+B 972	
+C C 853 G 771	
+D352 H 895	
+****** Result for Image/Page 400 ******
+A610 E 669	
+B972 F463	
+C853 G 770	
+D352 H 895	
+****** Result for Image/Page 401 ******
+A A 609 E 670	.	
+B972 F 462	
+C853 G 770	
+D352 H 896	
+****** Result for Image/Page 402 ******
+A A 609 E670	.	
+B973 F462	
+C 853 G769	
+D352 H 895	
+****** Result for Image/Page 403 ******
+A 609 E670	
+B 973 F463	
+C854 G 769	
+D 352	H 895	
+****** Result for Image/Page 404 ******
+B 972 F463	A 609 E670	
+C854 G 769	
+D352 H 894	
+****** Result for Image/Page 405 ******
+A610 E670	F463	
+B972	
+C C 853 G769	
+D352 H 895	
+****** Result for Image/Page 406 ******
+A611E670	F463	
+B 971	
+C853	G 768	
+D352 H 894	
+****** Result for Image/Page 407 ******
+A 611 E671	
+B 972 F462	
+C853 G 768	
+D352 H 894	
+****** Result for Image/Page 408 ******
+A611 E671	
+B972 F463	
+C853 G 767	
+D352 H 894	
+****** Result for Image/Page 409 ******
+A613 E 670	
+B 969 F463	
+C852 G 768	
+D 352 H 895	
+****** Result for Image/Page 410 ******
+A613E670	
+B 969 F462	
+C852 G 769	
+D352 H 896	
+****** Result for Image/Page 411 ******
+A615E671	
+B 969 F461	
+C852 G 769	
+D 351	H 896	
+****** Result for Image/Page 412 ******
+A614 E671	
+B B 969 F461	
+C852 G 768	
+D351 H 896	
+****** Result for Image/Page 413 ******
+A614 E671	F461	
+B970	
+C 852 G 768	
+D351 H 896	
+****** Result for Image/Page 414 ******
+A A 614E671	
+B970 F461	
+C852 G 768	
+D 350 H 896	
+****** Result for Image/Page 415 ******
+A A 614 E672	
+B B970 F461	
+C852 G 768	
+D350 H 896	
+****** Result for Image/Page 416 ******
+A 615 E672	
+B971 F460	
+C852 G 768	
+D350 H 897	
+****** Result for Image/Page 417 ******
+A A616 E672	
+B 972 F460	
+C852 G 768	
+D D 350 H 897	
+****** Result for Image/Page 418 ******
+A617 E673	-	
+B972 F459	
+C851 G 767	
+D350 H 898	
+****** Result for Image/Page 419 ******
+A 618 E673	
+B 973 F 459	
+C851 G 767	
+D 350 H 898	
+****** Result for Image/Page 420 ******
+A 619 E 673	
+B972 F459	
+C 850 G 767	
+D 349 H 898	
+****** Result for Image/Page 421 ******
+A 619	E 673	
+B972 F460	
+C 850 G 767	
+D D 349 H H 897	
+****** Result for Image/Page 422 ******
+A 619	E 672	.	
+B972 F460	
+C850 G 768	
+D 349 H 897	
+****** Result for Image/Page 423 ******
+A 618	E 672	
+B972 F 460	
+C851 G 768	
+D 350 H 897	
+****** Result for Image/Page 424 ******
+A618 E 672	
+B B 972 F460	
+C851 G 768	
+D350 H H 897	
+****** Result for Image/Page 425 ******
+A618 E 672	
+B972 F460	
+C851 G 768	
+D350 H 897	
+****** Result for Image/Page 426 ******
+A618 E 672	
+B972 F460	
+c851 G 768	
+D D 350 H 897	
+****** Result for Image/Page 427 ******
+A618 E 672	
+B972 F460	
+C 851 G 768	
+D D 350 H 897	
+****** Result for Image/Page 428 ******
+A618 E 672	
+B972F460	
+C851 G 768	
+D350 H 897	
+****** Result for Image/Page 429 ******
+A A 618 E 672	
+B972 F 460	
+C851 G 768	
+D350 H 897	
+****** Result for Image/Page 430 ******
+A 609 E672	
+B971 F461	
+C854 G 767	
+D352 H 896	
+****** Result for Image/Page 431 ******
+A 609	E 672	
+B 970 F461	
+C854 G 768	
+D 353 H 897	
+****** Result for Image/Page 432 ******
+A A 609 E672	F461	
+B 970	
+C 853 G 768	
+D354 H 896	
+****** Result for Image/Page 433 ******
+A 612 E 672	
+B 969 F460	
+C847 G 768	
+D359 H 897	
+****** Result for Image/Page 434 ******
+A 615 E672	
+B947 F460	
+C832 G 768	
+D377 H 896	
+****** Result for Image/Page 435 ******
+A615 E672	
+B 922 F461	
+C816G768	
+D D 401 H 896	
+****** Result for Image/Page 436 ******
+A 612 E 672	F461	
+B 874	
+C 804	G 768	
+D D 425 H 896	
+****** Result for Image/Page 437 ******
+B 838	A 605E672	F461	
+C 798 G 768	
+D D445 H 896	
+****** Result for Image/Page 438 ******
+A A 581E672	F 461	
+B 821	
+C791 G 768	
+D 502	H 896	
+****** Result for Image/Page 439 ******
+A574E672	
+B 803 F460	
+C790 G 768	
+D 521 H 897	
+****** Result for Image/Page 440 ******
+A572 E672	
+B 780F460	
+C785 G 769	
+D 545 H 897	
+****** Result for Image/Page 441 ******
+A577	E 672	
+B B 744	A 57 F460	
+C770 G 768	
+D D 581 H 897	
+****** Result for Image/Page 442 ******
+A 584 E673	F 460	
+B741	
+C 765 G 767	
+D 584 H 897	
+****** Result for Image/Page 443 ******
+A A 584 E 673	
+B 741 F460	
+C765 G 767	
+D584 H 897	
+****** Result for Image/Page 444 ******
+A 584 E673	
+B B 741 F460	
+C765 G 767	
+D 584 H 897	
+****** Result for Image/Page 445 ******
+A 581 E 673	
+B 739 F460	
+C768 G 767	
+D 586 H 897	
+****** Result for Image/Page 446 ******
+A572 E672	
+B 734	F460	
+C776 G 768	
+D 593 H 897	
+****** Result for Image/Page 447 ******
+A A 556 E673	.	
+B726 F460	
+C 789	G 768	
+D 606	H 621	
+****** Result for Image/Page 448 ******
+A 529	E 673	
+B714 F460	
+C816 G 767	
+D630 H 897	
+****** Result for Image/Page 449 ******
+A 504 E673	.	
+B712 F 460	
+C851 G 767	
+D D 640 H 897	
+****** Result for Image/Page 450 ******
+A A 488E672	.	
+B714 F460	
+C858 G 767	
+D 651 H 897	
+****** Result for Image/Page 451 ******
+A 488 E672	.	
+B 707 F460	
+c859 G 767	
+D D 660 H 897	
+****** Result for Image/Page 452 ******
+A 495	E 672	.	
+B B 664 F460	
+C855 G 768	
+D 703 H 897	
+****** Result for Image/Page 453 ******
+A518 E 672	
+B 645 F461	
+C843 G 767	
+D 723 H H 896	
+****** Result for Image/Page 454 ******
+A 524E672	F461	
+B 450	
+C C 840 G 767	
+D D 734 H 896	
+****** Result for Image/Page 455 ******
+A 525E672	
+B B449 F461	
+C C 839 G 767	
+D735 H 896	
+****** Result for Image/Page 456 ******
+A 525	E 672	.	
+B B450 F461	
+C839 G 767	
+D735 H H 896	
+****** Result for Image/Page 457 ******
+A 524	E 672	
+B449 F461	
+C C 840 G 767	
+D 735 H H 896	
+****** Result for Image/Page 458 ******
+A 524E 672	F461	.	
+B450	
+C 840 G 767	
+D735 H 895	
+****** Result for Image/Page 459 ******
+A 524	E 672	.	
+B450 F461	
+C C 840 G 767	
+D 735 H 895	
+****** Result for Image/Page 460 ******
+A 524 E 671	
+B450	F462	
+C841 G 767	
+D 735 H 895	
+****** Result for Image/Page 461 ******
+A 523 E 672	
+B450	F462	
+C841	G 767	
+D 736 H H 894	
+****** Result for Image/Page 462 ******
+A 534 E 671	F462	
+B 451	
+C833 G 767	
+D 744 H 894	
+****** Result for Image/Page 463 ******
+A 553 E671	.	
+B 606F462	
+C816 G 767	
+D 754	H 894	
+****** Result for Image/Page 464 ******
+A 580 E671	B 584 F462	
+C C 792 G 766	
+D 767 H 893	
+****** Result for Image/Page 465 ******
+A 581	E 671	
+B583	F 463	
+C791 G 766	
+D 767	H 893	
+****** Result for Image/Page 466 ******
+A 581	E 671	
+B583	F463	
+C C 791 G 766	
+D 768 H 893	
+****** Result for Image/Page 467 ******
+A 584	E 671	
+B577 F463	
+C790 G 766	
+D 774	H 893	
+****** Result for Image/Page 468 ******
+A 587	E 671	
+F 463	
+B571	
+C 789 G 765	
+D D 780 H 893	
+****** Result for Image/Page 469 ******
+A A 587 E 672	F462	
+B571	
+C C 789 G 766	
+D 780 H 893	
+****** Result for Image/Page 470 ******
+A 588 E672	F 462	.	
+B571	
+C 789 G 765	
+D 780 H 893	
+****** Result for Image/Page 471 ******
+A A 588 E 672	
+B570F462	
+C789 G 765	
+D D 781 H 893	
+****** Result for Image/Page 472 ******
+A 588 E672	F 462	
+B570	
+C 789 G 765	
+D 781 H 893	
+****** Result for Image/Page 473 ******
+A A 590 E672	
+B B 569F462	
+C788 G 765	
+D D 782 H 893	
+****** Result for Image/Page 474 ******
+B557 F462	A 600 E 672	
+C780 G 765	
+D 792 H 893	
+****** Result for Image/Page 475 ******
+A 601 E672	
+B B 556 F462	
+C780 G 764	
+D 792 H 893	
+****** Result for Image/Page 476 ******
+A 601 E672	F462	.	
+B556	
+C 780 G 764	
+D 792 H 893	
+****** Result for Image/Page 477 ******
+A 603	E 672	.	
+B554 F462	
+C778 G764	
+D D 794 H 892	
+****** Result for Image/Page 478 ******
+A A 628 E672	
+B B 543 F462	
+C756 G 764	
+D 811 H 892	
+****** Result for Image/Page 479 ******
+A 630	E 673	-	
+B533 F462	
+C754 G 764	
+D 808 H 801	
+****** Result for Image/Page 480 ******
+A A 630 E 673	
+B532 F462	
+C755 G 763	
+D D 808 H 801	
+****** Result for Image/Page 481 ******
+A 630	E 674	
+B B532 F462	
+C755 G G 761	
+D 808 H 801	
+****** Result for Image/Page 482 ******
+B532 F462	A 630 E674	
+C755 G 761	
+D D 808 H 802	
+****** Result for Image/Page 483 ******
+B532 F462	A 629 E675	
+C756 G 760	
+D D 808 H 802	
+****** Result for Image/Page 484 ******
+A A 629 E 676	
+B B 532 F 461	
+C 756 G 759	
+D 809 H 802	
+****** Result for Image/Page 485 ******
+A 629	E 676	
+B532 F461	
+C 756 G 758	
+D D 809 H 803	
+****** Result for Image/Page 486 ******
+A A 629 E676	F 461	
+B 532	
+C756 G 758	
+D D 809 H 803	
+****** Result for Image/Page 487 ******
+B532 F 460	A 629 E677	
+C756 G758	
+D 809 H 804	
+****** Result for Image/Page 488 ******
+A 629 E678	B 532	F 460	
+C756 G 757	
+D 809 H 804	
+****** Result for Image/Page 489 ******
+A 629	E 679	
+B532F459	
+C 756 G 757	
+D 809 H 804	
+****** Result for Image/Page 490 ******
+A A 629 E 679	
+B532 F 458	
+C 756 G 757	
+D D 808 H 804	
+****** Result for Image/Page 491 ******
+A A 629 E 680	
+B B 532 F457	
+C 756 G 756	
+D 808 H 804	
+****** Result for Image/Page 492 ******
+A 629	E 680	.	
+B B 533 F 456	
+C 756 G 757	
+D 808 H 804	
+****** Result for Image/Page 493 ******
+A 629 E 681	.	
+B533F456	
+C 756 G 757	
+D 808 H 803	
+****** Result for Image/Page 494 ******
+A A 629 E 681	
+B533	F 455	
+C756 G 756	
+D 808 H 803	
+****** Result for Image/Page 495 ******
+A A 628 E 681	
+B 534F455	
+C756 G 757	
+D D 807 H 802	
+****** Result for Image/Page 496 ******
+A 628	E 681	
+B534 F456	
+C756 G 756	
+D D 807 H 802	
+****** Result for Image/Page 497 ******
+A 628	E 681	
+B534 F456	
+C 756 G 756	
+D 806 H 802	
+****** Result for Image/Page 498 ******
+A A 628 E 680	
+B B 534 F456	
+C756 G 757	
+D 806 H 802	
+****** Result for Image/Page 499 ******
+A A 628 E 680	
+B534	F456	
+C 756 G 757	
+D D 806 H 802	
+****** Result for Image/Page 500 ******
+A 624 E 680	
+B541F457	
+C758 G 757	
+D 800 H 797	
+****** Result for Image/Page 501 ******
+A 616 E680	F 457	
+B 552	
+C761 G 757	
+D 789 H 788	
+****** Result for Image/Page 502 ******
+A 614	E 680	
+B B 555 F 457	
+C761 G 757	
+D 786 H 895	
+****** Result for Image/Page 503 ******
+A 614	E 680	
+B B 555 F457	
+C761 G 756	
+D 786 H 895	
+****** Result for Image/Page 504 ******
+A614 E679	.	
+B 555 F458	
+C761 G756	
+D786 H 894	
+****** Result for Image/Page 505 ******
+A 615 E679	F458	
+B 555	
+C761 G 757	
+D D 786 H 894	
+****** Result for Image/Page 506 ******
+A 614	E 679	.	
+B555 F458	
+C761 G 757	
+D 786 H 894	
+****** Result for Image/Page 507 ******
+A614 E 679	F458	.	
+B 555	
+C761 G757	
+D 786H 894	
+****** Result for Image/Page 508 ******
+A 615	E 679	
+B 555	F 458	
+C761 G 757	
+D D 786 H 787	
+****** Result for Image/Page 509 ******
+A615 E 679	F458	
+B555	
+C761 G 757	
+D 786	H 787	
+****** Result for Image/Page 510 ******
+A615E 679	.	
+B 555 F458	
+C761	G 757	
+D D 786 H 787	
+****** Result for Image/Page 511 ******
+A 615	E 679	
+B555	F458	
+C761 G 757	
+D D 786 H 787	
+****** Result for Image/Page 512 ******
+A615 E 679	.	
+B555	F458	
+C761 G 757	
+D786 H 787	
+****** Result for Image/Page 513 ******
+A 615	E 679	
+B555 F458	
+C 761 G 757	
+D 786	H 788	
+****** Result for Image/Page 514 ******
+A614 E 679	
+B555	F 458	
+C762 G 757	
+D D 786 H 894	
+****** Result for Image/Page 515 ******
+A 614	E 679	
+B B 555F458	
+C 762 G 757	
+D D 786 H 895	
+****** Result for Image/Page 516 ******
+A614 E 679	
+B555 F 457	
+C 762 G 757	
+D786 H 895	
+****** Result for Image/Page 517 ******
+A614 E 680	-	
+B555F457	
+C 762 G 757	
+D D 786 H 895	
+****** Result for Image/Page 518 ******
+A614 E 680	
+B555	F457	
+C 762 G 756	
+D 786 H 894	
+****** Result for Image/Page 519 ******
+A 614 E 680	F457	
+B B 555	
+C762 G 756	
+D 786	H 895	
+****** Result for Image/Page 520 ******
+A A 614 E 680	
+B555 F457	
+C762 G 757	
+D 786	H H 895	
+****** Result for Image/Page 521 ******
+A 614	E 679	
+B 555	F 457	
+C762 G 757	
+D 786 H 895	
+****** Result for Image/Page 522 ******
+A614 E 679	F 457	
+B555 F457	
+C761 G 757	
+D 786 H 895	
+****** Result for Image/Page 523 ******
+A 614	E 680	
+B555	F457	
+C761 G757	
+D 786	H 895	
+****** Result for Image/Page 524 ******
+A614 E679	
+B 555F458	
+C761 G 757	
+D 786 H 895	
+****** Result for Image/Page 525 ******
+A614 E 679	
+B 555 F457	
+C 762 G 757	
+D D 786 H 895	
+****** Result for Image/Page 526 ******
+A 614 E679	F457	
+B555	
+C762 G 757	
+D 786 H 895	
+****** Result for Image/Page 527 ******
+A614 E679	.	
+B555F457	G 757	
+C 762	
+D D 786 H 788	
+****** Result for Image/Page 528 ******
+A614 E679	
+B 555 F458	
+C C 762 G 757	
+D D 786 H 787	
+****** Result for Image/Page 529 ******
+A614 E678	.	
+B 555 F458	
+C762 G G 758	
+D 786 H 787	
+****** Result for Image/Page 530 ******
+B B 555 F458	A 614 E678	.	
+C762 G G 758	
+D 786 H 786	
+****** Result for Image/Page 531 ******
+A A 614 E678	
+B 555 F458	
+C762 G 758	
+D D 786 H 786	
+****** Result for Image/Page 532 ******
+A 614 E678	B555 F458	
+C 762	G 758	
+D D 786 H786	
+****** Result for Image/Page 533 ******
+A614 E678	
+B B 555 F459	
+C 762 G 759	
+D D 786 H 785	
+****** Result for Image/Page 534 ******
+A A 614 E677	F458	.	
+B 555	
+C762 G 760	
+D D 786 H 784	
+****** Result for Image/Page 535 ******
+A614 E677	
+B 555 F458	
+C762 G 760	
+D D 786 H 783	
+****** Result for Image/Page 536 ******
+B 555 F459	A 614 E677	
+C C 762 G 761	
+D 786	H 782	
+****** Result for Image/Page 537 ******
+A A 614 E676	
+B B 555 F459	
+C 762 G 761	
+D 786 H 782	
+****** Result for Image/Page 538 ******
+A614 E675	B556 F459	
+C C 762	G 762	
+D 786 H 781	
+****** Result for Image/Page 539 ******
+A614 E674	F460	
+B 556	
+C762 G 763	
+D 786	H 781	
+****** Result for Image/Page 540 ******
+A A 614 E674	
+B 556 F460	
+C 762 G 764	
+D 786	H 780	
+****** Result for Image/Page 541 ******
+B 556	A614 E673	F 461	
+C 762 G 764	
+D D 786 H 780	
+****** Result for Image/Page 542 ******
+B 556 F461	A 614 E672	
+C762	G 766	
+D786 H 779	
+****** Result for Image/Page 543 ******
+A614 E671	
+B556 F462	
+C762 G 767	
+D D 786 H 779	
+****** Result for Image/Page 544 ******
+A614 E 671	F462	
+B556	
+C762 G 767	
+D D 786 H 779	
+****** Result for Image/Page 545 ******
+B 556F450	A614 E 682	
+C762	G768	
+D 786 H H 778	
+****** Result for Image/Page 546 ******
+A A 614 E 680	F449	
+G768	B556	C 762	
+D 786	H 778	
+****** Result for Image/Page 547 ******
+A A 614 E 680	
+B B556 F 450	G 768	
+C 762	
+D D 785 H 779	
+****** Result for Image/Page 548 ******
+A 613 E680	F450	.	
+B556	
+B G 766	C 762	
+D D 785 H 778	
+****** Result for Image/Page 549 ******
+A 613 E 680	F450	.	
+B556	
+C762 G 766	
+D 785	H 779	
+****** Result for Image/Page 550 ******
+A 613	E 680	.	
+B B 556 F450	
+C 762 G 765	
+D D 786 H 779	
+****** Result for Image/Page 551 ******
+A613 E 682	F 449	.	
+B556	
+C762 G 763	
+D 785 H 780	
+****** Result for Image/Page 552 ******
+A613	E 684	.	
+B B556 F 448	G 761	
+C762	
+D D 785 H 781	
+****** Result for Image/Page 553 ******
+A 613 E 684	
+B556 F448	
+C762 G G 760	
+D 786H 784	
+****** Result for Image/Page 554 ******
+A 613	E 686	
+B556 F447	
+C 762 G 758	
+D D 785 H 905	
+****** Result for Image/Page 555 ******
+A613E 686	AO F 447	
+B 556	
+B G 757	C C 763	
+D 785	H 905	
+****** Result for Image/Page 556 ******
+A 613	E 687	
+B 556	F447	
+C763 G756	
+D 785 H 905	
+****** Result for Image/Page 557 ******
+A 613 E 688	F 446	
+B 556	
+C 763	G 755	
+D D 785 H 905	
+****** Result for Image/Page 558 ******
+A 613	E 688	
+B556 F446	
+C763 G 754	
+D 785 H 904	
+****** Result for Image/Page 559 ******
+A 613	E 689	
+B 556 F446	
+C 763 G 753	
+D D 785 H 904	
+****** Result for Image/Page 560 ******
+A 613E 689	
+B556 F447	
+C 763	G753	
+D D 785 H 904	
+****** Result for Image/Page 561 ******
+A A613 E688	
+B556 F447	
+C763 G 753	
+D 785 H 903	
+****** Result for Image/Page 562 ******
+A A613 E 688	B556 F447	
+C762 G 753	
+D D 785 H 903	
+****** Result for Image/Page 563 ******
+A 613E687	F 448	
+B556	
+C762 G 754	
+D D 785 H 903	
+****** Result for Image/Page 564 ******
+B 556	A 613 E687	F 448	
+C 762 G754	
+D D 785 H 903	
+****** Result for Image/Page 565 ******
+A613 E 687	
+B556 F448	
+C762 G 754	
+D D 785 H 903	
+****** Result for Image/Page 566 ******
+A 613	E 686	
+B 556F449	
+C762 G 755	
+D 785 H 903	
+****** Result for Image/Page 567 ******
+A613 E 685	
+B 556F449	G 756	
+C 762	
+D 785 H H 903	
+****** Result for Image/Page 568 ******
+A 613	E 684	
+B556 F449	
+C762 G 758	
+D D 785 H 904	
+****** Result for Image/Page 569 ******
+A 613	E 683	
+B 556 F450	
+C762 G 759	
+D D 785 H 904	
+****** Result for Image/Page 570 ******
+A613	E 683	
+B556	F450	
+C762 G 760	
+D 785 H 904	
+****** Result for Image/Page 571 ******
+A 613	E 682	
+B 556F450	G 761	
+C 762	
+D 785 H 782	
+****** Result for Image/Page 572 ******
+A613 E 682	
+B556 F450	
+C 762 G 763	
+D 785 H 781	
+****** Result for Image/Page 573 ******
+A613 E 681	
+B 556 F450	C C 762 G 764	
+D 785 H 780	
+****** Result for Image/Page 574 ******
+A 613	E 681	
+B556 F F449	
+C762 G 765	
+D 785H 779	
+****** Result for Image/Page 575 ******
+A613 E 681	F449	
+B556	
+C762 G 766	
+D 785 H779	
+****** Result for Image/Page 576 ******
+A613 E 680	
+B556 F450	
+C763 G 766	
+D D 785 H 779	
+****** Result for Image/Page 577 ******
+B556 F451	A 613 E679	
+C763 G 767	
+D D 785 H 779	
+****** Result for Image/Page 578 ******
+A A 613 E 678	F 452	
+B556	
+C C 763 G 766	
+D 786 H 778	
+****** Result for Image/Page 579 ******
+A613 E677	F 453	
+B556	
+C763 G 767	
+D 786 H778	
+****** Result for Image/Page 580 ******
+A 613 E677	
+B B 556 F454 G166	C 763	D 786	G 766	H 778	
+****** Result for Image/Page 581 ******
+A613 E 679	F452	
+B556	
+C763	G 766	
+D 785 H 778	
+****** Result for Image/Page 582 ******
+A A 607 E 683	-	
+B566 F447	
+C764 G 767	
+D 777 H H 772	
+****** Result for Image/Page 583 ******
+A A 590 E 686	
+B583 F443	
+C778 G 765	
+D D 762 H H914	
+****** Result for Image/Page 584 ******
+A 583	E 689	
+B B591 F438	
+C C 783 G 766	H 920	
+D 755	
+****** Result for Image/Page 585 ******
+A A 582 E 692	
+B592 F434	
+C 783 G 766	
+D 754	H 925	
+****** Result for Image/Page 586 ******
+A A 582 E 702	
+B592 F422	
+C C 783 G 767	
+D754 H 936	
+****** Result for Image/Page 587 ******
+A A 582 E 705	F420	
+B592	
+C 783	G G 767	
+D 754 H H 940	
+****** Result for Image/Page 588 ******
+A 582	E 703	
+B592 F420	
+C783 G 770	
+D D 754 H H 942	
+****** Result for Image/Page 589 ******
+A A 582 E 703	
+B B 592 F420	
+C 783 G G 771	
+D D 754 H943	
+****** Result for Image/Page 590 ******
+A 582 E 706	F423	
+B 592	
+C 783 G 771	
+D D 754 H 943	
+****** Result for Image/Page 591 ******
+A 582	E 703	
+B 592	F424	
+C C 784 G G 771	
+D D 754 H 942	
+****** Result for Image/Page 592 ******
+A A 582 E 704	
+B592 F426	
+C 784 G 774	
+D D 754 H941	
+****** Result for Image/Page 593 ******
+A A 462 E 467	
+B519 F675	
+C 779	G 925	
+D D 840 H H 761	
+****** Result for Image/Page 594 ******
+A A 463 E 467	
+B518 F674	
+C778 G 925	
+D D 840 H 763	
+****** Result for Image/Page 595 ******
+A 465 E467	
+B519 F 674	
+C780 G924	
+D 840H 762	
+****** Result for Image/Page 596 ******
+A A 467 E 469	
+B528 F672	
+C793 G922	
+D D 840 H 761	
+****** Result for Image/Page 597 ******
+A A 468 E 471	
+B 543	F671	
+C811	G919	
+D 831 H 760	
+****** Result for Image/Page 598 ******
+A A 597 E478	
+B544 F 666	
+C813	G911	
+D D 829 H 761	
+****** Result for Image/Page 599 ******
+A 600 E 477	
+B542 F 666	
+C813	G912	
+D D 832 H 761	
+****** Result for Image/Page 600 ******
+A A 600 E474	
+B B 540 F669	
+C815	G915	
+D 835 H 760	
+****** Result for Image/Page 601 ******
+A A 599 E 473	
+B539 F635	
+C818 G916	
+D D 838 H 758	
+****** Result for Image/Page 602 ******
+A A 598 E472	
+B538 F673	
+C821 G 917	
+D D 842 H H 757	
+****** Result for Image/Page 603 ******
+A A 597 E 477	
+B B 537 F582	
+C823 G914	
+D D 844 H 760	
+****** Result for Image/Page 604 ******
+A A 597 E 493	
+B B 536 F 651	
+C825 G903	
+D 846 H H 771	
+****** Result for Image/Page 605 ******
+A A 597 E 497	
+B 536 F 647	
+C C 827 G 898	
+D D 848 H774	
+****** Result for Image/Page 606 ******
+B536 F646	A 596 E499	.	
+C 828	G 898	
+D D 848 H 775	
+****** Result for Image/Page 607 ******
+A A 595 E 499	
+B537 F646	
+C 829 G 897	
+D 847 H776	
+****** Result for Image/Page 608 ******
+A A 594 E 498	
+B539 F646	
+C 829 G 898	
+D D 834 H 776	
+****** Result for Image/Page 609 ******
+A A 594 E 497	
+B540 F 646	
+C 827	G 898	
+D D 842 H775	
+****** Result for Image/Page 610 ******
+A 593	E 497	
+B540F648	
+C 825 G 899	
+D 841 H 774	
+****** Result for Image/Page 611 ******
+A 591	E 497	
+B543 F648	
+C C 827 G 899	
+D D 843 H 774	
+****** Result for Image/Page 612 ******
+A A 593 E 497	
+B B 546 F648	
+C 828 G 899	
+D D 842 H774	
+****** Result for Image/Page 613 ******
+A A 593 E 496	
+B548 F648	
+C830 G 899	
+D 840 H 774	
+****** Result for Image/Page 614 ******
+A A 594 E 496	
+B547 F648	
+C 829 G 899	
+D 839 H 774	
+****** Result for Image/Page 615 ******
+A 595	E 497	
+B 546F647	
+C 827 G 899	
+D D 837 H 774	
+****** Result for Image/Page 616 ******
+A A 593 E 498	
+B544 F646	
+C823 G898	
+D D 834 H 775	
+****** Result for Image/Page 617 ******
+A A 504 E 500	
+B B542 F 646	
+C 821 G 899	
+D835 H776	
+****** Result for Image/Page 618 ******
+A A 507 E500	B543 F647	
+C 822 G 898	
+D 837 H H 776	
+****** Result for Image/Page 619 ******
+B544 F 647	A510 E 500	
+C823 G896	
+D 838 H 776	
+****** Result for Image/Page 620 ******
+A A 593 E499	
+B544 F646	
+C826 G 895	
+D839 H 775	
+****** Result for Image/Page 621 ******
+A591 E 499	
+B546 F645	
+C828 G 896	
+D D 838 H775	
+****** Result for Image/Page 622 ******
+A A 589 E 498	
+B B 546 F647	
+C 830 G 897	
+D 838	H 773	
+****** Result for Image/Page 623 ******
+A A 586 E497	
+B B548 F 649	
+C832 G 896	
+D 837	H 771	
+****** Result for Image/Page 624 ******
+A A 585 E 497	
+B B 550 F648	
+C833 G 896	
+D D 835 H H 771	
+****** Result for Image/Page 625 ******
+A 583 E 501	
+B551 F643	
+C833 G 893	
+D833 H 774	
+****** Result for Image/Page 626 ******
+A A 584 E505	
+B551 F639	
+C832 G 891	
+D D 834 H 778	
+****** Result for Image/Page 627 ******
+A A 583 E 498	
+B B 552 F646	
+C833 G 894	
+D D 833 H 773	
+****** Result for Image/Page 628 ******
+A A 582 E 479	
+B552	F 668	
+C 834	G 907	
+D D 833 H 754	
+****** Result for Image/Page 629 ******
+A 582 E 461	
+B552 F568	
+C833 G918	
+D D 832 H 731	
+****** Result for Image/Page 630 ******
+A 582 E 446	
+B 551 F565	
+C 832 G925	
+D D 832 H713	
+****** Result for Image/Page 631 ******
+A A 584 E 443	
+B550 F565	
+C C 829 G 927	
+D D 832 H 709	
+****** Result for Image/Page 632 ******
+A A 587 E 434	
+B549 F 722	
+C 825	G 937	
+D D 831 H 715	
+****** Result for Image/Page 633 ******
+A A 589 E411	
+B B 547 F737	
+C821 G 963	
+D 830 H 723	
+****** Result for Image/Page 634 ******
+A 591	E 398	
+B546 F 745	
+C819	G978	
+D829 H 719	
+****** Result for Image/Page 635 ******
+B B546 F 743	A 593 E399	
+C816	G 978	
+D 828 H719	
+****** Result for Image/Page 636 ******
+B547 F741	A 593 E398	
+C814 G 977	
+D 826 H 719	
+****** Result for Image/Page 637 ******
+A 593 E 399	
+B547 F738	G976	
+C814	
+D 826 H719	
+****** Result for Image/Page 638 ******
+A A 594 E 400	
+B B 547 F737	
+C814	G 977	
+D 826 H 719	
+****** Result for Image/Page 639 ******
+A A 594 E 402	
+B B546 F735	
+C814 G 975	
+D D 827 H 718	
+****** Result for Image/Page 640 ******
+A A 596 E 403	
+B545 F735	
+C815 G 974	
+D D 829 H 718	
+****** Result for Image/Page 641 ******
+A 596	E 406	
+B543 F733	
+C817 G 970	
+D 832	H717	
+****** Result for Image/Page 642 ******
+A A 596 E 423	
+B542 F 721	
+C819 G952	
+D D 835 H 716	
+****** Result for Image/Page 643 ******
+A A 596 E 427	
+B 541 F718	
+C821 G 946	
+D D 838 H 717	
+****** Result for Image/Page 644 ******
+A 593	E 427	
+B 542 F719	
+C824 G 946	
+D D 838 H717	
+****** Result for Image/Page 645 ******
+B552 F711	A 580 E438	
+C C838 G 937	
+D D 835 H 719	
+****** Result for Image/Page 646 ******
+A570 E 468	
+B561 F 706	
+C847	G 910	
+D 831	H 729	
+****** Result for Image/Page 647 ******
+A A 567 E 494	
+B 563 F 662	
+C850 G 885	
+D 830	H 739	
+****** Result for Image/Page 648 ******
+A A 565 E 503	
+B565 F F654	
+C 851 G 875	
+D D 829 H 745	
+****** Result for Image/Page 649 ******
+A 563 E503	
+B 568 F655	
+C853 G 875	
+D 827 H 744	
+****** Result for Image/Page 650 ******
+A A 561 E 502	
+B570	F 656	
+c854 G 876	
+D D 825 H 744	
+****** Result for Image/Page 651 ******
+A A 559 E 502	
+B573 F 656	
+C 854	G 876	
+D D 822 H 745	
+****** Result for Image/Page 652 ******
+A 560	E 501	
+B574 F656	
+c852 G878	
+D D 820 H 746	
+****** Result for Image/Page 653 ******
+A A 561 E500	
+B574 F 657	
+C850 G 880	
+D 819 H 747	
+****** Result for Image/Page 654 ******
+A 564 E 499	
+B572 F658	
+C 846 G 881	
+D819	H 747	
+****** Result for Image/Page 655 ******
+B568 F658	A 569 E499	
+C C 842	G 882	
+D D 820 H 748	
+****** Result for Image/Page 656 ******
+A A 583 E 498	
+B 556 F567	
+C829 G 882	
+D D 826 H 747	
+****** Result for Image/Page 657 ******
+A A 584 E 498	
+B 555 F567	
+C 828	G 883	
+D D 826 H747	
+****** Result for Image/Page 658 ******
+A A 586 E 498	
+B 553	F565	
+C 826 G 883	
+D 827 H 747	
+****** Result for Image/Page 659 ******
+A A 588 E 498	
+B551 F564	
+C823 G 882	
+D 827	H 747	
+****** Result for Image/Page 660 ******
+A 589 E 498	
+B551 F564	
+C 822 G 883	
+D827 H 746	
+****** Result for Image/Page 661 ******
+A A 590 E497	
+B550 F564	
+C821 G 883	
+D 826 H 746	
+****** Result for Image/Page 662 ******
+A A 590 E 497	
+B B 550F565	
+C C 820 G 883	
+D D 826 H 746	
+****** Result for Image/Page 663 ******
+A A 590 E 497	
+B551 F566	
+C820 G 883	
+D D 825 H 746	
+****** Result for Image/Page 664 ******
+A A 592 E 497	
+B548F563	
+C 818	G 883	
+D D 828 H 745	
+****** Result for Image/Page 665 ******
+A A 595 E 497	
+B545 F560	
+C817	G 883	
+D 830 H 745	
+****** Result for Image/Page 666 ******
+A 595 E 497	
+B545 F559	
+C817	G 883	
+D831 H 745	
+****** Result for Image/Page 667 ******
+B B 544 F558	A 596 E497	
+C817	G 883	
+D832 H 745	
+****** Result for Image/Page 668 ******
+A A 597 E 498	
+B B 542 F556	
+C817 G 882	
+D 834 H 745	
+****** Result for Image/Page 669 ******
+A A 597 E 498	
+B542 F555	
+C817 G 882	
+D 835H 745	
+****** Result for Image/Page 670 ******
+A A 598 E 498	
+B B 541 F554	
+C817 G 882	
+D 836 H 745	
+****** Result for Image/Page 671 ******
+A 599 E 498	
+B540 F554	
+C817	G 882	
+D D 836 H 745	
+****** Result for Image/Page 672 ******
+B B541 F554	A 598 E498	
+C817	G 882	
+D D 835 H 745	
+****** Result for Image/Page 673 ******
+A 596 E 498	
+B543 F557	
+C818 G882	
+D D 833 H 745	
+****** Result for Image/Page 674 ******
+A 594 E498	B546 F F559	
+C 820	G 881	
+D 831	H 745	
+****** Result for Image/Page 675 ******
+A 592	E 498	
+B548 F561	
+c821 G 881	
+D D 829 H 745	
+****** Result for Image/Page 676 ******
+A 590 E 498	
+B551 F564	
+C 822	G 881	
+D D 827 H 745	
+****** Result for Image/Page 677 ******
+A 588	E 498	
+B553	F 566	
+C823 G 881	
+D 826	H 745	
+****** Result for Image/Page 678 ******
+B 555 F568	A 586 E498	
+C824 G 881	
+D824 H 745	
+****** Result for Image/Page 679 ******
+A 584	E 497	
+B B557 F571	
+C C 825 G 882	
+D D 822 H 744	
+****** Result for Image/Page 680 ******
+A 583 E 497	
+B 560	F573	
+C 826 G 882	
+D D 820 H 744	
+****** Result for Image/Page 681 ******
+A 590	E 496	
+B551	F 564	
+C 822 G 883	
+D 828 H 743	
+****** Result for Image/Page 682 ******
+A A 590 E 495	
+B551 F564	
+C822	G 884	
+D D 828 H 743	
+****** Result for Image/Page 683 ******
+A A 590 E 494	
+B551F564	
+C 822 G 885	
+D D 827 H 742	
+****** Result for Image/Page 684 ******
+A 592	E 493	
+B B 548 F564	
+C818 G 886	
+D827 H 741	
+****** Result for Image/Page 685 ******
+A A 593 E 492	
+B547 F563	
+C817 G 886	
+D D 828 H 741	
+****** Result for Image/Page 686 ******
+A 594 E492	
+B B546 F562	
+C817 G 886	
+D D 829 H 741	
+****** Result for Image/Page 687 ******
+A 594 E 492	
+B B 546 F561	
+C816 G 886	
+D829 H 740	
+****** Result for Image/Page 688 ******
+A A 594 E 492	
+B545	F561	
+C815	G 886	
+D 829 H 740	
+****** Result for Image/Page 689 ******
+A A 595 E 492	
+B B 544 F561	
+C815	G 886	
+D D 829 H 740	
+****** Result for Image/Page 690 ******
+A A 596 E 493	
+B543 F560	
+C814 G 885	
+D 830	H 740	
+****** Result for Image/Page 691 ******
+A 596	E 493	
+B B543 F559	
+C814 G 885	
+D D 830 H 740	
+****** Result for Image/Page 692 ******
+A 595	E 495	
+B B 543 F558	
+C814 G 883	
+D D 831 H 741	
+****** Result for Image/Page 693 ******
+A A 595 E 495	
+B 543	F558	
+C814	G 883	
+D 831 H 741	
+****** Result for Image/Page 694 ******
+A A 595 E496	
+B543	F557	
+c815 G 881	
+D D 831 H 740	
+****** Result for Image/Page 695 ******
+A 595	E 497	
+B543 F556	
+C815 G879	
+D 830	H 737	
+****** Result for Image/Page 696 ******
+A 595	E 496	
+B543 F556	
+C815	G 879	
+D830 H 734	
+****** Result for Image/Page 697 ******
+A 595	E 495	
+B543 F556	
+C815	G 879	
+D 830	H 731	
+****** Result for Image/Page 698 ******
+A 594	E 493	
+B544	F 557	
+C815	G 880	
+D 830 H 729	
+****** Result for Image/Page 699 ******
+A A 594 E 492	
+B B 544 F557	
+C815 G 881	
+D 829	H 727	
+****** Result for Image/Page 700 ******
+A A 595 E 483	
+B545	F558	
+C815 G 886	
+D 829	H714	
+****** Result for Image/Page 701 ******
+A A 594 E 475	
+B544 F560	
+C815 G 891	
+D 829 H 703	
+****** Result for Image/Page 702 ******
+A 594 E 472	
+B B545 F F561	
+C815	G 892	
+D 829 H 700	
+****** Result for Image/Page 703 ******
+A 594 E472	B545	F 708	
+C815	G 890	
+D D 829 H 690	
+****** Result for Image/Page 704 ******
+A 593	E 476	
+B546 F713	
+C816	G 884	
+D D 828 H 681	
+****** Result for Image/Page 705 ******
+A 593 E477	F714	
+B547	
+C817	G 881	
+D D 828 H678	
+****** Result for Image/Page 706 ******
+A 592 E 477	
+B548 F714	
+C818	G 882	
+D D 827 H 679	
+****** Result for Image/Page 707 ******
+A 591 E477	B550	F715	
+C818	G 882	
+D D 826 H 679	
+****** Result for Image/Page 708 ******
+A 590	E 478	
+B551 F716	
+C819	G 881	
+D 824	H676	
+****** Result for Image/Page 709 ******
+A 590 E 478	
+B 551 F717	
+C818 G 880	
+D D 824 H 675	
+****** Result for Image/Page 710 ******
+A A 591 E478	
+B551 F 717	
+C818	G 880	
+D 824 H 675	
+****** Result for Image/Page 711 ******
+A592 E474	
+B549 F737	
+C817 G 881	
+D D 826 H 651	
+****** Result for Image/Page 712 ******
+A 592 E 474	
+B B549 F F 737	
+C817	G 881	
+D 826	H 651	
+****** Result for Image/Page 713 ******
+A A 594 E 471	
+B B 546 F 745	
+C816	G 882	
+D 828 H 642	
+****** Result for Image/Page 714 ******
+A 594	E 471	
+B546 F 745	
+C816 G 882	
+D D 828 H 642	
+****** Result for Image/Page 715 ******
+A 595	E 470	
+B B 546 F 745	
+C816 G 883	
+D D 829 H 642	
+****** Result for Image/Page 716 ******
+A A 595 E 469	
+B B 545 F 746	
+C816	G 884	
+D D 830 H 641	
+****** Result for Image/Page 717 ******
+A A 595 E 469	
+B545 F 747	
+C816 G 884	
+D D 830 H 641	
+****** Result for Image/Page 718 ******
+A 595	E 462	
+B545 F 750	
+C816	G 892	
+D D 830 H 645	
+****** Result for Image/Page 719 ******
+B B 545 F 753	A 595 E446	
+C816	G 910	
+D D 830 H 654	
+****** Result for Image/Page 720 ******
+A A 595 E436	
+B545 F 754	
+C816	G 921	
+D D 829 H659	
+****** Result for Image/Page 721 ******
+A 595	E 434	
+B 545 F 754	
+C816 G923	
+D D 829 H 659	
+****** Result for Image/Page 722 ******
+A A 595 E 432	
+B545 F755	
+C816 G 925	
+D D 830 H 659	
+****** Result for Image/Page 723 ******
+A 595E427	B544 F562	
+C817 G 931	
+D D 831 H 660	
+****** Result for Image/Page 724 ******
+A A 595 E427	
+B 544	F562	
+C817	G 931	
+D831 H 660	
+****** Result for Image/Page 725 ******
+A A 595 E 425	
+B544 F561	
+C817 G 932	
+D 832 H 661	
+****** Result for Image/Page 726 ******
+A 595	E 425	
+B543 F560	
+c817 G 933	
+D832 H 661	
+****** Result for Image/Page 727 ******
+B B 543 F560	A 595E 429	
+C817 G 930	
+D D 833 H 666	
+****** Result for Image/Page 728 ******
+A 722 E 842	
+B565 F 848	G573	
+C630	
+D 755 H556	
+****** Result for Image/Page 729 ******
+A 722	E 823	
+F819	
+B 565	
+C C 630 G 572	
+D 755 H 569	
+****** Result for Image/Page 730 ******
+A 724 E 823	F819	
+B561	
+C 629	G572	
+D759 H H 569	
+****** Result for Image/Page 731 ******
+A 724	E 781	
+B 547 F 767	
+C629 G 585	
+D774 H H 592	
+****** Result for Image/Page 732 ******
+A 739	E 726	
+F 752	
+B527	
+C623 G 629	
+D D 793 H 585	
+****** Result for Image/Page 733 ******
+A 747	E 662	
+B507F752	
+C621 G 629	H 585	
+D813	
+****** Result for Image/Page 734 ******
+E 628	
+A 765	B 507	
+C622	G 692	
+D812 H 558	
+****** Result for Image/Page 735 ******
+B507	A 746 E594	F 507	
+C622	G 724	
+D812 H 820	
+****** Result for Image/Page 736 ******
+A 746	E 560	
+B B 507 F 795	G 790	
+C 622	
+D812	H 531	
+****** Result for Image/Page 737 ******
+A 746	E 526	
+B B 508 F 808	
+C622 G824	
+D 812 H 526	
+****** Result for Image/Page 738 ******
+A 746	E 492	
+B508 F 822	G 858	
+C 622	
+D812 H 524	
+****** Result for Image/Page 739 ******
+A 746	E 426	
+C622 G907	B 508 F843	
+D812 H 537	
+****** Result for Image/Page 740 ******
+A 746	E 364	
+B508 F 852	
+C622 G 935	
+D812 H 548	
+****** Result for Image/Page 741 ******
+A 746E 327	B508 F 882	
+C622 G 996	
+D811 H 564	
+****** Result for Image/Page 742 ******
+A 746	E 296	
+B508 F 898	
+C622 G 1030	H 570	
+D811	
+****** Result for Image/Page 743 ******
+A A 747 E 269	F915	
+B 508	
+C622 G 1094	H575	
+D812	
+****** Result for Image/Page 744 ******
+A A 747 E 224	
+B 508F95	G1119	
+C622	
+D812	H576	
+****** Result for Image/Page 745 ******
+A 746	E 200	
+B B 508 F 978	
+C622 G-1	H579	
+D811	
+****** Result for Image/Page 746 ******
+A 746	E 182	
+B 508 F 990	
+C622 G-1	
+D811 H587	
+****** Result for Image/Page 747 ******
+A A 746	B B 508 F 994	E 173	
+C622 G1177	
+D811 H 592	
+****** Result for Image/Page 748 ******
+A 746 	B508 F 995	
+E 173	
+C622 G1156	
+D811 H 593	
+****** Result for Image/Page 749 ******
+A 746	E 177	
+B 508 F993	G1175	
+C622	
+D811 H 595	
+****** Result for Image/Page 750 ******
+A 746	E 193	F 972	
+B B 508	
+G1159	
+C622	
+D811 H 608	
+****** Result for Image/Page 751 ******
+A 746 E 204	B 508 F954	
+C 623 G-1	
+D811 H619	
+****** Result for Image/Page 752 ******
+E 228	
+A 745	
+B509 F912 G-1	
+C623	
+D811 H 646	
+****** Result for Image/Page 753 ******
+E 236	
+A 235	
+C623 G-1	B 509 F897	
+D811 H 654	
+****** Result for Image/Page 754 ******
+A A 745 E 236	F 897	
+B 509	
+G1104	
+C623	
+D811 H 654	
+****** Result for Image/Page 755 ******
+A A 745 E 244 F886	B 509	G 1103	
+C623	
+D811 H 660	
+****** Result for Image/Page 756 ******
+A 745	E 244	
+B509 F 886	
+C623 G-1	
+D811 H 659	
+****** Result for Image/Page 757 ******
+A 745 E 244	B 509F886	
+C623 G-1	
+D811 H 659	
+****** Result for Image/Page 758 ******
+A 745	E 244	
+B 509 F 886	
+C623 G-1	H 659	
+D 811	
+****** Result for Image/Page 759 ******
+B509 F887	A 249 E 244	
+G1106	
+C623	
+D811 H 658	
+****** Result for Image/Page 760 ******
+A 745	E 244	
+B B 509 F888	
+C623 G1106	
+D811 H 658	
+****** Result for Image/Page 761 ******
+A 245	E 249	F 892	
+B 509	
+C 623 G1107	
+D811	H H 660	
+****** Result for Image/Page 762 ******
+E 248	
+A 244	
+B B 509 F891	
+C623 G1109	
+D811 H 658	
+****** Result for Image/Page 763 ******
+A 244 E 248	F 892	
+B509	
+G1103	
+C623	
+D810	H 658	
+****** Result for Image/Page 764 ******
+A A 245 E 245	F 891	
+B509	
+G1100	
+C 623	
+D 810 H 656	
+****** Result for Image/Page 765 ******
+A 745	E 244	
+B509 F 890	G1100	
+C 623	
+D810 H 655	
+****** Result for Image/Page 766 ******
+A 745	E 739	F 889	
+B510	
+G1099	
+C 623	
+D810 H 655	
+****** Result for Image/Page 767 ******
+B510 F887	A 745E 245	
+C623	G1107	
+D810 H 655	
+****** Result for Image/Page 768 ******
+A 745	E 251	F 882	
+B510	
+G1102	
+C623	
+D D 809 H 655	
+****** Result for Image/Page 769 ******
+A 741	E 267	
+B512 F870	
+C627 G 1083	H 652	
+D 808	
+****** Result for Image/Page 770 ******
+B520	A 728 E316	F F 851	
+C638	G 1031	
+D D 799 H 646	
+****** Result for Image/Page 771 ******
+B533 F 829	A 675E326	
+C659 G 1020	
+D 787 H 643	
+****** Result for Image/Page 772 ******
+A 675 E326	F829	
+B533	
+C659 G 1020	
+D D 787 H 643	
+****** Result for Image/Page 773 ******
+A A 644 E 328	
+B569 F 826	
+C718 G 1018	H 641	
+D 758	
+****** Result for Image/Page 774 ******
+A A 580 E 333	
+B B 589 F F 820	G 1015	
+C C 786	H643	
+D 745	
+****** Result for Image/Page 775 ******
+F807	A 550	E 349	
+B 628	
+C810 G 997	H 646	
+D 726	
+****** Result for Image/Page 776 ******
+B679	C839 G 970	A 495 F 784	
+E 411	
+D711 H 650	
+****** Result for Image/Page 777 ******
+E410	
+A 476	
+B694F757	
+C 862 G 889	
+D 696 H 657	
+****** Result for Image/Page 778 ******
+A A 466 E 445	F 707	
+B703	
+C886 G 893	
+D 682 H 652	
+****** Result for Image/Page 779 ******
+A A 472 E 432	
+B 700 F702	G 886	
+C 880	
+D D 685 H 639	
+****** Result for Image/Page 780 ******
+E 424	
+A 486	
+B 681 F 684	
+C868 G 918	
+D697 H H 626	
+****** Result for Image/Page 781 ******
+A A 500 E 426	
+B661 F 781	
+c C 860 G914	H 592	
+D716	
+****** Result for Image/Page 782 ******
+A510	E 449	
+B617 F792	
+C856 G 891	
+D 762	H578	
+****** Result for Image/Page 783 ******
+B B 600 F 787	A 549E 473	
+C827 G 868	
+D767 H 754	
+****** Result for Image/Page 784 ******
+A571	E 534	
+B586F782	
+C775 G 811	
+D 771 H 552	
+****** Result for Image/Page 785 ******
+B567 F 789	A 624E561	
+C743 G 788	
+D D 766 H 538	
+****** Result for Image/Page 786 ******
+A 650E586	
+C713 G 770	B 563F 802	
+D D 763 H 521	
+****** Result for Image/Page 787 ******
+B566 F846	A 699 E 626	.	
+C655 G 754	
+D D 754 H476	
+****** Result for Image/Page 788 ******
+E 636	
+A 724	F575	
+B572	
+C627 G 753	H 463	
+D 748	
+****** Result for Image/Page 789 ******
+E 640	
+A 774	
+B 590 F 873	
+C572 G 756	
+D 740 H H 451	
+****** Result for Image/Page 790 ******
+A 798 E634	B 601 F878	
+G 764	
+C548	
+D 738 H446	
+****** Result for Image/Page 791 ******
+A 823	E 631	
+B615 F877	
+C522 G 766	
+D 736	H 446	
+****** Result for Image/Page 792 ******
+A A 869	E 631	
+B 648 F877	C 480 G 766	
+D 731 H 446	
+****** Result for Image/Page 793 ******
+A A 898 E 632	F 877	
+B 662	
+G 765	
+C472	
+D729 H 446	
+****** Result for Image/Page 794 ******
+A 888	E 629	
+F 877	
+B675	
+G 767	
+C467	
+D 720 H 446	
+****** Result for Image/Page 795 ******
+A 876	E 619	
+B677 F870	
+C479 G 772	
+D712 H 452	
+****** Result for Image/Page 796 ******
+A A 859 E 600	
+B B671 F 858	
+C494 G 781	H 464	
+D 707	
+****** Result for Image/Page 797 ******
+A A 824 E 549	
+B 643 F831	
+C523 G813	
+D713 H 499	
+****** Result for Image/Page 798 ******
+A 767 E529	F 821	
+B 640	
+C579	G 837	
+D 705	H516	
+****** Result for Image/Page 799 ******
+A 732	E 503	
+B B 644 F 807	
+C614 G 847	
+D691	H 542	
+****** Result for Image/Page 800 ******
+A 699	E 493	
+B660 F804	
+C C646 G 855	
+D 662	H 549	
+****** Result for Image/Page 801 ******
+A 648 E 460	
+B 669 F 804	C698 G 869	
+D651 H 555	
+****** Result for Image/Page 802 ******
+A 635 E 440	
+B B 669 F810	C710 G901	
+D 652	H 563	
+****** Result for Image/Page 803 ******
+A 629 F 812	 E 430	
+B B 655	
+C716 G911	
+D D 668 H 565	
+****** Result for Image/Page 804 ******
+A 626 E424	B 642 F815	
+C720 G 917	H 566	
+D 681	
+****** Result for Image/Page 805 ******
+A 624 E 424	
+B 640 F815	
+C722 G 917	
+D 683 H 566	
+****** Result for Image/Page 806 ******
+E 425	
+A 601	
+B 637 F815	
+C 747 G917	
+D 689 H566	
+****** Result for Image/Page 807 ******
+A 589	E 425	
+B B 644 F 815	G916	
+C759	
+D D 688 H 566	
+****** Result for Image/Page 808 ******
+A 587	E 425	
+B 645 F814	
+C762 G916	
+D 687 H 566	
+****** Result for Image/Page 809 ******
+B 645 F815	A 587 E 424	
+C762 G 917	H 566	
+D 687	
+****** Result for Image/Page 810 ******
+A 586 E 424	
+B B 646 F815	C 762 G 917	
+D687 H 566	
+****** Result for Image/Page 811 ******
+A A 581 E 408	F 832	
+B 649 G 935		
+C 768	
+D D 685 H 559	
+****** Result for Image/Page 812 ******
+A 580 E 391	F 851	
+B B 652	C 768 G 956	
+D 683 H 551	
+****** Result for Image/Page 813 ******
+A 580 E 368	
+B652 F875	C768 G 994	
+D D 683 H 543	
+****** Result for Image/Page 814 ******
+A 580 E 329	F915	
+B 651	
+C768 G 1013	
+D 683 H 530	
+****** Result for Image/Page 815 ******
+E 307	
+A 579	
+B 652 F928	C768 G1027	
+H 525	
+D 682	
+****** Result for Image/Page 816 ******
+E 310	
+A579	
+C 768 G 1034	B 652 F937	
+H 521	
+D 682	
+****** Result for Image/Page 817 ******
+A 579	E 297	F 942	.	
+B652	C768 G 1043	
+D D 682 H519	
+****** Result for Image/Page 818 ******
+A 579	E 297	F 941	
+B 652	
+C768 G1048	D682 H 521	
+****** Result for Image/Page 819 ******
+E 297	
+A 580	F 941	
+B 652	
+C 768 G 1061	
+D D 682 H 521	
+****** Result for Image/Page 820 ******
+A 580	E 297	
+B 652F942	C768 G 1061	
+D 682 H 522	
+****** Result for Image/Page 821 ******
+E 296	
+A 581	F 942	
+C767 G 1062	D 682	H 522	
+B B 653	
+****** Result for Image/Page 822 ******
+A 581 E 299	B 652 F F945	
+C766 G 1064	
+D D 681 H 525	
+****** Result for Image/Page 823 ******
+B B 652 F947	A 582 E 303	
+C766 G 1066	
+D 681 H 529	
+****** Result for Image/Page 824 ******
+B 652 F948	A 582 E 306	
+C 766 G1067	
+D681 H H 531	
+****** Result for Image/Page 825 ******
+A A 582	E 321	
+B652 F937	G 1064	
+C766	H 539	
+D 681	
+****** Result for Image/Page 826 ******
+A 582	E 324	
+B 652 F930	
+C766 G 1048	
+D D681 H 540	
+****** Result for Image/Page 827 ******
+A 582E326	B652 F934	
+C766 G 1038	
+D 681 H 543	
+****** Result for Image/Page 828 ******
+A A 581 E321	B 653 F 926	
+C767 G 1037	H 537	
+D 681	
+****** Result for Image/Page 829 ******
+A 581 E317	B652 F925	
+C767 G 1037	
+D681 H 534	
+****** Result for Image/Page 830 ******
+A 581E315	B652 F 922	
+C767 G 1037	
+D681 H 529	
+****** Result for Image/Page 831 ******
+A A 581 E326	B 652 F924	.	
+C767 G 1024	
+D D 681 H 526	
+****** Result for Image/Page 832 ******
+E 347	
+A 581	
+B652 F 912	
+C767 G 1009	
+D D 681 H513	
+****** Result for Image/Page 833 ******
+A581 E 373	B653 F912	
+C767 G 980	
+D D 681 H513	
+****** Result for Image/Page 834 ******
+A 581	E 448	
+B 653 F 900	G 932	
+C 767	
+D D 681 H479	
+****** Result for Image/Page 835 ******
+A 582 E 448	B653 F 900	
+C766 G 932	
+D D 681 H479	
+****** Result for Image/Page 836 ******
+A 582	E 448	.	
+F 900	
+B 653	
+G 932	
+C 766	
+D 681 H479	
+****** Result for Image/Page 837 ******
+A A 582 E 477	F 900	
+B 653	G 908	
+C766	
+D D 681 H 479	
+****** Result for Image/Page 838 ******
+B 653 F901	A 582 E 529	
+C766 G 869	H 449	
+D 680	
+****** Result for Image/Page 839 ******
+A 582	E574	
+B653 F F 891	G 826	
+C 766	
+D D 680 H 447	
+****** Result for Image/Page 840 ******
+A A 584 E612	
+B678 F 881	G 787	
+C 763	
+D D 660 H451	
+****** Result for Image/Page 841 ******
+A A 580 E 644	
+B696 F877	
+C766 G 757	
+D D 639 H453	
+****** Result for Image/Page 842 ******
+A 544	E 746	
+B B 756 F870	
+C 805 G671	
+D D578 H 470	
+****** Result for Image/Page 843 ******
+A A 531 E 743	B 788 F862	
+C824 G 633	
+D547 H 491	
+****** Result for Image/Page 844 ******
+E 804	
+A A 531	
+B 852 F 836	
+C824 G 599	
+D 495 H 543	
+****** Result for Image/Page 845 ******
+B882 F819	A 508 E 832	.	
+C877 G 565	
+D D 458 H574	
+****** Result for Image/Page 846 ******
+A 505	E 875	
+B913 F 804	
+C895 G 518	
+D D 402 H618	
+****** Result for Image/Page 847 ******
+A 505	E 876	
+B 945 F 793	
+C913 G511	
+D372 H 623	
+****** Result for Image/Page 848 ******
+A 506	E 876	
+B976 F793	
+C932 G512	H 624	
+D 322	
+****** Result for Image/Page 849 ******
+A A 536E876	B 1026 F793	
+C947 G 512	
+D312 H 624	
+****** Result for Image/Page 850 ******
+A A 543 E 876	
+B 1025F 793	
+C941 G512	
+D311 H 623	
+****** Result for Image/Page 851 ******
+B 1022 F792	A 549 E 876	
+C934	G512	
+D312 H 623	
+****** Result for Image/Page 852 ******
+A A 552 E 875	
+C930 G512	B 1020F792|	
+D313 H 623	
+****** Result for Image/Page 853 ******
+A 552	E 875	
+1020 F 792	G512	
+C930	
+D313 H 623	
+****** Result for Image/Page 854 ******
+A 553	E 874	
+B 1020	F 792	
+C929	G512	
+D314 H 623	
+****** Result for Image/Page 855 ******
+A 553 E 875	F 791	
+B 1020	
+C929 G512	
+D314	H 624	
+****** Result for Image/Page 856 ******
+A A 552 E 867	F 789	
+B 1021	
+C929 G518	
+D314 H 620	
+****** Result for Image/Page 857 ******
+A 552	E 851	
+B 1021 F 779	
+C928 G528	H618	
+D314	
+****** Result for Image/Page 858 ******
+A A 552 E836	F 762	
+B-1	
+C C 928 G534	
+D314	H 624	
+****** Result for Image/Page 859 ******
+A A 551 E818	
+B-1 F734	
+C C 929 G 539	
+D316	H 638	
+****** Result for Image/Page 860 ******
+A 551 E818	B-1 F 733	
+C928 G 539	
+D 317	H 638	
+****** Result for Image/Page 861 ******
+A A 551 E 829	F 742	
+B-1	
+C928 G541	
+D317 H 636	
+****** Result for Image/Page 862 ******
+A A 551 E824	F F 764	
+B-1	
+C928 G536	
+D317 H 635	
+****** Result for Image/Page 863 ******
+A 551	E 844	
+B-1 F769	
+C C 928 G530	
+D318 H 622	
+****** Result for Image/Page 864 ******
+A A 552 E 843	
+B-1 F769	
+C 928 G530	
+D317 H 622	
+****** Result for Image/Page 865 ******
+A A 553 E 843	B-1 F770	
+C927 G 531	
+D318	H621	
+****** Result for Image/Page 866 ******
+A 553	E 843	
+B-1 F770	
+C 927 G 531	
+D318 H 621	
+****** Result for Image/Page 867 ******
+A 553	E 843	
+B-1 F770	
+C 927 G 531	
+D318 H 621	

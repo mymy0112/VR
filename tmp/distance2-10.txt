@@ -1,0 +1,203 @@
+
+****** Result for Image/Page 1 ******
+	
+	
+A593 E496
+B548 F648	
+C830 G899	
+D840 H774	
+
+****** Result for Image/Page 2 ******
+	
+	
+	
+A544 E635
+B710 F533	
+C811 G752	
+D639 H812	
+
+
+****** Result for Image/Page 3 ******
+	
+		
+	A387 E396
+	B1037 F929	
+	C1063 G978	
+	D397 H460		
+
+****** Result for Image/Page 4 ******
+	
+	A476 E598
+	B528 F548	
+	C885 G811	
+	D698 H829	
+		
+	
+****** Result for Image/Page 5 ******
+	
+A676 E469
+B444 F462	
+C783 G901	
+D920 H727	
+****** Result for Image/Page 6 ******
+	
+A775 E690
+B608 F563	
+C576 G670	
+D728 H768	
+
+****** Result for Image/Page 7 ******
+	
+	
+A724 E575
+B540 F630	
+C639 G776	
+D783 H714	
+
+****** Result for Image/Page 8 ******
+	
+	A480 E708
+	B679 F471	
+	C885 G694	
+	D716 H860 	
+	
+
+****** Result for Image/Page 9 ******
+A693 E811
+B811 F753	
+C563 G555	
+D521 H621	
+	
+
+****** Result for Image/Page 10 ******
+A540 E446
+B771 F883	
+C822 G938	
+D576 H437	
+
+
+****** Result for Image/Page 11 ******
+A654 E911
+B769 F495	
+C721 G457	
+D564 H884	
+
+****** Result for Image/Page 12 ******
+A807 E869
+B599 F540	
+C552 G486	
+D752 H829	
+
+
+****** Result for Image/Page 13 ******
+A530 E452
+B594 F674	
+C860 G931	
+D794 H758	
+
+****** Result for Image/Page 14 ******
+A600 E595
+B513 F560	
+C830 G791	
+D870 H799	
+
+
+****** Result for Image/Page 15 ******
+A624 E597
+B490 F558	
+C814 G790	
+D885 H800	
+	
+
+****** Result for Image/Page 16 ******
+	
+A536 E589
+B620 F554	
+C845 G830	
+D761 H838	
+
+
+****** Result for Image/Page 17 ******
+A593 E427
+B542 F719	
+C824 G946	
+D838 H717	
+	
+
+****** Result for Image/Page 18 ******
+	
+	A553 E453
+	B595 F608	
+	C840 G908	
+	D787 H685	
+	
+
+****** Result for Image/Page 19 ******
+	
+	A696 E580
+	B541 F549	
+	C1145 G1357	
+	D1213 H1215	
+	
+
+****** Result for Image/Page 20 ******
+	
+	
+A787 E559
+B595 F867	
+C565 G820	
+D744 H459	
+
+****** Result for Image/Page 21 ******
+	
+	
+	A667 E540
+	B738 F919	
+	C695 G861	
+	D588 H410	
+	
+
+****** Result for Image/Page 22 ******
+	
+	A637 E721
+	B555 F648	
+	C737 G616	
+	D781 H680	
+	
+
+****** Result for Image/Page 23 ******
+A707 E513
+B609 F798	
+C643 G833	
+D716 H540	
+
+
+****** Result for Image/Page 24 ******
+A1077 E473
+B330 F869	
+C416 G890	
+D1100 H480	
+
+
+****** Result for Image/Page 25 ******
+A611 E523
+B528 F652	
+C794 G848	
+D832 H732	
+
+
+****** Result for Image/Page 26 ******
+	
+	
+A564 E787
+B596 F521	
+C560 G570	
+D761 H810	
+
+
+****** Result for Image/Page 27 ******
+	
+A708 E599
+B595 F619
+C641 G	752
+D725 H720	
